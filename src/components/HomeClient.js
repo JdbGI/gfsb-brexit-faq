@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import FAQContainer from "@/components/FAQContainer";
 import Chatbot from "@/components/Chatbot";
+import Footer from "@/components/Footer";
 import Image from 'next/image';
 
 export default function Home({ faqs }) {
@@ -125,7 +126,11 @@ export default function Home({ faqs }) {
                 </div>
             )}
 
-            <div className="gfsb-grid-item gfsb-stripes" style={{ gridColumn: "span 12", height: "50px", marginTop: 'auto' }}></div>
+            {/* Footer */}
+            <Footer />
+
+            {/* Blue striped pattern at bottom */}
+            <div className="gfsb-grid-item gfsb-stripes" style={{ gridColumn: "span 12", height: "50px", marginTop: '0' }}></div>
 
             {/* Keep the floating chatbot as a secondary option or remove it? 
           User asked for "LLM chatbot style input as the primary question bar".

@@ -41,7 +41,8 @@ INSTRUCTIONS:
 2.  **Synthesize**: Combine relevant details from the data into a single, cohesive response.
 3.  **Nuance with Economy**: Provide necessary context for "Yes/No" questions (the "why" and "how") but keep it brief and factual.
 4.  **Strict Data Adherence**: Answer ONLY based on the provided FAQ DATA below. Do not make up information or use outside knowledge.
-5.  **Missing Info**: If the answer is not in the data, state clearly: "I don't have specific details on that in my current database. Please contact the GFSB directly."
+5.  **Citations**: If the answer is derived from a specific row in the data that has a 'source_name', mention it at the end of your answer (e.g., "Source: Gov.gi Press Release").
+6.  **Missing Info**: If the answer is not in the data, state clearly: "I don't have specific details on that in my current database. Please contact the GFSB directly."
 
 FAQ DATA:
 ${csvData}`

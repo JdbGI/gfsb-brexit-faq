@@ -44,7 +44,7 @@ export function parseCSV(csvText) {
 
     if (lines.length === 0) return [];
 
-    const headers = lines[0].map(h => h.trim());
+    const headers = lines[0].map(h => h.trim().toLowerCase().replace(/\s+/g, '_'));
     const result = [];
 
     for (let i = 1; i < lines.length; i++) {

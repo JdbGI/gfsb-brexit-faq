@@ -1,7 +1,7 @@
 "use client";
 import { useState } from 'react';
 
-function FAQItem({ question, answer, category }) {
+function FAQItem({ question, answer, category, ...faq }) {
     const [isOpen, setIsOpen] = useState(false);
 
     return (
@@ -38,6 +38,26 @@ function FAQItem({ question, answer, category }) {
                         {category}
                     </div>
                     <p style={{ lineHeight: 1.6 }}>{answer}</p>
+                    {faq.source_name && faq.source_link && (
+                        <div style={{ marginTop: '1rem', paddingTop: '1rem', borderTop: '1px dashed var(--gfsb-black)' }}>
+                            <a
+                                href={faq.source_link}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                style={{
+                                    display: 'inline-flex',
+                                    alignItems: 'center',
+                                    gap: '0.5rem',
+                                    color: 'var(--gfsb-black)',
+                                    fontWeight: 'bold',
+                                    textDecoration: 'none',
+                                    fontSize: '0.9rem'
+                                }}
+                            >
+                                🔗 Source: <span style={{ textDecoration: 'underline' }}>{faq.source_name}</span>
+                            </a>
+                        </div>
+                    )}
                 </div>
             )}
         </div>
