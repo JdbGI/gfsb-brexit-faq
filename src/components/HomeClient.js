@@ -1,15 +1,13 @@
 "use client";
 
 import { useState } from 'react';
-import FAQContainer from "@/components/FAQContainer";
-import Chatbot from "@/components/Chatbot";
 import Footer from "@/components/Footer";
 import Image from 'next/image';
 
-export default function Home({ faqs }) {
-    const [showFaqs, setShowFaqs] = useState(false);
+export default function Home() {
     const [chatInput, setChatInput] = useState('');
     const [chatResponse, setChatResponse] = useState(null);
+    const [sourcesUsed, setSourcesUsed] = useState([]);
     const [isTyping, setIsTyping] = useState(false);
 
     const handleHeroSearch = async (e) => {
@@ -18,6 +16,7 @@ export default function Home({ faqs }) {
 
         setIsTyping(true);
         setChatResponse(null);
+        setSourcesUsed([]);
 
         try {
             const response = await fetch('/api/chat', {
@@ -27,6 +26,7 @@ export default function Home({ faqs }) {
             });
             const data = await response.json();
             setChatResponse(data.reply);
+            setSourcesUsed(data.sourcesUsed || []);
         } catch (error) {
             setChatResponse("Sorry, I encountered an error. Please try again.");
         } finally {
@@ -37,7 +37,7 @@ export default function Home({ faqs }) {
     return (
         <main className="gfsb-grid-container" style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
             {/* Hero Section */}
-            <div className="gfsb-grid-item" style={{ gridColumn: "span 12", padding: "4rem 2rem", borderBottom: "1px solid var(--gfsb-black)", flex: showFaqs ? '0 0 auto' : '1', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', transition: 'all 0.5s ease' }}>
+            <div className="gfsb-grid-item" style={{ gridColumn: "span 12", padding: "4rem 2rem", borderBottom: "1px solid var(--gfsb-black)", flex: '1', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center' }}>
 
                 <div style={{ marginBottom: '2rem', position: 'relative', width: '300px', height: '100px' }}>
                     <Image
@@ -49,15 +49,20 @@ export default function Home({ faqs }) {
                     />
                 </div>
 
-                <h1 style={{ fontSize: "3rem", textTransform: "uppercase", textAlign: 'center', marginBottom: '2rem' }}>
+                <h1 style={{ fontSize: "3rem", textTransform: "uppercase", textAlign: 'center', marginBottom: '1rem' }}>
                     Gibraltar Brexit<br />Information Center
                 </h1>
+
+                <p style={{ textAlign: 'center', maxWidth: '600px', marginBottom: '2rem', opacity: 0.8, fontSize: '1.1rem' }}>
+                    Ask questions about Gibraltar-EU relations, treaties, and Brexit implications.
+                    Answers are sourced from official documents and will cite their origins.
+                </p>
 
                 <form onSubmit={handleHeroSearch} style={{ width: '100%', maxWidth: '600px', display: 'flex', flexDirection: 'column', gap: '1rem' }}>
                     <div style={{ display: 'flex' }}>
                         <input
                             type="text"
-                            placeholder="Ask a question about the deal..."
+                            placeholder="Ask a question..."
                             value={chatInput}
                             onChange={(e) => setChatInput(e.target.value)}
                             style={{
@@ -97,46 +102,44 @@ export default function Home({ faqs }) {
                         border: '2px solid var(--gfsb-black)',
                         boxShadow: '8px 8px 0 rgba(0,0,0,1)'
                     }}>
-                        <h3 style={{ borderBottom: '1px solid black', paddingBottom: '0.5rem', marginBottom: '1rem' }}>AI Answer:</h3>
-                        {isTyping ? <p>Thinking...</p> : <p style={{ lineHeight: 1.6 }}>{chatResponse}</p>}
+                        <h3 style={{ borderBottom: '1px solid black', paddingBottom: '0.5rem', marginBottom: '1rem' }}>Answer:</h3>
+                        {isTyping ? (
+                            <p>Searching sources...</p>
+                        ) : (
+                            <>
+                                <div style={{ lineHeight: 1.7, whiteSpace: 'pre-wrap' }}>{chatResponse}</div>
+
+                                {/* Sources Used */}
+                                {sourcesUsed.length > 0 && (
+                                    <div style={{ marginTop: '1.5rem', paddingTop: '1rem', borderTop: '1px dashed #ccc' }}>
+                                        <strong style={{ fontSize: '0.9rem', color: '#666' }}>Sources searched ({sourcesUsed.length}):</strong>
+                                        <ul style={{ margin: '0.5rem 0 0 1rem', fontSize: '0.85rem', color: '#666' }}>
+                                            {sourcesUsed.map((source, i) => (
+                                                <li key={i}>
+                                                    {source.name}
+                                                    {source.date && ` (${source.date})`}
+                                                    {source.link && (
+                                                        <a href={source.link} target="_blank" rel="noopener noreferrer" style={{ marginLeft: '0.25rem', color: '#0066cc' }}>
+                                                            [link]
+                                                        </a>
+                                                    )}
+                                                    <span style={{ opacity: 0.5 }}> — {(source.score * 100).toFixed(0)}% match</span>
+                                                </li>
+                                            ))}
+                                        </ul>
+                                    </div>
+                                )}
+                            </>
+                        )}
                     </div>
                 )}
-
-                <button
-                    onClick={() => setShowFaqs(!showFaqs)}
-                    style={{
-                        marginTop: '3rem',
-                        background: 'transparent',
-                        border: '1px solid var(--gfsb-black)',
-                        padding: '1rem 2rem',
-                        cursor: 'pointer',
-                        fontWeight: 'bold',
-                        textTransform: 'uppercase',
-                        letterSpacing: '1px'
-                    }}
-                >
-                    {showFaqs ? 'Hide Full Database ↑' : 'Browse Full FAQ Database ↓'}
-                </button>
             </div>
-
-            {/* FAQ List Section */}
-            {showFaqs && (
-                <div className="gfsb-grid-item" style={{ gridColumn: "span 12", padding: 0, animation: 'fadeIn 0.5s' }}>
-                    <FAQContainer initialFaqs={faqs} />
-                </div>
-            )}
 
             {/* Footer */}
             <Footer />
 
             {/* Blue striped pattern at bottom */}
             <div className="gfsb-grid-item gfsb-stripes" style={{ gridColumn: "span 12", height: "50px", marginTop: '0' }}></div>
-
-            {/* Keep the floating chatbot as a secondary option or remove it? 
-          User asked for "LLM chatbot style input as the primary question bar".
-          I will keep it hidden if the main input is used, or just remove it to avoid confusion.
-          For now, I'll remove the floating widget since the main UI is now the chatbot.
-      */}
         </main>
     );
 }
