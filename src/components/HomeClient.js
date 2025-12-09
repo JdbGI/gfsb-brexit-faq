@@ -54,7 +54,7 @@ export default function Home() {
                 </h1>
 
                 <p style={{ textAlign: 'center', maxWidth: '600px', marginBottom: '1rem', opacity: 0.8, fontSize: 'clamp(0.85rem, 2.5vw, 1.1rem)', padding: '0 0.5rem' }}>
-                    This AI-powered GFSB Brexit Information Centre allows you to ask questions about the Gibraltar-UK_EU Brexit Treaty and negotiation and receive answers drawn solely from information already in the public domain. Sources include official Government of Gibraltar press releases, transcripts of interviews and media appearances by HMGOG Ministers and officials, and reporting or statements made by HMGOG Ministers and officials in the press.
+                    This AI-powered GFSB Brexit Information Centre lets you ask questions about the Gibraltar-UK-EU Brexit Treaty and negotiations, providing answers based solely on publicly available information. Sources include official Government of Gibraltar press releases, transcripts of interviews and media appearances by HMGOG Ministers and officials, and reporting or statements made by HMGOG Ministers and officials in the press.
                 </p>
 
                 <form onSubmit={handleHeroSearch} style={{ width: '100%', maxWidth: '600px', display: 'flex', flexDirection: 'column', gap: '0.75rem', padding: '0 0.5rem' }}>
