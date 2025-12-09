@@ -35,9 +35,9 @@ export default function Home() {
     };
 
     return (
-        <main className="gfsb-grid-container" style={{ height: '100vh', display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
+        <main className="gfsb-grid-container" style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column', overflow: 'auto' }}>
             {/* Hero Section */}
-            <div className="gfsb-grid-item" style={{ gridColumn: "span 12", padding: "2rem 1rem", borderBottom: "1px solid var(--gfsb-black)", flex: '1', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', minHeight: 0, overflow: 'auto' }}>
+            <div className="gfsb-grid-item" style={{ gridColumn: "span 12", padding: "2rem 1rem", borderBottom: "1px solid var(--gfsb-black)", flex: '1', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center' }}>
 
                 <div style={{ marginBottom: '1rem', position: 'relative', width: '200px', height: '70px' }}>
                     <Image
