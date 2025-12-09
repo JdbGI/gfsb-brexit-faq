@@ -50,12 +50,11 @@ export default function Home() {
                 </div>
 
                 <h1 style={{ fontSize: 'clamp(1.5rem, 5vw, 3rem)', textTransform: "uppercase", textAlign: 'center', marginBottom: '0.75rem', lineHeight: 1.1 }}>
-                    Gibraltar Brexit<br />Information Center
+                    GFSB Brexit FAQ –<br />Information Centre
                 </h1>
 
                 <p style={{ textAlign: 'center', maxWidth: '600px', marginBottom: '1rem', opacity: 0.8, fontSize: 'clamp(0.85rem, 2.5vw, 1.1rem)', padding: '0 0.5rem' }}>
-                    Ask questions about Gibraltar-EU relations, treaties, and Brexit implications.
-                    Answers are sourced from official documents and will cite their origins.
+                    This AI-powered GFSB Brexit Information Centre allows you to ask questions about the Gibraltar-UK_EU Brexit Treaty and negotiation and receive answers drawn solely from information already in the public domain. Sources include official Government of Gibraltar press releases, transcripts of interviews and media appearances by HMGOG Ministers and officials, and reporting or statements made by HMGOG Ministers and officials in the press.
                 </p>
 
                 <form onSubmit={handleHeroSearch} style={{ width: '100%', maxWidth: '600px', display: 'flex', flexDirection: 'column', gap: '0.75rem', padding: '0 0.5rem' }}>
@@ -90,6 +89,18 @@ export default function Home() {
                         </button>
                     </div>
                 </form>
+
+                <div style={{ maxWidth: '600px', marginTop: '1.5rem', padding: '0 0.5rem' }}>
+                    <p style={{ fontSize: '0.75rem', color: '#666', marginBottom: '0.5rem' }}>
+                        Brexit information continues to evolve, and the data on which this tool relies will be updated from time to time. You should double-check any answer against the original source material.
+                    </p>
+                    <p style={{ fontSize: '0.75rem', color: '#666', marginBottom: '0.5rem' }}>
+                        Please note that the answers provided are for general information only and do not constitute legal advice. Users should take care before relying on them.
+                    </p>
+                    <p style={{ fontSize: '0.75rem', color: '#666' }}>
+                        You can also check out our other Brexit resources at <a href="https://www.gfsb.gi/benefits/brexit/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--gfsb-cyan)', textDecoration: 'underline' }}>https://www.gfsb.gi/benefits/brexit/</a>
+                    </p>
+                </div>
 
                 {/* AI Response Area */}
                 {(chatResponse || isTyping) && (

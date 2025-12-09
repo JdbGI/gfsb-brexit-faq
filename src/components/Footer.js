@@ -40,42 +40,56 @@ export default function Footer() {
                 }}
             />
 
-            {/* Barton Logo with subtle animation */}
-            <div
+            <a
+                href="https://www.barton.gi"
+                target="_blank"
+                rel="noopener noreferrer"
                 style={{
-                    position: 'relative',
-                    width: '150px',
-                    height: '45px',
-                    transform: isHovered ? 'scale(1.05)' : 'scale(1)',
-                    transition: 'transform 0.4s cubic-bezier(0.4, 0, 0.2, 1)',
+                    textDecoration: 'none',
+                    display: 'flex',
+                    flexDirection: 'column',
+                    alignItems: 'center',
+                    gap: '0.75rem',
+                    cursor: 'pointer'
                 }}
             >
-                <Image
-                    src="/barton-logo.png"
-                    alt="Barton Solutions Logo"
-                    fill
+                {/* Barton Logo with subtle animation */}
+                <div
                     style={{
-                        objectFit: 'contain',
-                        transition: 'filter 0.4s ease'
+                        position: 'relative',
+                        width: '150px',
+                        height: '45px',
+                        transform: isHovered ? 'scale(1.05)' : 'scale(1)',
+                        transition: 'transform 0.4s cubic-bezier(0.4, 0, 0.2, 1)',
                     }}
-                />
-            </div>
+                >
+                    <Image
+                        src="/barton-logo.png"
+                        alt="Barton Solutions Logo"
+                        fill
+                        style={{
+                            objectFit: 'contain',
+                            transition: 'filter 0.4s ease'
+                        }}
+                    />
+                </div>
 
-            {/* Text with subtle fade-in animation */}
-            <p
-                style={{
-                    fontSize: '0.95rem',
-                    fontWeight: '500',
-                    letterSpacing: '0.5px',
-                    color: 'var(--gfsb-black)',
-                    textAlign: 'center',
-                    opacity: isHovered ? 1 : 0.85,
-                    transition: 'opacity 0.4s ease',
-                    margin: 0
-                }}
-            >
-                Built for the <strong>GFSB</strong> by <strong>Barton Solutions</strong>
-            </p>
+                {/* Text with subtle fade-in animation */}
+                <p
+                    style={{
+                        fontSize: '0.95rem',
+                        fontWeight: '500',
+                        letterSpacing: '0.5px',
+                        color: 'var(--gfsb-black)',
+                        textAlign: 'center',
+                        opacity: isHovered ? 1 : 0.85,
+                        transition: 'opacity 0.4s ease',
+                        margin: 0
+                    }}
+                >
+                    Built for the <strong>GFSB</strong> by <strong>Barton Solutions</strong>, at no cost.
+                </p>
+            </a>
 
             {/* Decorative element */}
             <div
