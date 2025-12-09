@@ -90,17 +90,7 @@ export default function Home() {
                     </div>
                 </form>
 
-                <div style={{ maxWidth: '600px', marginTop: '1.5rem', padding: '0 0.5rem' }}>
-                    <p style={{ fontSize: '0.75rem', color: '#666', marginBottom: '0.5rem' }}>
-                        Brexit information continues to evolve, and the data on which this tool relies will be updated from time to time. You should double-check any answer against the original source material.
-                    </p>
-                    <p style={{ fontSize: '0.75rem', color: '#666', marginBottom: '0.5rem' }}>
-                        Please note that the answers provided are for general information only and do not constitute legal advice. Users should take care before relying on them.
-                    </p>
-                    <p style={{ fontSize: '0.75rem', color: '#666' }}>
-                        You can also check out our other Brexit resources <a href="https://www.gfsb.gi/benefits/brexit/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--gfsb-black)', textDecoration: 'underline' }}>here</a>.
-                    </p>
-                </div>
+
 
                 {/* AI Response Area */}
                 {(chatResponse || isTyping) && (
@@ -144,6 +134,18 @@ export default function Home() {
                         )}
                     </div>
                 )}
+
+                <div style={{ maxWidth: '600px', marginTop: '1.5rem', padding: '0 0.5rem' }}>
+                    <p style={{ fontSize: '0.75rem', color: '#666', marginBottom: '0.5rem' }}>
+                        Brexit information continues to evolve, and the data on which this tool relies will be updated from time to time. You should double-check any answer against the original source material.
+                    </p>
+                    <p style={{ fontSize: '0.75rem', color: '#666', marginBottom: '0.5rem' }}>
+                        Please note that the answers provided are for general information only and do not constitute legal advice. Users should take care before relying on them.
+                    </p>
+                    <p style={{ fontSize: '0.75rem', color: '#666' }}>
+                        You can also check out our other Brexit resources <a href="https://www.gfsb.gi/benefits/brexit/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--gfsb-black)', textDecoration: 'underline' }}>here</a>.
+                    </p>
+                </div>
             </div>
 
             {/* Footer */}
