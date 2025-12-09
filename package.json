@@ -11,7 +11,7 @@
   "dependencies": {
     "@qdrant/js-client-rest": "^1.16.2",
     "gray-matter": "^4.0.3",
-    "next": "16.0.6",
+    "next": "16.0.7",
     "openai": "^6.9.1",
     "react": "19.2.0",
     "react-dom": "19.2.0"
