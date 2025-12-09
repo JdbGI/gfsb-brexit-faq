@@ -35,11 +35,11 @@ export default function Home() {
     };
 
     return (
-        <main className="gfsb-grid-container" style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
+        <main className="gfsb-grid-container" style={{ height: '100vh', display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
             {/* Hero Section */}
-            <div className="gfsb-grid-item" style={{ gridColumn: "span 12", padding: "4rem 2rem", borderBottom: "1px solid var(--gfsb-black)", flex: '1', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center' }}>
+            <div className="gfsb-grid-item" style={{ gridColumn: "span 12", padding: "2rem 1rem", borderBottom: "1px solid var(--gfsb-black)", flex: '1', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', minHeight: 0, overflow: 'auto' }}>
 
-                <div style={{ marginBottom: '2rem', position: 'relative', width: '300px', height: '100px' }}>
+                <div style={{ marginBottom: '1rem', position: 'relative', width: '200px', height: '70px' }}>
                     <Image
                         src="/images/gfsb-logo.png"
                         alt="GFSB Logo"
@@ -49,16 +49,16 @@ export default function Home() {
                     />
                 </div>
 
-                <h1 style={{ fontSize: "3rem", textTransform: "uppercase", textAlign: 'center', marginBottom: '1rem' }}>
+                <h1 style={{ fontSize: 'clamp(1.5rem, 5vw, 3rem)', textTransform: "uppercase", textAlign: 'center', marginBottom: '0.75rem', lineHeight: 1.1 }}>
                     Gibraltar Brexit<br />Information Center
                 </h1>
 
-                <p style={{ textAlign: 'center', maxWidth: '600px', marginBottom: '2rem', opacity: 0.8, fontSize: '1.1rem' }}>
+                <p style={{ textAlign: 'center', maxWidth: '600px', marginBottom: '1rem', opacity: 0.8, fontSize: 'clamp(0.85rem, 2.5vw, 1.1rem)', padding: '0 0.5rem' }}>
                     Ask questions about Gibraltar-EU relations, treaties, and Brexit implications.
                     Answers are sourced from official documents and will cite their origins.
                 </p>
 
-                <form onSubmit={handleHeroSearch} style={{ width: '100%', maxWidth: '600px', display: 'flex', flexDirection: 'column', gap: '1rem' }}>
+                <form onSubmit={handleHeroSearch} style={{ width: '100%', maxWidth: '600px', display: 'flex', flexDirection: 'column', gap: '0.75rem', padding: '0 0.5rem' }}>
                     <div style={{ display: 'flex' }}>
                         <input
                             type="text"
@@ -67,8 +67,8 @@ export default function Home() {
                             onChange={(e) => setChatInput(e.target.value)}
                             style={{
                                 flex: 1,
-                                padding: '1.5rem',
-                                fontSize: '1.2rem',
+                                padding: '1rem',
+                                fontSize: '1rem',
                                 border: '2px solid var(--gfsb-black)',
                                 borderRadius: 0
                             }}
@@ -77,12 +77,12 @@ export default function Home() {
                             type="submit"
                             disabled={isTyping}
                             style={{
-                                padding: '0 2rem',
+                                padding: '0 1.5rem',
                                 background: 'var(--gfsb-black)',
                                 color: 'var(--gfsb-white)',
                                 border: 'none',
                                 fontWeight: 'bold',
-                                fontSize: '1.2rem',
+                                fontSize: '1rem',
                                 cursor: 'pointer'
                             }}
                         >
@@ -139,7 +139,7 @@ export default function Home() {
             <Footer />
 
             {/* Blue striped pattern at bottom */}
-            <div className="gfsb-grid-item gfsb-stripes" style={{ gridColumn: "span 12", height: "50px", marginTop: '0' }}></div>
+            <div className="gfsb-grid-item gfsb-stripes" style={{ gridColumn: "span 12", height: "30px", marginTop: '0', flexShrink: 0 }}></div>
         </main>
     );
 }

@@ -10,16 +10,17 @@ export default function Footer() {
         <footer
             style={{
                 gridColumn: 'span 12',
-                padding: '3rem 2rem',
+                padding: '1.5rem 1rem',
                 borderTop: '2px solid var(--gfsb-black)',
                 background: 'var(--gfsb-cyan)',
                 display: 'flex',
                 flexDirection: 'column',
                 alignItems: 'center',
                 justifyContent: 'center',
-                gap: '1.5rem',
+                gap: '0.75rem',
                 position: 'relative',
-                overflow: 'hidden'
+                overflow: 'hidden',
+                flexShrink: 0
             }}
             onMouseEnter={() => setIsHovered(true)}
             onMouseLeave={() => setIsHovered(false)}
@@ -43,8 +44,8 @@ export default function Footer() {
             <div
                 style={{
                     position: 'relative',
-                    width: '200px',
-                    height: '60px',
+                    width: '150px',
+                    height: '45px',
                     transform: isHovered ? 'scale(1.05)' : 'scale(1)',
                     transition: 'transform 0.4s cubic-bezier(0.4, 0, 0.2, 1)',
                 }}
