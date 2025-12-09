@@ -98,7 +98,7 @@ export default function Home() {
                         Please note that the answers provided are for general information only and do not constitute legal advice. Users should take care before relying on them.
                     </p>
                     <p style={{ fontSize: '0.75rem', color: '#666' }}>
-                        You can also check out our other Brexit resources at <a href="https://www.gfsb.gi/benefits/brexit/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--gfsb-cyan)', textDecoration: 'underline' }}>https://www.gfsb.gi/benefits/brexit/</a>
+                        You can also check out our other Brexit resources <a href="https://www.gfsb.gi/benefits/brexit/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--gfsb-black)', textDecoration: 'underline' }}>here</a>.
                     </p>
                 </div>
 
