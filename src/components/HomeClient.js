@@ -50,7 +50,7 @@ export default function Home() {
                 </div>
 
                 <h1 style={{ fontSize: 'clamp(1.5rem, 5vw, 3rem)', textTransform: "uppercase", textAlign: 'center', marginBottom: '0.75rem', lineHeight: 1.1 }}>
-                    GFSB Brexit FAQ –<br />Information Centre
+                    GFSB Brexit Q&amp;A –<br />Information Centre
                 </h1>
 
                 <p style={{ textAlign: 'center', maxWidth: '600px', marginBottom: '1rem', opacity: 0.8, fontSize: 'clamp(0.85rem, 2.5vw, 1.1rem)', padding: '0 0.5rem' }}>
