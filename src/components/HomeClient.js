@@ -10,6 +10,30 @@ export default function Home() {
     const [sourcesUsed, setSourcesUsed] = useState([]);
     const [isTyping, setIsTyping] = useState(false);
 
+    // Helper function to convert URLs in text to clickable links
+    const linkifyText = (text) => {
+        if (!text) return null;
+        const urlRegex = /(https?:\/\/[^\s]+)/g;
+        const parts = text.split(urlRegex);
+
+        return parts.map((part, index) => {
+            if (part.match(urlRegex)) {
+                return (
+                    <a
+                        key={index}
+                        href={part}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        style={{ color: 'var(--gfsb-black)', textDecoration: 'underline', fontWeight: 'bold' }}
+                    >
+                        {part}
+                    </a>
+                );
+            }
+            return part;
+        });
+    };
+
     const handleHeroSearch = async (e) => {
         e.preventDefault();
         if (!chatInput.trim()) return;
@@ -108,7 +132,7 @@ export default function Home() {
                             <p>Searching sources...</p>
                         ) : (
                             <>
-                                <div style={{ lineHeight: 1.7, whiteSpace: 'pre-wrap' }}>{chatResponse}</div>
+                                <div style={{ lineHeight: 1.7, whiteSpace: 'pre-wrap' }}>{linkifyText(chatResponse)}</div>
 
                                 {/* Sources Used */}
                                 {sourcesUsed.length > 0 && (
