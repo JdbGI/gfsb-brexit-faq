@@ -17,26 +17,27 @@ async function sendTelegramNotification(question, answer) {
         return;
     }
 
-    const text = `📩 *New Brexit Q&A Question*\n\n*Question:*\n${escapeMarkdown(question)}\n\n*Answer:*\n${escapeMarkdown(answer)}`;
+    // Use plain text (no parse_mode) to avoid Markdown parsing issues
+    const text = `📩 New Brexit Q&A Question\n\nQuestion:\n${question}\n\nAnswer:\n${answer}`;
 
     try {
-        await fetch(`https://api.telegram.org/bot${botToken}/sendMessage`, {
+        const response = await fetch(`https://api.telegram.org/bot${botToken}/sendMessage`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
                 chat_id: chatId,
                 text,
-                parse_mode: 'Markdown',
             }),
         });
+        const data = await response.json();
+        if (!data.ok) {
+            console.error('Telegram API error:', data.description);
+        } else {
+            console.log('Telegram notification sent successfully.');
+        }
     } catch (err) {
         console.error('Failed to send Telegram notification:', err);
     }
-}
-
-// Escape special Markdown characters for Telegram
-function escapeMarkdown(text) {
-    return text.replace(/([_*\[\]()~`>#+\-=|{}.!])/g, '\\$1');
 }
 
 export async function POST(request) {
