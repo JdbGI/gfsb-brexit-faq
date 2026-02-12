@@ -68,33 +68,9 @@ export default function Home() {
                     href="https://gfsb.gi/join-gfsb/"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{
-                        position: 'absolute',
-                        top: '2rem',
-                        right: '2rem',
-                        padding: '1rem 2rem',
-                        background: 'transparent',
-                        color: 'var(--gfsb-black)',
-                        textDecoration: 'none',
-                        fontWeight: '900',
-                        fontSize: '1.5rem',
-                        border: '3px solid var(--gfsb-black)',
-                        transition: 'all 0.2s ease',
-                        cursor: 'pointer',
-                        zIndex: 10,
-                        textTransform: 'uppercase',
-                        letterSpacing: '0.05em'
-                    }}
-                    onMouseEnter={(e) => {
-                        e.target.style.background = 'var(--gfsb-black)';
-                        e.target.style.color = 'var(--gfsb-white)';
-                    }}
-                    onMouseLeave={(e) => {
-                        e.target.style.background = 'transparent';
-                        e.target.style.color = 'var(--gfsb-black)';
-                    }}
+                    className="join-gfsb-btn"
                 >
-                    JOIN THE GFSB
+                    Join the GFSB
                 </a>
 
                 <div style={{ marginBottom: '1rem', position: 'relative', width: '200px', height: '70px' }}>

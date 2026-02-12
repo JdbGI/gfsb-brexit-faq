@@ -194,3 +194,58 @@ a {
       transparent);
   background-size: 10px 10px;
 }
+
+/* Join the GFSB Button */
+.join-gfsb-btn {
+  display: inline-block;
+  padding: 1rem 2rem;
+  background: var(--gfsb-black);
+  color: var(--gfsb-white);
+  text-decoration: none;
+  font-family: var(--font-helvetica);
+  font-weight: 900;
+  font-size: 1rem;
+  border: 3px solid var(--gfsb-black);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.3);
+  z-index: 10;
+}
+
+.join-gfsb-btn:hover {
+  background: var(--gfsb-white);
+  color: var(--gfsb-black);
+  box-shadow: 6px 6px 0 rgba(0, 0, 0, 0.4);
+  transform: translate(-2px, -2px);
+}
+
+.join-gfsb-btn:active {
+  box-shadow: 2px 2px 0 rgba(0, 0, 0, 0.3);
+  transform: translate(1px, 1px);
+}
+
+/* Desktop: position top-right */
+@media (min-width: 641px) {
+  .join-gfsb-btn {
+    position: absolute;
+    top: 1.5rem;
+    right: 1.5rem;
+    font-size: 1.1rem;
+    padding: 1rem 2rem;
+  }
+}
+
+/* Mobile: inline, full-width CTA */
+@media (max-width: 640px) {
+  .join-gfsb-btn {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    padding: 1rem 1.5rem;
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.3);
+  }
+}
