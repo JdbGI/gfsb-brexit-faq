@@ -12,16 +12,25 @@ async function sendTelegramNotification(question, answer) {
     const botToken = process.env.TELEGRAM_BOT_TOKEN;
     const chatId = process.env.TELEGRAM_CHAT_ID;
 
+    console.log('[Telegram] Attempting to send notification...');
+    console.log('[Telegram] Bot token present:', !!botToken);
+    console.log('[Telegram] Chat ID present:', !!chatId);
+    if (chatId) console.log('[Telegram] Chat ID value:', chatId);
+
     if (!botToken || !chatId) {
-        console.warn('Telegram bot token or chat ID not configured, skipping notification.');
+        console.warn('[Telegram] Bot token or chat ID not configured, skipping notification.');
         return;
     }
 
-    // Use plain text (no parse_mode) to avoid Markdown parsing issues
-    const text = `📩 New Brexit Q&A Question\n\nQuestion:\n${question}\n\nAnswer:\n${answer}`;
+    // Truncate answer if too long for Telegram (max 4096 chars)
+    const maxLen = 3500;
+    const truncatedAnswer = answer.length > maxLen ? answer.substring(0, maxLen) + '... [truncated]' : answer;
+    const text = `📩 New Brexit Q&A Question\n\nQuestion:\n${question}\n\nAnswer:\n${truncatedAnswer}`;
 
     try {
-        const response = await fetch(`https://api.telegram.org/bot${botToken}/sendMessage`, {
+        const url = `https://api.telegram.org/bot${botToken}/sendMessage`;
+        console.log('[Telegram] Sending to URL:', url.replace(botToken, 'BOT_TOKEN_HIDDEN'));
+        const response = await fetch(url, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
@@ -30,13 +39,15 @@ async function sendTelegramNotification(question, answer) {
             }),
         });
         const data = await response.json();
+        console.log('[Telegram] API response status:', response.status);
+        console.log('[Telegram] API response body:', JSON.stringify(data));
         if (!data.ok) {
-            console.error('Telegram API error:', data.description);
+            console.error('[Telegram] API error:', data.error_code, data.description);
         } else {
-            console.log('Telegram notification sent successfully.');
+            console.log('[Telegram] Notification sent successfully!');
         }
     } catch (err) {
-        console.error('Failed to send Telegram notification:', err);
+        console.error('[Telegram] Failed to send notification:', err.message, err.stack);
     }
 }
 
@@ -58,8 +69,8 @@ export async function POST(request) {
 
         if (relevantSources.length === 0) {
             const noSourcesReply = "Our Q&A sources do not have any information relating to that enquiry right now. You can stay up to date on this issue, and other issues affecting Gibraltar businesses, by subscribing to the GFSB weekly newsletter: https://gfsb.glueup.com/org/gfsb/subscriptions/?fbclid=IwdGRjcAN_-EBjbGNrA3_4NmV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHoxCB376i4dKW6zkt7I-6K7lL4nUZrRwIY_vg3gp25cGsT1JGo0FGd1hTMLs_aem_TL0brPLlmRY6u3_0iNSw0g";
-            // Fire-and-forget: send to Telegram without blocking
-            sendTelegramNotification(message, noSourcesReply);
+            // Await Telegram notification to ensure it completes before serverless shutdown
+            await sendTelegramNotification(message, noSourcesReply);
             return NextResponse.json({
                 reply: noSourcesReply,
                 sourcesUsed: []
@@ -119,8 +130,8 @@ ${sourcesContext}`
 
         const reply = completion.choices[0].message.content;
 
-        // Fire-and-forget: send to Telegram without blocking
-        sendTelegramNotification(message, reply);
+        // Await Telegram notification to ensure it completes before serverless shutdown
+        await sendTelegramNotification(message, reply);
 
         return NextResponse.json({
             reply,
