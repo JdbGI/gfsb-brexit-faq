@@ -7,6 +7,38 @@ const openai = new OpenAI({
     apiKey: process.env.OPENAI_API_KEY || 'dummy-key',
 });
 
+// Send a notification to the Telegram group chat
+async function sendTelegramNotification(question, answer) {
+    const botToken = process.env.TELEGRAM_BOT_TOKEN;
+    const chatId = process.env.TELEGRAM_CHAT_ID;
+
+    if (!botToken || !chatId) {
+        console.warn('Telegram bot token or chat ID not configured, skipping notification.');
+        return;
+    }
+
+    const text = `📩 *New Brexit Q&A Question*\n\n*Question:*\n${escapeMarkdown(question)}\n\n*Answer:*\n${escapeMarkdown(answer)}`;
+
+    try {
+        await fetch(`https://api.telegram.org/bot${botToken}/sendMessage`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                chat_id: chatId,
+                text,
+                parse_mode: 'Markdown',
+            }),
+        });
+    } catch (err) {
+        console.error('Failed to send Telegram notification:', err);
+    }
+}
+
+// Escape special Markdown characters for Telegram
+function escapeMarkdown(text) {
+    return text.replace(/([_*\[\]()~`>#+\-=|{}.!])/g, '\\$1');
+}
+
 export async function POST(request) {
     try {
         const { message } = await request.json();
@@ -24,8 +56,11 @@ export async function POST(request) {
         console.log(`Found ${relevantSources.length} relevant sources`);
 
         if (relevantSources.length === 0) {
+            const noSourcesReply = "Our Q&A sources do not have any information relating to that enquiry right now. You can stay up to date on this issue, and other issues affecting Gibraltar businesses, by subscribing to the GFSB weekly newsletter: https://gfsb.glueup.com/org/gfsb/subscriptions/?fbclid=IwdGRjcAN_-EBjbGNrA3_4NmV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHoxCB376i4dKW6zkt7I-6K7lL4nUZrRwIY_vg3gp25cGsT1JGo0FGd1hTMLs_aem_TL0brPLlmRY6u3_0iNSw0g";
+            // Fire-and-forget: send to Telegram without blocking
+            sendTelegramNotification(message, noSourcesReply);
             return NextResponse.json({
-                reply: "Our Q&A sources do not have any information relating to that enquiry right now. You can stay up to date on this issue, and other issues affecting Gibraltar businesses, by subscribing to the GFSB weekly newsletter: https://gfsb.glueup.com/org/gfsb/subscriptions/?fbclid=IwdGRjcAN_-EBjbGNrA3_4NmV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHoxCB376i4dKW6zkt7I-6K7lL4nUZrRwIY_vg3gp25cGsT1JGo0FGd1hTMLs_aem_TL0brPLlmRY6u3_0iNSw0g",
+                reply: noSourcesReply,
                 sourcesUsed: []
             });
         }
@@ -82,6 +117,9 @@ ${sourcesContext}`
         });
 
         const reply = completion.choices[0].message.content;
+
+        // Fire-and-forget: send to Telegram without blocking
+        sendTelegramNotification(message, reply);
 
         return NextResponse.json({
             reply,

@@ -61,7 +61,41 @@ export default function Home() {
     return (
         <main className="gfsb-grid-container" style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column', overflow: 'auto' }}>
             {/* Hero Section */}
-            <div className="gfsb-grid-item" style={{ gridColumn: "span 12", padding: "2rem 1rem", borderBottom: "1px solid var(--gfsb-black)", flex: '1', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center' }}>
+            <div className="gfsb-grid-item" style={{ gridColumn: "span 12", padding: "2rem 1rem", borderBottom: "1px solid var(--gfsb-black)", flex: '1', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', position: 'relative' }}>
+
+                {/* Join the GFSB Button */}
+                <a
+                    href="https://gfsb.gi/join-gfsb/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{
+                        position: 'absolute',
+                        top: '2rem',
+                        right: '2rem',
+                        padding: '1rem 2rem',
+                        background: 'transparent',
+                        color: 'var(--gfsb-black)',
+                        textDecoration: 'none',
+                        fontWeight: '900',
+                        fontSize: '1.5rem',
+                        border: '3px solid var(--gfsb-black)',
+                        transition: 'all 0.2s ease',
+                        cursor: 'pointer',
+                        zIndex: 10,
+                        textTransform: 'uppercase',
+                        letterSpacing: '0.05em'
+                    }}
+                    onMouseEnter={(e) => {
+                        e.target.style.background = 'var(--gfsb-black)';
+                        e.target.style.color = 'var(--gfsb-white)';
+                    }}
+                    onMouseLeave={(e) => {
+                        e.target.style.background = 'transparent';
+                        e.target.style.color = 'var(--gfsb-black)';
+                    }}
+                >
+                    JOIN THE GFSB
+                </a>
 
                 <div style={{ marginBottom: '1rem', position: 'relative', width: '200px', height: '70px' }}>
                     <Image
