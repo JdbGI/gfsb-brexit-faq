@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Large treaty JSON (already ingested into Qdrant)
+UK-EU-Agreement-in-respect-of-Gibraltar-894888f6.pdf.json
