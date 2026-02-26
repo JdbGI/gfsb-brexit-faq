@@ -1,0 +1,945 @@
+=== DOCUMENT METADATA ===
+Source Name: GBC: Viewpoint Episode 17 'Treaty: Let's get doen to business'
+Source Date: 2026-02-05
+Source Link: https://www.gbc.gi/tv/programmes/viewpoint/episode/s12-e17
+Created At:  2026-02-12T09:32:15.372Z
+Qdrant ID:   1770888735015
+Chunks:      22
+========================
+- Tonight on Viewpoint, the countdown begins to the implementation of the treaty and a new way of doing business for Gibraltar.
+
+- A new customs arrangement between Gibraltar and the EU will introduce a transaction tax, alongside excise duty on key goods.
+
+- But what will that mean in practise for local businesses? And what are the challenges and the opportunities that lie ahead?
+
+- Join our panel and live audience for tonight's debate. Let's get down to business.
+
+- Hello and welcome to tonight's Viewpoint Special. 90 minutes of a live studio audience. We're talking about the new treaty and more specifically, what it means for Gibraltar's businesses. A new customs arrangement between Gibraltar and the EU will bring in a transaction tax, excise duties will align with the EU. Goods sold in Gibraltar will need to meet EU standards. And for the first time, Gibraltarians will no longer be able to reclaim VAT at the border when shopping in Spain. Those are just some of the changes and there's plenty more. Joining me tonight to explain how it all works and what it all means in practise are the Minister for Business, Gemma Arias Vasquez. Good evening. We have Opposition MP Craig Sacarello.
+
+- Hi, good evening.
+
+- Owen Smith from the Gibraltar Federation of Small Businesses.
+
+- Good evening.
+
+- And Albert Borrell from the Chamber of Commerce. Thank you for joining me tonight. And if you have any questions, you can email us at viewpoint@gbc.gi. But first, let's head over to Shelina who's with our studio audience. Shelina who do we have in tonight?
+
+- Hello, Ros. Thank you very much. I'm joined this evening by a cross-section of Gibraltar's business community who are here to share their questions, their concerns, and their perspectives following what has been a very busy and informative week for the business community in the context of the treaty. Behind me, we have Mike Nicholls, very well-known for his bite-sized brief on all things business. Raju Purswani from Marble Arc, one of Gibraltar's long established retailers, and representatives from Netgear and Newton Store. We also have Carlos Electronics with us. Many electronic items previously carried extremely low import duties. So we'll be exploring how the introduction of the transaction tax may change things for that sector. We're also joined by Vivek Budhrani from Essardas, a high-end jewellery retailer. Recent break-ins on Main Street have been a real concern for businesses in that sector, so we'll be discussing the safety of business in the context of the treaty. We also have representatives from the restaurant industry as well as trade unions and a number of others. They'll all be sharing their views on how some of these proposed changes may affect workers. So, a broad mix of voices here in the studio tonight all bringing forward the issues that matter most to them as Gibraltar's business community begins to digest what these changes could mean.
+
+- Thank you very much, Shelina. We look forward to hearing from our audience very shortly. But first of all, I'd like to ask the panel, what does the new customs union arrangement mean for Gibraltar to businesses?
+
+- Well, Ros, first of all, thank you very much for having me here tonight. I think we need to take a step back and look at where we've come from. So, as members of the audience and people at home will be aware, I led the Stronger in Campaign in 2016 and I think that no one back then thought that we'd be in a position now to be discussing the type of arrangements that we are discussing. It really is quite remarkable. I think that the new treaty brings in a certainty that Gibraltar has certainly never had before. We now have an international law document, which sets out where we're going. So businesses after Brexit requested a free-flowing border. That was one of the main things that businesses requested and this treaty delivers that. It establishes a customs union, as you've rightly pointed out, between Gibraltar and the EU. And for business, this is one of the main things that matters. So, now I think it's important to say that the focus is no longer on negotiation. It's now excitingly on implementation and delivery. So as a government, what are we looking to do in this coming period? We're looking to continue to consult. So through BTAG, the Business Transitional Advisory Group, we will continue to liaise with business. So far we've had a situation where we were not able to discuss the detail because it wasn't available. We were meeting with BTAG as the treaty was being discussed. We now have a text, so that's different. We've had a town hall this week and we have technical notices that are being issued. So I think the main message tonight is that we are conscious that the time is tight for the implementation. We're conscious that it's not easy, but we are here to work with businesses to get us over this. We're here to listen to businesses and in BTAG, my main message has certainly been, tell us how we can help you.
+
+- Okay, thank you very much. Craig Sacarello, I don't know how many briefings you've been able to attend and how much you've absorbed so far. But can I ask you, what do you think the new customs arrangement means for Gibraltar businesses?
+
+arello, I don't know how many briefings you've been able to attend and how much you've absorbed so far. But can I ask you, what do you think the new customs arrangement means for Gibraltar businesses?
+
+- Well, I've only attended the briefing yesterday, so I'm afraid I haven't had much sights and know has the opposition. I think rather like the weather outside, we're heading into stormy waters at least as things stand. There's a lot of nervousness in the community. There's pretty much a bit of a democratic deficit around this whole treaty and how it's proceeded. There's been a lack of consultation. There's a feedback I'm getting from the business. Certainly the wider public haven't been consulted as much as they would've liked to, and there's been absolutely no arranged consultation with the opposition whatsoever. So we've been left in the dark from that point of view. But having said all of that, businesses want the treaty to work, you know, the opposition wants the treaty to work and I think the wider public need it to succeed. And so, I think that at the moment many businesses feel like they're political pawns. They've been asked to prepare for what is the single most, certainly in the last few decades, biggest economic change that has taken place in Gibraltar perhaps ever and without knowing the rules. So government's consultation has been limited. The amount of technical knowledge and expertise out there is unknown. The timelines are pretty horrific. People don't know what paperwork to fill in. They're not sure which of the tariff supply or how the systems will actually, IT systems will actually operate. So at the moment, in the absence of a proper working transition programme, Gibraltar businesses are rather recklessly, I think, being asked to juggle blindfolded and with both hands tied.
+
+- Okay, well let's ask the two organisations, Chamber of Commerce and the GFSB who represent a wide body of businesses in Gibraltar. How have your members received the details of the new customs arrangement? Albert, if I can start with you.
+
+- Of course. Thank you very much for having us here tonight. So look, the Chamber has 300 members, over 300 members in this ranks. And there is a very big variety of businesses who belong to the Chamber. The Chamber has been clear that achieving an outcome that gave us fluidity at the border was essential, right? We see that as the most important thing for the business community. And in that respect, it's excellent that we've arrived at that outcome. The Chamber has for a long time advocated for a long lead period of adjustment and that is no secret to the government. The Chamber has made those representations and in fact the Chamber does recognise that the government has desired that.
+
+- And that's supposed to happen though, is it?
+
+- No, it's not. The reality is it's not. And the reality is that there are 64 days to go as from today. So, really I think it doesn't come as a surprise that there was going to be a treaty and it was gonna happen. We've been hearing about it for years, but it's very, very real with 64 days to go. What we really need to understand and quickly are the operational realities on the ground. So, how are those systems going to work with the customs, with the technology systems, with submissions, with forms? I know there's been some clarity received yesterday and that was very, very welcome. But without a long leading period, we need a lot more information very, very quickly if we're gonna be able to make the adjustment.
+
+- Okay. And Federation, Owen?
+
+- Well, I mean obviously this agreement has been a long time coming. So I think the headline point for many businesses in Gibraltar is that we have now some degree of certainty and that certainty I think will crystallise once we see the text, which we hope will come very, very soon. When we speak of businesses, I think we have to understand that there are a wide range of businesses in Gibraltar. Some of them are the sharp end of the wedge for this Brexit treaty. And for some people it's gonna be all upside. So if you are in a sector that depends on fluidity at the border, you're looking at certainty and a very, very positive agreement. If you operate in a different sector, if you are in a sector that is trading in goods, you're at the sharp end of the wedge. And I think this treaty brings with it challenges which are paradigm shifting for doing business in Gibraltar. And so long as that is understood and so long as the extreme challenges that now face businesses, which are accelerated to a very significant extent by the speed and rapidity, not just that the treaty will come in with, but also the transition period that will follow, which is going to be very, very short. And that there is real consistent support both in terms of the practical realities that Albert has alluded to and also on the real financial challenges that businesses will face as well over not just the transition period, but the period that follows. Then I think that together Gibraltar businesses and government can make this a success. And that's what I hope. I think that's what everybody wants.
+
+the transition period, but the period that follows. Then I think that together Gibraltar businesses and government can make this a success. And that's what I hope. I think that's what everybody wants.
+
+- Right, you've touched on quite a few discussion points for this evening. I do just want to make very clear to our audience at home that when Albert mentioned the 64 days, we're talking about the entry date, the date for the implementation of the EU entry exit system. That's the 10th of April. So that's in 64 days time. And before we go on, I'd like the minister to talk about some of the key details of the treaty, the new customs arrangement as regards to importation of goods from the EU, movement of goods across the frontier from the EU and non-EU. We won't deal with so much people today, 'cause it's fluidity of people and goods. We're focusing mostly on goods, although we do recognise that people is very important to businesses as well. But I do wanna touch on the point that Albert made about people aren't ready, that there's a lot still to be done. We've had a message, a question from George Russo of Emporium who also says the transitional period is too short for companies and freight companies to adapt to EU paperwork requirements in two months. Shelina, I'd like you to just gauge from our audience here what their views are as regards to the fact that they've got 64 days.
+
+- Absolutely, well I think a great place to start is actually with Darren Cerisola over here 'cause we're talking about customs processes and of course the people behind that are going to be at the Borders and Coast Guard agency as well as customs offices. So on the back of that meeting yesterday, that big town hall that I know they attended as well, Darren, if you just grab the... All right, here you go. Yeah, so first of all, for those who aren't familiar, just explain some of the work you've been doing with those two agencies.
+
+- So, the work we've been doing is basically looking at the assurities, looking at the obviously the future of both the Borders and Coast Guard and the customs as the two entities, which will provide a very essential service with this deal. And we prepared, so like I said, we've been advocating and looking, sorry, at the effects, how is it gonna affect both services in terms of the changes that are coming. And we prepared. So we've already asked some of the questions we prepared for tonight, four questions which I'd like to put across.
+
+- Let me just ask you first on the back of that meeting and some of the other discussions they've had, how prepared do they feel right now?
+
+- Sorry, how prepared do the both?
+
+- The Borders and Coast Guard Agency, customs with changes that might be coming, how prepared do they feel for this?
+
+- So there's obviously anxieties and there's anxieties and uncertainties in terms of the preparedness because there isn't any sort of concrete yet information in terms of operationally. I think there's still nothing known in terms of how exactly, so there isn't granular detail as to how everything's gonna change. We know that there are gonna be changes. We know that obviously the one of them is gonna be the bringing down of the physical border. How is that gonna impact operations and stuff like that? So that is probably some of the uncertainties. And then the transaction, the taxes and the controlling of products and all that as well. Those are the uncertainties that they're living at the moment.
+
+- So what are the concerns you'd like to put to our panel this evening then?
+
+- So the concerns are, sorry. Just quick look. Could the government please clarify what is meant by concrete assurances and are these assurances set out in writing. And they apply, or sorry, do they apply for a defined duration additionally? Do they extend to and bind future administrations or are they subject to change by future governments? Then working practises and conditions. Could the government offer assurances that the following conditions will continue to be honoured? Our current shift patterns and working hours in terms of the customs and Borders and Coast Guard, including condition overtime and allowances, posts whose extended hours are covered by overtime, posts on flexible rosters and conditional overtime and allowances, on call and any other current health conditional overtime and/or allowances in these or any other posts. Rank, structure, and posts, reduction of numbers and posts carrying any of the above. No abolishment of departments.
+
+- Right. Okay. So a lot to cover there.
+
+- A bit, a bit.
+
+- So quite a few things on their mind then maybe throw over to the panel.
+
+- Let's see what the minister can answer.
+
+- So, I believe that the chief minister met yesterday with Borders and Coast Guards and with customs. And in fact all of these questions were raised and the assurances that were sought were given by the chief minister in that meeting. And I think what it is important to say is that at every point the government has said that there will be no job losses throughout. Every other assurance as you're aware, that's not my portfolio, but I believe that the chief minister gave all the assurances that were sought yesterday at the meeting with Borders and Coast Guards and with customs.
+
+- Are you happy with that?
+
+- Yes. Thank you.
+
+- Oh yeah. All right. What I'd like to,
+
+- The major, sorry. The major concern was not really, I mean the biggest concern for the members was the job losses and the financial impact it would have. So, the reassurance obviously was something very welcome by both the entities.
+
+ern was not really, I mean the biggest concern for the members was the job losses and the financial impact it would have. So, the reassurance obviously was something very welcome by both the entities.
+
+- Okay. For the benefit of our viewers who are perhaps, I mean the business community has been briefed, but the wider community probably still a little bit in the dark as to what the new measures are. If I could ask the panel to take us through some of the key changes in respect of the new customs arrangement. So, all goods being sold in Gibraltar must be EU compliant. So, does somebody want to just take us through some of the basic details just so that our viewers can be a little bit aware.
+
+- Happy to start.
+
+- Yeah. So, as a wider concept, what we have to realise is that we are joining a customs union. So once goods are in Gibraltar, once they come into the market in Gibraltar, they can then be transferred freely throughout the EU. So for these purposes or for these reasons, there have been strict controls on what can happen, how the goods come into Gibraltar, and what happens when they're actually in circulation. So, why do they have to be EU compliant? They have to be EU compliant because once, because we're in a customs union with the EU once the goods are in Gibraltar they can go freely into circulation throughout the rest of the EU. So for a period of, once the goods are in Gibraltar, once the treaty comes into effect, after a period of three months, all goods in Gibraltar will have to be EU compliant. My understanding is that most of the goods in Gibraltar at the moment are largely EU compliant. So that won't present a huge issue other than perhaps in food products where some wholesalers might have an issue. If we look at the transaction tax, so what the transaction tax means, and I think what it's very important to say is that there is one tax payable within the EU. So, if a consumer goes and buys a product in Spain, that consumer will pay IVA in Spain. If a business is to purchase an item wholesale in Spain, IVA will not be payable on those goods. So, the 21% IVA payable on that good will not be payable. And when that good comes from the EU into Gibraltar, the transaction tax of 17% will be payable in Gibraltar. The the other key difference is that in Spain, IVA is paid, in Spain and in most of the EU, IVA is paid on the retail price of the product. And in Gibraltar it's going to be based on the, say for the wholesale price of the product. So the 17% is going to be based on the SIF. So, when a consumer purchases a product, they can then purchase that product and come direct into Gibraltar without any further payment because VAT, IVA or that form of tax has already been paid within the customs union. It is only when a business imports goods into Gibraltar-
+
+- Such as from the UK.
+
+- The UK is different because the UK is outside the EU.
+
+- Yes.
+
+- When a good is brought from the EU, the good will come into Gibraltar and 17% will be payable in Gibraltar. From the UK, again, the good will be brought into the Gibraltar and that good will pay 17% in Gibraltar. The key difference with the UK is that when an item is purchased in Spain, that item has already paid the EU tariff. So, if a good is made in China and the good is purchased from Spain, the Spanish wholesaler has already paid the EU import tariff on that product. So when the product is imported into Gibraltar, it's only the 17% that will be paid because that item is already in the EU. So the key question is, when an item is imported from the UK what is the origin of that item? So, if I use the example of a pair of trousers that you purchase on the high street but that pair of trousers is made in Pakistan, that pair of trousers, whether you buy it in Gibraltar, whether you buy it, for example, in La Caleta will have to pay an EU tariff to enter into the EU and then it pays a 21% in Spain and it pays a 17% transaction tax to enter Gibraltar. So that's the difference.
+
+- Just to clarify, sorry. So, would it pay a 12% import duty?
+
+- It pays an EU tariff. So, coming into the EU, at the point that it enters EU it pays EU tariff of 12%.
+
+- Which is?
+
+- 12% and then on top of that you've got the 15% transaction tax.
+
+- You've got 15% initially, that's right.
+
+- Initially, yeah.
+
+- But that tax is payable wherever the item enters the EU. So, Spain will have already paid that tariff for any item that's coming from, for example, China or India. Italy similarly will have paid that tariff for the good coming in from outside the EU. It's an EU tariff that we're talking about.
+
+- Okay. So let's go to our audience now. Well I know that some audience members, Ludo over there.
+
+- Yeah.
+
+- Who deals with, a lot with imported goods.
+
+- Yes, I'm glad you came to us 'cause quite a few of our audience members, Ros, have mentioned this as an issue. Some have described it as a double tax effectively for them. So Ludovic Leroy, he works at Newton stores. Thank you, Ludo. You've raised this point specifically to us.
+
+- Yeah, I think .
+
+- So first of all, how does Newton Store operate that this might be an issue for them?
+
+roy, he works at Newton stores. Thank you, Ludo. You've raised this point specifically to us.
+
+- Yeah, I think .
+
+- So first of all, how does Newton Store operate that this might be an issue for them?
+
+- Well, it's not an issue per se at the moment because the goods we import are not, there is no EU levy, EU import duty on them. So, we are okay on that. But it's just to get our heads around it because it might be 0%, but EU parliament or EU minister might decide have a trade what with China starting that that we want that. But if it happens, we need to be ready. So the fact that it's 0% at the moment doesn't mean that all the admin doesn't happen. It still happens, it's just that we don't end up paying. So it's very, very important to understand if it were to happen, what would be the consequences? Minister, you said you explained really well what's with the country of origin, which is an important thing. You took the example of the pair of trouser Pakistan purchased from Spain. On that we're clear. They will not, we won't have to pay, won't have to worry about the EU levy because it's already paid. If the pair trousers is bought in the UK, so, they haven't paid the EU levy because they're not in the EU. So, the point of entry would be, as I understand it, could be wrong, the point of entry will be at the another acronym, it's the DCP, isn't it? Designated Custom Point.
+
+- Yes.
+
+- Yep.
+
+- Which at the moment is La Linea, but we don't know where it is. So we don't know. Algeciras which is already clogged with ferries and all that. So the last thing they want is to get trucks. But anyway, that's another problem. So, it would be cleared somewhere. So will we have to pay that? And then how is the mechanism to get the money back or how is it gonna happen? And also will we have to be registered on the Spanish side? Do we have to register in 60 days? All the businesses in Gib will have to register on the Spanish side. There is a lot of little question. I know it's not massive because at the moment it's 0%, at least in the goods I import.
+
+- When you said get the money back, Ludo, do you mean what money are you talking about, the 12%?
+
+- Well, I don't know about 12%, but at the moment is 0% for the goods I import.
+
+- Yeah.
+
+- But if one day there were to be some tax to be paid to the EU for buying those goods. At the moment, I think Chinese electric cars, I think there was a levy. So we will have to pay Spain or we will have to pay Gib that will then pay Spain. How would it work? As we understand the money at the end gets to Gib. Yeah. So do we have to pay Spain and Gib will claim to Brussels or do we pay Gib? How does it work in operational terms? Because the theory is great and I understand the theory, but it's 60 days, so we need to practise as well.
+
+- Okay.
+
+- So that's the bit that we're a bit confused with. And again, it doesn't affect us now, but it might, it might like tomorrow it's 5%. Okay, so how do we do now? And another thing just, I'll finish on that, again, not for my company, but if there is, if you import food or dangerous goods or things that have some kind of specificity will, if you have to register in the Spanish side with DCP, will they check that you have all the sanitary requirements and all the things and is that gonna be done in 60 days?
+
+- Right.
+
+- Lots to unpack there then.
+
+- Right, let me see if I can answer all those questions. So, the 12% is entered on the entry into the EU and then the internal administration is organised so that Gibraltar gets that money. And I think that's an important point to raise because even the EU tariff comes direct to Gibraltar. So, Gibraltar will be the beneficiary of that 12%. And I think I'll come on to later when some of the questions are answered, what we envisage doing with that. But Gibraltar will end up getting that 12%. But that is an internal arrangement that doesn't have anything to do with a trader. But Gibraltar will end up, the money will end up in Gibraltar's hands. As with the DCP, yes, you're right. There's currently three, there's four DCP points. There's one in La Linea, there's one in Algeciras there's one in Sagunto and there's one in Portugal. So, the goods have to be cleared at these four points to come into Gibraltar. So food, food have the normal SPS arrangements. So food coming by sea has to be cleared in Algeciras as is currently the case now. All food coming overland has to be cleared in Caleas is currently the case now. As you know, the UK is also trying to agree an SPS agreement with the EU, which will hopefully make food products coming into the EU and therefore Gibraltar easier. And all those customs formalities will fall away at that point. But at the moment, yes, at the moment, EU tariffs will be collected at the point of entry into the EU, wherever that is. But the internal arrangements, they will then come down, the money will then find it way back to Gibraltar.
+
+- Okay, but who do we pay?
+
+- The point of entry.
+
+- We will have to pay-
+
+- Yes.
+
+- So we'll have to register. Sorry, will we have to do that? Will the custom clearing company will have to do that? How is it gonna work?
+
+- I imagine it's a customs clearing entity, but I don't have that, I don't have that detail. But I would imagine a-
+
+- I think this is key because if not, we're gonna be totally paralysed. I mean there'd be free-flow people, great. But the goods will be stuck if we don't exactly know how it's gonna work.
+
+- No.
+
+- And if we don't prepare now for it.
+
+ot, we're gonna be totally paralysed. I mean there'd be free-flow people, great. But the goods will be stuck if we don't exactly know how it's gonna work.
+
+- No.
+
+- And if we don't prepare now for it.
+
+- No, absolutely. So, I think Albert hasn't been but Owen has certainly been present at the BTAG meetings and these are the sorts of questions that we have been trying to answer. The point that I was trying to make earlier was that at previous meetings, so prior to the last one, the detail on the treaty wasn't established. So these sorts of questions couldn't be answered. But now we can go into the detail of what the forms are. And unfortunately at the moment I don't have the answer exactly to whether you have to be registered at the point of entry. But if that question is raised, I'm sure that in the 64 days that will be answered sooner rather than later.
+
+- Mr. Sacarello would like to add something here.
+
+- Yeah, I just follow up is an interesting comment that was made there saying that the details weren't set up in December. I mean that's rather a lot of detail that's been, it's hard to believe that all the detail has been sorted out over Christmas. I think there was a political arrangement, an agreement last summer and I think the government have had a long time to be able to come up with something, if not the perfect solution. Certainly something in place to address these types of questions and concerns. In fact, in the summer in June they put out a question and answer survey. I think the deadline was the 4th of July and we were promised FAQs style, you know, Q&A replies particularly in the business sector. And that's not been forthcoming. But if I could just add to the question Ludo asked on-
+
+- It's coming in a couple of weeks, attorney general said yesterday.
+
+- Sure, sure, yeah. It's still couple weeks away.
+
+- I think they wanted to wait for the treaty text to be completed to be able to-
+
+- Well, I can understand that but there were... That's fair enough but-
+
+- So, there were specific questions that were actually being asked at the BTAG meeting that related to items that were still being negotiated. And I think that came up a couple of times and the honest answer that the attorney general gave is that point is still under negotiation.
+
+- Sure, I understand that. I mean maybe the exceptions could have been made in those or caveated or not answered simply because of a kind, but there was a whole plethora of things that could. But just following up on the question, 'cause I actually have a question that would slot in nicely here regarding the tariffs. So if a good is entered to the UK from a third country and then UK sends it down to Gib, effectively the UK has its own tariff system. So there's a possibility we could have two tariffs. The question was asked of the chief minister yesterday and I wasn't clear what his answer was 'cause he talked about the reimbursement of VAT and of excise if there were. But I'm not sure what the answer was regarding the UK tariff. Will that be reimbursed or will local companies sourcing their supply from British companies who source from third countries themselves, will there be a double taxation of tariffs there or will it be paid back? And will tariffs, will there be an admin fee as well for the country? Or is Gibraltar getting 100% because normally within EU there's a 25% retention of tariffs by the administering country.
+
+- Well, let me start by the last point first. So, there is no other member state within the EU that gets 100% of the tariff. There's no other member state that gets the full extent of it. So even when you remove the administrative fee, there is no other member state that gets the full amount. So, that's quite a positive for Gibraltar. The EU tariff is what will be payable when the goods come into Gibraltar. So, the company that's shipping from the UK will pay the EU tariff and they will pay the transaction tax coming into Gibraltar.
+
+- So, what about the UK elements, the UK tariff? Is there a side arrangement with the UK or is it ingrained in the treaty?
+
+- The signed arrangements I can honestly say are actually still being negotiated but that is one of the points there are still a flux. But it is unlikely because if you were, you will not be paying IVA you will not be paying the VAT equivalent in the UK. So, it is unlikely that you'll be paying an import duty on the UK -
+
+- I was talking about the tariff.
+
+- The tariff as well. It's unlikely.
+
+- Okay, let's just move on very quickly. Does anyone else want to add to this point? Otherwise I'd really like to go to food and beverage.
+
+- I know that Raju Purswani from Marble Arc, you did mention UK goods as an issue affecting yourself as well, didn't you? Can we just pass him the mic?
+
+- I think one of the points that hasn't been mentioned is that the transaction tax is at the point of importation, although it's a lower rate than VAT. You're vat is on consumption. So although you pay higher rate of VAT you paid on consumption. So for example, if you bring in the pair of pants from Pakistan and you don't sell them, you don't pay any VAT on them. Whereas in the import duty you have to pay it. So although it's a lower rate, we have to take that into account because there's cashflow element for every single business. The moment they input goods, they have to pay-
+
+- The transaction tax.
+
+- That's exactly is the case now.
+
+we have to take that into account because there's cashflow element for every single business. The moment they input goods, they have to pay-
+
+- The transaction tax.
+
+- That's exactly is the case now.
+
+- Yeah as it is now. Yeah. Obviously at a lower fee, it makes it a bit more amenable than it will be. The other point that I wanted to make is that with this extra additional EU tariff on British goods, and I think Craig mentioned it there, that a lot of the goods that we will import from the UK will have all repaid their own tariff to import them into the UK. So they would be paying an import, the supplier would be paying a tariff to import them into the UK, selling them to us at their rate. So in effect, putting the tariff already into the price and then we'd be paying further tariff to the EU. So it is in fact two tariffs.
+
+- Yeah.
+
+- One of my concerns is obviously Gibraltar is branded, marketed, marketed as British. And if we have all these taxes going on to British products, we could land up in a situation where we're selling British products more expensive than Britain and more expensive than shops in the EU. And that for me is very concerning.
+
+- Okay, so if I can just take those points. So a British product will never be more expensive in Gibraltar than it is in the EU. So for example, if you take the example of Marks & Spencer, which has a shop in Gibraltar and has a shop in the EU, exactly the same tariffs would have to be paid for that good to be sold in the EU as they would have to be paid to sell in Gibraltar. In fact, the EU customs duty, the EU duty would be 12%, but the IVA in Spain would be 21% on retail price and the transaction tax in Gibraltar would be 15% going up to 17%. So, there is that difference. But when it comes to goods in the EU, what we are looking at and what a lot of the retailers that have been sitting with us in BTAG are looking at is there are a lot, because this issue has arisen in the past with the UK in particular and with Ireland, there are a lot of retailers that are now sourcing goods from the EU. So British retailers are sourcing goods from the EU to overcome all of these, a lot of these problems. So, one of the things that we've been finding when we're talking to businesses is that because this issue has arisen previously, there are a lot of sources of UK products that are now being manufactured in the EU and delivered in the EU, so to overcome that 12% and that 12%.
+
+- Okay, can I say that that's just not the case across the board that there are exceptions of course that are some people, and in fact, as soon as Brexit happened, a lot of people moved their warehousing and haulage to Europe, to the mainland. And so the UK lost and the job market lost out. But it's fair to say that there is one brand that had been mentioned by the chief minister, obliquely mentioned in Parliament that has, that's because they've set up operations in Europe. But similarly there's other brands who don't have operations in Europe. And so, Raju is absolutely right. We do face an erosion or potential erosion of our British character.
+
+- I think that, sorry.
+
+- Well, I was gonna say before we go to the audience, 'cause I know Raju would like to say something, can we hear from Owen and Albert?
+
+- I think what is emerging from the comments and questions that are coming from the audience is that there's real concern on the ground about the practicalities and the uncertainties. And there's lots of questions about, am I gonna pay the tariff twice? Will I get it back if it comes out of the UK And lots of small businesses struggle to answer those questions themselves and Gibraltar's a small place doing a small amount of business. And the reality is that they probably are not going to get any kind of tariff that is paid on importation into the UK back on a purchase that they are making. I think the, you know, the look, the Gibraltar look and feel retail experience is unique in this area. And I think it's something, and I think it's something our members would like to see preserved. It's going to be important not just for retailers and other traders, it's going to be important to complement our tourist experience, which is also has a British brand. So I think it is important and we need to think about the real challenges, like double paying of tariffs where they apply, how we're going to deal with that. But it's not just about the retail experience. I mean this is a supply chain experience. This is for other traders in Gibraltar who are supplying British goods, lights, plugs, fittings, all sorts of things. And we need to think carefully about those challenges which are real and how we are going to assist our members in transitioning if they need to transition from British suppliers to EU suppliers. To recognise that that is going to take a long time, much longer than three months and to, you know, decide how we, the business community and the government, are gonna assist them in making that transition. And you know, to the point about question, the detailed questions that are coming out of the audience, I think highlight and reinforce the need for detailed written guidance, not just about the principles and the law, but also about the practicalities.
+
+- Okay.
+
+- See if I show you, just really quickly on that because it's an interesting point he made about electrics and electronics?
+
+- Yes.
+
+- Because they're three pin-
+
+- We'll speak to Raju Alwani about that.
+
+- They're three pin plugs.
+
+- Yes.
+
+- So of course in Gibraltar we need to source from the UK. So really, you know, perhaps a German alternative, German plug wouldn't-
+
+- It's a very good point. We've had written questions about that as well. Before we go to Raju, do you wanna just make a point on this as well.
+
+ow, perhaps a German alternative, German plug wouldn't-
+
+- It's a very good point. We've had written questions about that as well. Before we go to Raju, do you wanna just make a point on this as well.
+
+- Very briefly on that. So echo the FSB's contributions. I think when we look at what we are saying ourselves in respect of the application. So, one of the features is this taxes and excise were applicable will only apply to goods that are to be placed in sale in the Gibraltar market. Perhaps we should be looking at what's happening to that UK supply chain element to see if it is the case that that could be recovered and therefore avoid a double tax position. So we should be looking at things like that.
+
+- I think I-
+
+- Sorry, can I just say.
+
+- Yes, of course.
+
+- I said that was exactly what we were doing.
+
+- Yeah, precisely.
+
+- So you're in the process of doing that at the moment.
+
+- We need to establish that certainty and communicate it widely. I think operational realities continue to be in everybody's minds. A lot of these questions that are coming out from the audience that have come out in the Q&A are about operational realities. How do I get this in? Where do I go to administer the paperwork? How do I submit it? Is there different software? Where do I register? Am I registering with the authorities in, I see there's . All these things need to become clear in a very, very quick period of time.
+
+- Okay, Shelina, let's go to Shelina now because I know that the members of the audience have got
+
+- Yes. So Raju Alwani from Carlos Electronics is quite keen to point out the transaction tax is something that's going to hit you quite heavily after many of the goods you used to work with didn't carry import duty at all, for example, cameras, et cetera. So quite a big change coming for Carlos then.
+
+- Exactly, Shelina. So, at the moment we pay import duty that varies between 12 and 0%. For the items that we pay 12% going from 12 to 15 is manageable. But the items that we pay zero, we've built-
+
+- A business on it.
+
+- A business basically for, we have our suppliers, our customers that pay 0% and we're able to sell to them effectively. And for that to go to 15, that was just gonna be, it's gonna kill that business completely. So we do need government support. We've had successive governments that have helped us with this in the past, over the last 20 years. And we do need these niche markets to continue to grow there.
+
+- What type of support would you be after?
+
+- I'm not sure what they, how, I mean maybe just not 15% on certain items because we're happy to pay the 15% on majority of goods, but to kill off these businesses.
+
+- It's essentially 'cause you had 0% on some.
+
+- Exactly.
+
+- It's quite a drastic change to go to 15.
+
+- We're able to build up our business over many years.
+
+- Raju, can I ask you a question? Would you consider passing on part of that 15% to the consumer or would you try to absorb it?
+
+- No, the thing is we don't make 10 to 15% on some of these products. On the expensive photographic equipment, we only make up to 10%. So going to 15% is just impossible to absorb. So we would really want the government to consider some of these niche products. I know it's not easy.
+
+- I don't think it's a case of it's not easy, it's the EU has to maintain the market and it has to maintain the common market. It's not up to us to change these tariffs. The tariff is the lowest tariff in the EU and therefore that's what we have to look at. So what we've said in BTAG, what we've said quite clearly in BTAG numerous times and from the first meeting I think Owen can vouch for this is that we can't do away with the 15%. The 15% is the lowest import duty that, is the lowest transaction tax that can be paid. We have asked, we have said to business, give us other ways that you think we can help you and let us look for that, give us solutions. There are rules that we need to stay within, but give us different ways that we can look to help you. For example, one of the main concerns, and I think Vivek can attest to this, one of the main concerns that I got when I was walking up and down Main Street recently with the commissioner of police was safety and security concerns from businesses. So even today, businesses are concerned with petty crimes and with larger crimes. I know that businesses have been looking themselves to, for example, look at different ways that they can implement their own security. So what we've said is that we can take part of these funds and look at reinvesting into Main Street. We've committed to that, look at investing in security in Main Street. Look at making Main Street more secure with more police presence on Main Street. We've started the process. So I think that anyone on Casemates, anyone on Chatham can now see that we started a process of beautification.
+
+- But I think what Raju is talking about is keeping the business afloat.
+
+- Yes.
+
+- We welcome all that and we welcome beautification, but we need to be competitive. We're competing with places that I know are not in the European Union like Andora, but they pay 4.5% VAT, that's all they pay. And we have to be able to compete with these places to continue selling to our customers.
+
+with places that I know are not in the European Union like Andora, but they pay 4.5% VAT, that's all they pay. And we have to be able to compete with these places to continue selling to our customers.
+
+- Yeah, so I think that there are some items, I mean there are some items that are, there's a definitive list of items that are on a reduced rate and a super reduced rate. Electronics aren't on that list as far as I can recall. The items that do not pay any transaction tax whatsoever are items such as food and all food products and all beverages apart from alcoholic beverages, medicines and medicinal products, et cetera. So that's all in a 0% tax. The list of 5% is very definitive. So there is a definitive list on that. I think that the market has to start or rather the message that we have to give is that the lowest transaction tax in Gibraltar will be 15% going forward. Are there other ways a government can look to help? Absolutely, but the transaction tax other than on reduced rates and on super reduced rates-
+
+- [Ros] It will go up to 16 and then 17.
+
+- It will go to 16 and 17.
+
+- Okay, let's hear from, I know Mike Nicholls wants to say something. Let's hear from Mike Nicholls.
+
+- Always.
+
+- Always do. Small question. As I understand it, non-EU consumers can go to Raju's shop and purchase a camera and can claim back the 15% transaction tax. So therefore, all our British visitors, American, Canadians can get it back.
+
+- [Gemma] That's right.
+
+- So how would they actually do that? So if I walk into Carlos and want to buy a camera with my brother visiting me from the UK, he can get it at, you know, 95 pounds, I can get it 100 pounds for example. How would that mechanism work for our visitors?
+
+- So it's pretty much what we're envisaging. Remember that we are doing this as we go along as well. So what we're envisaging is a system such as global blue at the moment where any non-EU resident comes to Gibraltar, purchases a good and then on exit claims the transaction tax back.
+
+- So that exit is what at the airport?
+
+- [Gemma] The exit. No, the exit is at the... The exit would be at the airport.
+
+- Right.
+
+- [Gemma] And at the airport you'd fill in the forms in the normal way and you'd get your VAT back. Oh, you'd get your transaction tax back, sorry.
+
+- What would they get, the 15% on the cost price or the selling price?
+
+- [Gemma] They'd get their 15% on the cost price.
+
+- So we'd have to tell them the cost price.
+
+- Oh, sorry, well, that is actually a question that has been asked frequently of us, whether it's one or the other. Again, it depends on the business community and what the business community want. If what you're telling me is that you would prefer that it's a retail price, then it's-
+
+- No.
+
+- Sorry?
+
+- Obviously the... We pay the transaction amounts on the cost price. So that's what we would-
+
+- No, you pay the transaction tax on the SIF.
+
+- On the, our SIF which is our cost.
+
+- [Gemma] On your cost, yeah, which is in the retail price.
+
+- Raju, can I ask you about the plug question? Craig mentioned it and a viewer wrote in and asked us as well, whether, you know, to be able to sort of bring in goods more cheaply rather than from the UK. Does that mean that you'll be importing goods with Spanish plugs? Is that gonna be an issue?
+
+- Well, that is gonna be an issue 'cause at the moment we import a lot of our stuff from the UK
+
+- [Ros] Yeah.
+
+- Precisely for that reason also because of the three pin plug. But if it's gonna be more costly to import from the UK because of the additional 12%, whatever it is.
+
+- Ros, I just find it fascinating this because in Northern Ireland, Owen's GFSB invited over a guest speaker a couple of years ago and what they did was they split the businesses up into five in terms of the, how much threat they deemed them to be under. And they called this fifth cohort the one under most threat. And they fought tooth and nails to make sure that no one was left behind. And part of what they managed to achieve in the Northern Ireland protocol was a traffic light system where goods deemed to remain in Northern Ireland were charged, were basically it cost them less to get in, less in terms of tax and less, much faster to process. But it would be interesting to learn from Gemma and the government to see what they actually looked at in the process and what they actually fought for cases such as these. Were they considered? Were they told, you know, the EU, were they told and were they simply flatly refused it? Or what-
+
+- No. No, okay. We said, actually, you know what? We don't care about. Of course they were, Craig.
+
+- Sure, but there'd be no feedback whatsoever.
+
+- Of course there were.
+
+- And was that a failure then?
+
+- But Craig, I think what we have to realise is that it's a negotiation and it's a negotiation on a treaty which will be beneficial for Gibraltar in the long run and it's a treaty which actually we can't lose sight of the fact that the biggest threat that Gibraltar had was a freedom of movement of people in and out of Gibraltar.
+
+- I understand that.
+
+long run and it's a treaty which actually we can't lose sight of the fact that the biggest threat that Gibraltar had was a freedom of movement of people in and out of Gibraltar.
+
+- I understand that.
+
+- But if we understand that, we have to understand that that is what we were fighting for. We were fighting for a treaty whereby none of our red lines were crossed and there's a free-flowing border and it had the minimum impact on the market. So, but when we say it had the minimum impact on the market, we have to realise that Gibraltar's businesses are very varied. We have to realise that the financial services industry, for example, which there are a couple of people here in the audience, the financial services industry is not impacted at all and takes the positives from the treaty. So, we have to realise that what's happening is that we are joining a customs union. So, if we're joining a customs union, it means that once people and goods are inside this union, they can move freely about the union. And these are terms which were negotiated tooth and nail by the EU, yeah? This isn't even about Spain dictating terms. This is the EU maintaining the integrity of its market because of factors that we can all understand. They were concerned about goods being imported into a market which then freely went around the EU. So, I think it's a bit flippant to say, you know, did you negotiate this? Did you think about it? Of course, the government and of course the negotiating team-
+
+- Okay.
+
+- Fought tooth and nail for every single item.
+
+- [Ros] We're going to leave it there.
+
+- Well, can I just point out.
+
+- Very quickly please.
+
+- That the transaction tax is actually the lowest transaction tax, is actually the lowest duty on any member state, yeah? This isn't something that the Gibraltar government has made up or a number that they put out in there.
+
+- Okay. Okay, we're gonna leave it there because we do have members of the audience who've not yet spoken and do have questions and we also have questions coming in from our viewers. So we are just going to go to a very quick break and then we're going to come back and answer the rest of the questions. Join us in a few moments.
+
+- Hello and welcome back to Viewpoint. We are talking about the treaty and the impact on local businesses. We've had some very interesting points raised on tonight's programme, but we still have lots more questions to get through and we're going to start with food and beverage, aren't we, Shelina?
+
+- Absolutely, Ros. So Sonia Stafford of The Lounge is with us this evening. Now Sonia, you work with food and beverage mainly. Can you explain to us what some of your key concerns are? Because as we've heard, food is not going to attract a transaction tax as such, but how does this impact you?
+
+- I think generally all costs are gonna increase, which is a concern because already we find it very hard to compete with Spain. And with this free-flowing border, it's gonna be very easy for everybody to go across and eat and drink in Le Linea, which is considerably cheaper and also has a massive investment right now, big social scene. So I'm not sure, has it been considered how hospitality will handle the increase in cost mainly on alcohol?
+
+- You also highlighted some of the events that you've signed up to, for example, this year.
+
+- Yeah, forward planning for example, menus have been given and drinks prices have been given, packages have been negotiated for the likes of weddings, events. We've got such a short timeline, those costs are gonna increase and it could be, we don't have large margins. We have to pass on increases. We're not gonna be able to absorb them. So we needed a lot more time. I know we can't have it. There's other things that we hope could be done to help businesses in hospitality. We just wondered if that had been considered also.
+
+- So on the timeline, I think it's very important to address one point which I haven't actually specifically addressed right now. The date of the 10th of April isn't an arbitrary date that the government have chosen. In fact, if we could have had more time to set up ourselves, we would've obviously taken it. And obviously I think everyone was trying to push for a longer deadline. The reality is that the EES system is coming in at the latest at the 10th of April. So the 10th of April at the moment is a long stop date because it's either we have the treaty in place before then and we implement it or we have the EES at the border. So, the reality is that the 10th of April isn't a date that's been plucked out of thin air. It's a date which has been imposed by what is happening in the EU and the imposition of the EES. I think it's fair to say that no one wanted that, no one wanted the EES, and no one wanted the date of the 10th of April. So, I think government is very sympathetic to business because government are also having to have all the legislation in place, all the infrastructure in place and all the IT in place as well in order to start on the 10th of April. So, we are very sympathetic and we acknowledge the fact that it's a very tight timeline. And whilst that's no help to your business, I think that what we are saying is we are here to help businesses as much as possible. I think the chief minister's words yesterday were, we are here to hold business' hand throughout this process. So again, in BTAG-
+
+- But in the same breath you said consult your lawyers. You know, they weren't really forthcoming.
+
+- No, I don't think that that's quite right. I said in the case of specific advice that was being asked. So in the case of very specific advice that was being asked, we're not here to give legal advice and I think that's-
+
+hat that's quite right. I said in the case of specific advice that was being asked. So in the case of very specific advice that was being asked, we're not here to give legal advice and I think that's-
+
+- Minister, can I ask you a question? We've got a question here. We will come back to Sonia in a moment, but a business here is talking about the fact that they will, you know, what impact will all these tariffs have on the high street? We cannot absorb 27% tax. We've just heard Sonia talking about the fact that the increases are really going to impact them. They haven't got time, they've got commitments with events or whatever that they've made on a certain budget that's now going to be different. There was a time possibly when the Gibraltar government might have thought about helping certain businesses, but I understand that there are state aid rules now-
+
+- That's right.
+
+- That come into play. Can you just explain, are you able, with the transaction and EE, excise duties, revenue that the government is getting, can any of that be used to help businesses or is that going to contravene state aid rules?
+
+- Well, the state aid rules are quite specific. So, the state aid rules, and I think that the, for example, the GFSB have been looking at what can be done in respect of helping businesses and what we can do to set up different schemes to help businesses. The state aid rules are quite strict, but the state aid rules are, our attorney general said we should also not fear the state aid rules. There are different ways that we can look at that, yes? We cannot infringe them, but we need to look at them. And again, as I've said in every BTAG, we need to look at the state aid rules and as associations, the catering association, the GFSB, the chamber, we've said to them, come to us with proposals on how we can help you, yeah? It's almost like these are the new rules of the game. This is if we want a free-flowing frontier, because let's think about what the alternative would've been. The alternative would've been a closed off Gibraltar, which again, no one wanted. So, the treaty is going to have a lot of positive impacts in Gibraltar. And I genuinely believe that, and for businesses I genuinely think is going to be good. The transitional period is going to be difficult and the transition period is gonna be difficult because it's short. But what we have said, and what I have said throughout, even before we knew the transition period, was tell us how we can help you and we can find ways to work together.
+
+- Okay, does-
+
+- I just-
+
+- Looks like for hospitality?
+
+- So it's a matter of, you know, how can we help you? There will be funds set up for training. There will be funds set up for different purposes. So, which one of those funds can we possibly assist your business in tapping into? So are there different ways that we can look at assisting? Are there different ways that we can look at giving back? Again, because your business is in a private area, we might not be able to beautify that area. But on Main Street those are the things that we're looking at. But what we've said throughout is tell us different ways that you think we can help you and we're very happy to look at every possibility of trying to help-
+
+- I just find it-
+
+- I think the biggest factor is rent because our rents are considerably higher.
+
+- Yes.
+
+- How could our hands be held in that respect?
+
+- [Albert] I would just say, Ros, if I may.
+
+- [Ros] Yeah.
+
+- And I'm happy to come in on this. I think, and the FSB will know this too, the state aid rules that that exist, as the minister said, state clearly there are many things that you cannot do, but actually the state that there are many things that you can do. In looking at some of them, there are definitions around de minimis aids, you know, thresholds of certain sums which companies can seek to tap with certain exceptions supports in respect of companies of under 250 employees. What I would encourage the business community to do more widely is look through those rules and consult with the federation, with the chamber if you're a member. Step forward with your own suggestions and ideas because nobody knows your business better than you. You know, that certainly I don't have a monopoly of wisdom on business incentives, but we are here to collate, help understand, lobby and put forward and like we do at BTAG, like we do through regular consultation. That would be my suggestion.
+
+- I just find it so-
+
+- Absolutely. And I think Albert is absolutely right and I think that is what we've said at every single opportunity, yeah? This is not the Gibraltar government wanting to collect 15% or 17%. This is the EU saying this is the minimum, yeah. So what we've said at every single opportunity is tell us, tell your representative organisations, the catering association, look for different ways that you think that we can help you and we're very happy to sit down and talk about it.
+
+- Can you think of anything off hand that-
+
+- I think the most alarming thing is on the back of a very bad winter with weather in a very low budget industry is you're instantly then going into this, you're gonna have this extra cost and you're already competing with an area that is always gonna be cheaper. How do we see hospitality?
+
+- [Owen] Can I also just jump in and contribute?
+
+- Can we let Craig Sacarello because he's been trying to jump in very quickly and then we'll come to you.
+
+- Thank you.
+
+- Yeah.
+
+we see hospitality?
+
+- [Owen] Can I also just jump in and contribute?
+
+- Can we let Craig Sacarello because he's been trying to jump in very quickly and then we'll come to you.
+
+- Thank you.
+
+- Yeah.
+
+- I just find it remarkable that so late in the day, we are now considering and we're now asking businesses to look at solutions for something like state aid. I mean state aid is something that the government should been looking at from, what, years ago is questions I've been bringing up in parliament. How are we gonna support these businesses? It was in our manifesto and the initial replies were no, we're not gonna help. No, we're gonna help. Laterally state aid, state aid. But as Albert alluded to, you know, the EU aren't impervious to supporting sectors that need it. You know, sector support mechanisms exist that are compatible with EU law. And I just find it remarkable that so late in the day we're saying, well what can you guys suggest that we do?
+
+- I think that's exactly not what we're saying.
+
+- It's shocking.
+
+- Craig, and I understand your position. I understand why you're trying to spin what we're saying.
+
+- It's not spin.
+
+- And in that-
+
+- It's a fact, I mean-
+
+- From our days-
+
+- I'm begging you-
+
+- From our days in the GFSB, we were always looking at things like this. And you remember that we worked on-
+
+- Well, we were in the EU.
+
+- Yes, no, absolutely. And it's through both of our own that we're out of the EU. In fact, I lobbied for us not to leave the EU. What we're saying is that we've only known the lay of the land from the 12th of December. The goods chapter was one of the last chapters to actually be settled, yeah? This is where we're at. And the state aid rules are also set out within there. There's also a lot of loss of law. We've been saying to the business associations since September, yeah, find different ways to get us to help you, yeah? Let's look at this together. Owen has put together a concrete example that we're actually saying, of course, we'll sit down and look at it, yeah? Of course, the chamber-
+
+- Could not have your teams of lawyers-
+
+- Let's hear from, can we just hear from Owen?
+
+- Yeah, well, I just wanted to say that I think the points that Sonia is making are very, very important because they illustrate how something that is positive for, say the tourism industry in Gibraltar might be a negative for the catering industry. And it illustrates how important it is that government and business approach this challenge in a unified manner. There are businesses at the sharp end of the wedge and those businesses need support. That support needs to be strategic, infrastructural and it also needs to be financial. And as Albert has indicated, as the minister has indicated, there are ways to provide financial support. So from the GFSB perspective, we want to see that structural, infrastructural support, but we also want to see direct financial support as well.
+
+- Right, can we talk about the level playing field? 'Cause that is something that Sonia's just brought up and Daniel has written a question. He says the total outgoings for trade, retailers, and office users such as rents, business rates, and other taxes remain materially different between Spain and Gibraltar which gives Spain a competitive edge as their outgoings are lower. Shelina, can you find out from your audience what they think about the level playing field? Can there be one?
+
+- Yes, well, I'd actually really like to throw to Ed Allison-Wright and Mike Nicholls over there 'cause if anyone wants to talk about rent prices, it's Mike. But Ed, first of all, you work with Ocean Village Group and F&B is something that really concerns you too. We were talking about state aid just before coming on actually. So what do you make of some of the points being raised?
+
+- Well, I think Sonia actually closed out some of the points around F&B really well. But yeah, when you look at food in general and food customers in Gibraltar, that's something I think, you know, we're obviously on a road at the moment. We might not know the name of the road, but we kind of know the direction we're heading in. And it would be useful if we and customers got a bit of a guide about what that road looks like in terms of, for instance, you know, are people going to be coming to Gibraltar to find British products in terms of food or are we accepting that that might just be one of the things that we lose in this treaty. You know, are people gonna be coming for pigs in blankets towards Christmas and stuff like that? Because surprisingly enough, that is a big trade. People then have dwell time in Gibraltar. They buy lunch, they go up Main Street, they buy a few things in the shops and then they'll head back home after full tank of petrol. So, you know, is that something that's going to change?
+
+- It's the products of animal origin.
+
+- Yeah.
+
+t, they buy a few things in the shops and then they'll head back home after full tank of petrol. So, you know, is that something that's going to change?
+
+- It's the products of animal origin.
+
+- Yeah.
+
+- So if I can just pick up on that point. We envisage that a lot more people will actually be coming into Gibraltar to enjoy precisely that, yeah? We envisage that if you're up the coast for three days and you think that you might find a three hour front EQ, you'll be put off coming to Gibraltar. Whereas if you think that there is no frontier at all, if you know there's no frontier at all, people will be much more inclined to come to Gibraltar. So we actually think that the footfall in Gibraltar is going to increase significantly, which will balance out a lot of the concerns that you're highlighting. Going over to Le Linea something which has always happened in Gibraltar, but in particular we think that the footfall in Gibraltar for Gibraltar business will be much, much larger. When it comes to things like pigs in blankets and fish and chips, yeah, we haven't been able to import British products for a while directly to Gibraltar. And yet I could still go to the lounge and have fish and chips. And of course that's something that we will be encouraging. We will be encouraging pigs in blankets, we will be encouraging fish and chips even though the importation of the goods, I mean the importation of the sausages for the past 10 years has been from Spain. If you go to Morrisons or you look at the sausages in Morrisons, the sausages in Morrisons, I believe, just in case I get this wrong, I apologise for Morrisons in advance.
+
+- I think currently you can bring British food to Gibraltar because we're outside the EU and that will change-
+
+- It's just a bit tricky but it's possible.
+
+- Yes.
+
+- But yeah.
+
+- You can continue to bring British products into Gibraltar but it will be tricky, but you can continue. And when the SBS is signed between the EU and the UK, that'll do away with any difficulties whatsoever. But of course we will encourage people to come over to eat fish and chips. The Britishness of Gibraltar, if anything, is protected and enhanced.
+
+- Okay.
+
+- And of course that is something that we would-
+
+- Let's move on to the next point, thanks.
+
+- So, more my domain is that the cost that say Sonia and the others are paying, yes, it's the food, but it's also the cost of labour and the rents. Now, if you have a shop in Main Street or a restaurant in Queensway Quay, compare those with La Linea, the rents here are probably 8, 9, 10 times. So you're never ever going to compete where there's a free-flowing border. And if you look at the trajectory of this, then businesses won't survive whilst they are paying rents 8, 9, 10 times and it pains me, but the long-term is that the rents will have to come down because that's the only way that some of these businesses will survive to be on the level playing field 'cause it's not a level playing field because the difference in property prices. So, those ground floor retail rents will probably drift downwards. Which is how the private market alleviates some of these issues.
+
+- Could I ask the audience, and in particular I'd like to bring Donovan in from Unite as well. Are there real concerns about potential job losses? Because I'm hearing a lot from this particular audience that there are concerns about being able to, you know, keep your businesses afloat. Is there any real concerns that we could be looking at job losses going down the line?
+
+- Certainly there is a concern. Obviously we need to consider right now. Right now we're not exactly sure whether that would be the case. But we're hearing, and obviously this is coming from a different standpoint, which is the employment and our membership. We're hearing about how we'll survive because of the increase in prices. But that will have a knock on effect on maybe you have to reduce your workforce. And that's a really big concern for the union. So, how in terms of the state aid will the state aid perhaps alleviate the unnecessary loss of jobs, which is a major concern for the unions?
+
+- So the state aid rules means that government cannot provide state aid to businesses. So what Albert was talking about was how there are exceptions to those rules rather than anything else. I think that we're looking at a point which Gibraltar will inevitably change, yeah? The face of Gibraltar business is likely to go some transformation in the next few years, yeah? I think that we'll be seeing a lot more business coming in and I think that the current businesses will adapt to market conditions. So I think that what'll happen is that there'll be a transition period and it's this transition period, it's the next six months in particular, which is likely to be very difficult. And yes, rents are likely to have to, rents may have to go down, for example, because the rents La Linea are cheaper. Government doesn't control that as you know. Government doesn't control rates. So that is-
+
+- They've got rates, you have PAYE, you have utilities. Are these levers that you could use or not really?
+
+- [Ros] They don't have rates in Spain, do they?
+
+- They have a lot of other taxes, indirect taxes in Spain.
+
+- Yeah, a lot local tax and yeah, they are taxed, no problem. And their rent is gonna go up as well as a result of free-flow to border.
+
+ey?
+
+- They have a lot of other taxes, indirect taxes in Spain.
+
+- Yeah, a lot local tax and yeah, they are taxed, no problem. And their rent is gonna go up as well as a result of free-flow to border.
+
+- I would just like to say in the context of this conversation because we are talking about a lot of the aspects on the cost side, but I don't think we're necessarily talking about on the opportunity side. If the key aspect of this treaty, and I think the chamber's being clear that we are happy that it's happening because of the fluidity that it brings. Let's find a way to maximise that fluidity into benefit for business because that's going to help you on the other side of that equation. Because there's many things that could be done on the cost side, I think there have been conversations and presentations made, but let's look at the income side. For example, the 15% going up to 17%. Some of that money, I believe the government yesterday made some commitments around using that for security and beautification. The chamber believes that potentially the best investment the government could make is in greater transport, in getting those extra people that are going to come, that we believe are very likely to come to the places where they're going to be spending that money. We should be bringing all those extra people and placing them in main street, placing them in Queensway Quay, placing them at Ocean Village. And we need to find a way to do that effectively, not to our own detriment. So I think that's a very, very important thing and that I think might be the key to maximising the other side of that equation.
+
+- Yeah, I think that's a better point.
+
+- If I can jump in on that front, I think I completely agree that how we get people to Gibraltar, bring them in, move them around and keep them here is a key part of making this Brexit treaty a success. But I think it's also a key example of where as a business community and perhaps with government as well, we have to look at how the sharp end of the wedge can be spread. Transport, particularly transport in the tourism sector, is an area which has not changed much for decades and decades and decades. And there has to be a willingness on the part of government to crack that egg and to spread some of the pain that retailers and traders are going to feel.
+
+- Yeah, and I concur with both your comments and in terms of looking at the positive, it would be good if the government could come up with some commitment to ringfence the funds because once the beautification is done and once the cameras are in place, that money's spent. So what happens in subsequent years? But just as an aside, if the, you know, the roads are nice and we want people coming over, if the businesses aren't there to sell their goods or people won't buy that because they're too expensive and they can buy substitute products across the way and there's no British brands here. So what's the point of paying a higher price for something you can get an identical products over there cheaper, then we won't have the businesses there. And I think that's the, that we really need to look at that our equivalent of that fifth cohort and say how do we help these businesses? They're in trouble. How do we help them?
+
+- Okay, does anyone want to, anyone in the audience want to add anything?
+
+- Vivek Budhrani over here.
+
+- So, whilst we'd accepted that there's a 15% transaction tax coming in and as a business who is starting to adapt to that and work on our margins and so forth, we were actually surprised to learn yesterday that there'd be a personal allowance for visitors to only spend up to 300 euros to take across the land border. Now, whilst I know there's not gonna be a customs check at the border, the government did indicate that there may be customs checks around the Campo de Gibraltar or further afield. As a business that sells luxury goods, 300 euros really doesn't, you know-
+
+- [Ros] I think it's for the first three years?
+
+- It is, that's right, it's the first-
+
+- Well, we start paying the 15% transaction tax from 10th of April.
+
+- It's a long time.
+
+- It's a long time.
+
+- Yeah.
+
+- So, the point here is for the first three years, we're not gonna be able to sell anything above that value. And let's park aside the jewellery trade, but let's say a visitor comes in, they buy a pair of sunglasses, they buy a pair of jeans that gets them over 300 euros. So, you know, that's gonna limit business.
+
+- I don't know what jeans you buy, Vivek, but I don't mean to be flippant about this, but the reality is that for the first three years there will be an allowance of 300 pounds if you come by land and 430 euros have become by air or by sea. We don't envisage this to be a huge problem. We think yes there may be checks in the Campo area, there may be checks today in the Campo area. So, we don't envisage that to be a huge barrier for traders in Gibraltar.
+
+- What about online sales? So if we sell anything online to clients in the EU, is there a threshold for how much they can spend for the next three years?
+
+- So for the next three years I would envisage the allowance is the same as the allowance that is in place at the moment. So 300 euros and 430 euros. That is a three-year limit.
+
+- And actually on that topic of online sales, the chief ministers said, you know, on the positive side, and he's right that there are 488 million people in the EU. But what actual access to them do we have? I mean I can't envisage 488 million people coming across the border every day.
+
+- [Ros] But isn't it down to the businesses to be in charge?
+
+eople in the EU. But what actual access to them do we have? I mean I can't envisage 488 million people coming across the border every day.
+
+- [Ros] But isn't it down to the businesses to be in charge?
+
+- No, but in terms of the online sales, there are key limitations. So there's a 10,000 euro limit beyond which we have to pay or businesses here will have to pay for business B2C sales and VAT on. And will they get the transaction? I'm not too sure, I haven't gotten sight of the treaty, will they be able to claim the transaction tax back if they're paying VAT? I mean how will all of that work?
+
+- You only pay either VAT or the transaction tax. I think that concept has been explained. You will only pay either VAT or transaction tax or IVA or whatever it is. There will never be a double imposition of a customs tariff.
+
+- Okay, if you don't mind, I'm gonna go to some of our viewer questions now because we've had quite a lot come in. There are mixed bags. So I think I'm just gonna go through it and please do jump in anyone who wants to answer these questions and if our audience would like to make a comment on them, please do. Clive is saying, "I would like to know if on the 10th of April all Gibraltar residents with Gibraltar ID cards can cross the frontier just with their IDs regardless of the colour of that ID."
+
+- Yes.
+
+- Yeah?
+
+- It'll be an open-
+
+- Border.
+
+- Yes and that's, I mean, that is what we've been fighting for. That is the important part of this treaty. So there has to be freedom of movement and I mean, again, we have a remark, we have a remarkable achievement. We have free, a Gibraltarian resident can now go to Poland without showing their ID card.
+
+- Here's another question. This is from Harry. Can the minister confirm when the residency amnesty is going to be lifted? Stopping residency applications have had a significant impact on businesses as people are not moving to Gibraltar and opening businesses. This has been on the back of several years of uncertainty and those who've moved here and set up businesses are now facing decisions on whether to stay or go as they cannot obtain residency.
+
+- So, on residency it only applied to anyone that hadn't got the permit. I think it was on the 6th of October, whatever day the rules came into effect. So, the uncertainty or the break kicked in on the 6th of October. The chief minister has committed that by mid-February there will be a policy paper in place which sets out the rules. There's already a draught circulating of that. The chief minister has already had a copy of that. So we envisaged that to be in place-
+
+- I just like to say that the timing for that was absolutely awful. It had a massive chilling effect on the market, not just for residents, for jobs. The people who were looking to renew their contracts who didn't have the residency cover because they had a local address couldn't. And so, even retailers had to employ people from Spain or these people had to move out to Spain. It's really been a disruption just when it wasn't needed. And it did start on the 6th of October. People who had applied a long time before and had taken out leases for living, leases for their offices, you know, sold everything and Gib were completely stymied by this.
+
+- Sorry but that's incorrect because anyone that had applied before the 6th of October. So if the, no, that is absolutely true. So anyone that had applied, anyone that had applied before the 6th of October, their application would've been respected. So, anyone that applied before the 6th of October, their application would've been respected.
+
+- [Craig] I have examples where they weren't.
+
+- So, yes, there was... That was done for a very specific reason. Once the treaty was announced, there was a influx of people that were coming into Gibraltar. So we had to stop and take stock as to what was happening to protect our services.
+
+- But there'll be more clarity you say with the guidance paper.
+
+- There will be more clarity with-
+
+- Is that a concern for any of our audience? Mike?
+
+- So, we all understand that we have to protect our services. Has the government got us a policy on what the right population is or say Gibraltar can only take 45,000 people and we can't take anymore because it's true to say Craig, to an extent, is quite right is that you could only apply for your residency up to 6th of October if you had your property. So we had an awful lot of people who had sold in the UK giving up their jobs, come over here in the throes of buying here. They couldn't go to the residency offices 'cause they hadn't finished buying their property and those were a little bit cast aside. But going forward 'cause we got a bright new future, are you just gonna allow people who contribute to come in and let free market forces do that? Do you have a population strategy? And once someone comes here and they've contributed but then retire, do they get kicked out or are they welcome to stay?
+
+- So I think you're asking a lot of different questions there.
+
+- Too many, sorry.
+
+- No, no.
+
+- You can choose.
+
+ey've contributed but then retire, do they get kicked out or are they welcome to stay?
+
+- So I think you're asking a lot of different questions there.
+
+- Too many, sorry.
+
+- No, no.
+
+- You can choose.
+
+- So, yes, we have a population strategy. Yes, there is a definitive aim of the paper and the idea is to try and make business easier so by almost delinking it from the residents. I don't know it's gonna be possible or otherwise but the ideal scenario is one where you come into Gibraltar, you have residency, and then there are certain different ways that you can look at the residency application. I don't want to go into the details here because the policy paper hasn't been settled on. But as for the elderly residential care, I think that's one of the ones that we have to look at most specifically because in the UK you're not entitled to receive residential care. So, it's a very attractive feature of Gibraltar. We have to actively look at what Gibraltar offers and what benefits Gibraltar offers and how we protect that for the residents of Gibraltar. So obviously I would be passionate about the GHA. I would be passionate about other services that we offer and I think that the need for a break was because once the treaty was announced we did see this influx of people that wanted to move over and we have to have a very careful balance over the type of people that we want to attract and the calibre of people that we want to attract and their rights to attain services in Gibraltar.
+
+- [Ros] Okay.
+
+- This residency question is something that has also concerned Solomon Levy, a partner at Hassans. You mentioned some of your clients obviously coming across this issue now that they're not able to apply for residency. So can you tell us how it's affecting business at the moment?
+
+- Yeah, thank you, no. So, the certainty that's gonna come in middle of February is definitely very much sought in the market. One of the questions that sort of a lot of our existing residents have is are their rules and are the goalposts gonna change for them? So they're already under the existing CAT2 status rules and I understand those rules are being redeveloped perhaps with new conditions. Is that gonna affect existing CAT2 residents or will they be allowed to continue with their existing residency conditions?
+
+- So there's three things actually. There's we're looking at residency, we're looking at CAT2, and we're looking at HEPPs. So the CAT2 and the HEPPs regime is quite separate from the residency regime. What we are fundamentally talking about, I think what Mike was asking about really was about the residency regime but the regimes will be reviewed. Whether they're grandfathered or otherwise is a question which I can't answer now, Shlomo.
+
+- Okay. A couple of questions here. Let me just get to Tito's question. He seems to think that the EES system will be delayed until the summer period so as not to cause big delays at entry points during the summer season. Have you heard that?
+
+- There have been numerous rumours over the past couple of days about the entry system being delayed? We have to work to the timeline that we know. So, we have to work towards the 10th of April because that is the date that we have. So, whilst you know, we monitor the short timeline, we have to work and we have to continue working towards that date.
+
+- Could I ask if Gibraltar or the UK on Gibraltar's behalf has secured a commitment from the EU that they will allow the treaty to be provisionally implemented even if it's not been ratified by the 10th of April? So, there's no chance that we're working towards the 10th of April to avoid EES only to find the treaty has not been ratified by the EU and EES comes in anyway.
+
+- So, they are actively working towards looking at this. Could there be an unforeseeable event which prevents everything happening? You know and I know that we never know about that. Is it likely that it'll be prevented? No.
+
+- Yeah, I'd like to ask a question on behalf of the pharmacies out there 'cause there I noticed from the briefing given that the GHA pharmaceutical products are zero-rated. But at the moment there's a current protocol that allows UK-sourced pharmaceuticals to be brought down to Gibraltar. Would that continue unhindered?
+
+- So pharmaceutical products, all of them are on the super reduced rate.
+
+- And does that include retail as well?
+
+- So, it's a-
+
+- And will they be allowed to bring them down from the UK?
+
+- So the exemption is pharmaceutical products used for medical and veterinary purposes, including products used for contraception, female sanitary protection, and absorbent hygiene products.
+
+- [Craig] Okay, so-
+
+- Ros, I just like to bring in
+
+- Yeah?
+
+- One topic 'cause it's a big one.
+
+- Sure.
+
+- And I'm conscious that we're running out of time. Safety, Albert mentioned it briefly, but it is a big concern I think for a lot of the retailers I've spoken to Amit Chugani from Netgear, Vivek, you've also touched on it as well, but Amit perhaps we could start with you. It's an issue that's come up recently, safety on Main Street. So could you just explain to us why that's a concern and what you might look to the government to do to relieve this issue?
+
+- Yes, I think safety is an issue that affects everybody in Gibraltar, not just businesses. But from a business point of view, I think we've got to consider how are we protecting our businesses in Gibraltar.
+
+- And we've actually seen a couple of break-ins to shops recently. There were a couple of jewellery instances and generally traders have been talking about a concern about danger with an open border.
+
+- And we've actually seen a couple of break-ins to shops recently. There were a couple of jewellery instances and generally traders have been talking about a concern about danger with an open border.
+
+- There's a great concern amongst the community in Gibraltar about crime. There is an increase in crime with the border as it is at the moment. There is an expectation I think from the community, the police about a increase in crime. The chief minister spoke yesterday and the minister spoke today about AI facial recognition cameras and they've already been trialled in the UK and they're producing some very positive results in that they're able to identify very quickly people that they need to amongst a crowd. And I'd like to ask the minister if she has a date for when this will be implemented because we have a date of the 10th of April, but what's going to happen in terms of the security in Gibraltar and when is that likely to happen and to what extent? So we've spoken about the border and we've spoken about Main Street, but Gibraltar's wider than those two areas. What's the implementation timeframe? What's the implementation plan? Where's it going to be covered? And so that we can feel more secure in Gibraltar with the open border given what's happened.
+
+- And just before we go back to the panel, Ros, if it's okay, I'd like to just put the same thing to Vivek Budhrani from Essardas because when we spoke earlier, you mentioned for example, with the facial recognition if someone's face is covered, what that might do when it comes to alleviating crime. So if you could explain those concerns.
+
+- We'd like to understand, you know, what the technology's able to offer and how that's gonna be a deterrent. You know, we're worried with how things are at present. Ourselves, we've been targeted a couple of times in the last year and some of it was pretty violent. So, you know, we are quite concerned about the safety not just of our premises, but of our personnel and of our clients as well. And we're worried that once the border is open and free-flowing, you may have these cameras but, you know, you could have organised gangs coming in and it's gonna be quite easy to get back across. So, we'd obviously like to see some more police presence on the streets as well. Obviously I'd like to thank the minister because she has brought the commission around to meet with us and he is willing to engage with our sector. So, you know, that is encouraging, but we'd like to see what else can be done and how quickly it can be implemented.
+
+- And before the minister actually answers that question, I do have a another question about jewellery here. Suresh has written in and he says, "It must be said that as far back as the 3rd of July, 2025, over seven months ago, an urgent letter was sent directly to the chief minister by a Gibraltar law firm on behalf of a collective of 34 very worried Main Street jewellery retailers asking for a meeting to discuss the transaction tax. The letter was completely ignored by Number Six Convent Place. The business community is not encouraged by this kind of response to what can only be described as genuine concerns and queries." So if we can tackle the security and then tackle the-
+
+- Yes, of course. So on the security, I think that, so I did visit your premises, I think I spoke to your brother with the commissioner of police. We went to numerous other jewellery stores because there have been numerous instances and we are aware of it. So we're aware of it now with the border as it presently stands. So we are liaising with the police to see what is the best technology that they can advise us to get for the enhanced security on Main Street. I think you'll also find that there are now officers patrolling Main Street on a more regular basis. And that is as a result of the first visit that we did where retailers express their concerns. One of the things that I have found, and I would say we have a retailers group that meets regularly in my office. And what we found the first time round was that retailers were not reporting crimes. So the police were not aware of the level of concern that there was in Main Street because the crimes are not reported. I believe that you guys have a WhatsApp group that you circulating and you tell each other when there's an issue. One of the things that the commissioner of police said is report it. We need to be aware of where the hotspots are. We need to be aware of what's going on so that we can then deploy our resources more efficiently. So I believe that that has increased, but not significantly. So I think that there needs to be more rapport. What we discussed with the commissioner of police is that we would invite him to our next retail meeting so that he would hear firsthand for himself what was going on. But what we did say and what we did commit to in that round and what we have been happy to commit to every time that we've met the retailers is enhance security on Main Street, enhance security on Main Street and providing the technology that is best for-
+
+- The question is when. That's the question
+
+- Yeah, sorry.
+
+- That's been asked.
+
+- Sorry, the purpose is when. We are investing in a lot of infrastructure in around the airport in the next couple of months, in the next couple of months. So, as much as it's a rush for you guys, it's a huge rush for us as well. So we are looking to invest in the infrastructure around the airport area and in Main Street as soon as possible. What does that mean? We have to put a lot of provisional arrangements around the frontier and around the airport. But it also means that we are looking at very quickly putting up facial recognition cameras around the tunnel, around Main Street, around the airfield in Gibraltar, and around special and around other areas that are designated hotspots. So again, please report so that we know where the designated hotspots are.
+
+around Main Street, around the airfield in Gibraltar, and around special and around other areas that are designated hotspots. So again, please report so that we know where the designated hotspots are.
+
+- Can I ask a quick question on this topic? Does the treaty address any extradition elements? So, for example, if gangs of thieves come in and run across and we can identify who they are, will it go through a long process and complex court process to get them back? Or are there mechanisms to fast track them?
+
+- There are mechanisms contained in the treaty to fast track it. Please don't ask me for the details on that.
+
+- No, of course not.
+
+- But there are mechanisms in the treaty.
+
+- And in terms of engaging with businesses, how do you respond to Suresh's?
+
+- So I didn't get the letter.
+
+- Right.
+
+- I haven't got the letter and I certainly try to engage with as many businesses as possible. I think that what is likely to have happened is that on the, in July, no, it was the date. On July the details that he had available weren't there. So, if that letter is resent and I would encourage Suresh to resend the letter in my direction, I'll happily answer Suresh as indeed I answered his text message today.
+
+- Okay, now, as Shelina mentioned, we are coming to the end of the programme. Sorry, I wanted to ask were there any other audience members have questions and if there are any other big topics, Shelina, you want to bring up before we close?
+
+- Yeah, it was actually a marina-related query. So, both the major operators in Gibraltar, Queensway Marina, and Ocean Village Marina welcome superyachts and yachts and pleasure boats to Gibraltar regularly. So we're, you know, oversubscribed in our marina, I'm pretty sure Queensway are as well. The way that we read it at the moment is that when a superyacht visiting Gibraltar, after this treaty is signed, arrives, they will essentially have to be bused to the Schengen Shack and that's the whole crew on the boat. How is that going to work when effectively if we're trying to be on an equal playing field with marinas up the coast in Spain, they don't necessarily have to do that.
+
+- So, I think the issue is that the checks will have to be carried out in the Schengen Shack for obvious reasons. So how the logistics will work of getting the crew there, I'm sure that we can work out logistics but the crew is likely to have to go to the Schengen Shack.
+
+- So what impact do you think that would have, Ed, on having people come over? Is that gonna stop them?
+
+- Well, it's a disincentive but look that there's the ASYCUDA system is a system that's used in Europe as well as far as we're concerned. So, obviously it's something that I think we appreciate that it's a fast-moving process and to be fair, we spoke to the deputy chief minister as well. So I know he is aware of this. So, I think it's something that we would welcome further consultation on. I know Queensway would probably do the same just so that we can make sure that we keep hold of that business. That business gives a lot of trade to bars, restaurants, replenishments, whenever they're in port. So, it would be a huge loss to Gibraltar if that wasn't to continue.
+
+- Before we look at closing, is there anything else, Shelina, you want to bring up?
+
+- There is one element I'd like to touch on. I'm sure there's plenty more to discuss, but bunkering fuel has been spared a transaction tax and we do have a representative from Gib Oil here. So I thought it'd be interesting to hear whilst you are not facing a transaction tax, how all of this might impact your industry. Martin Xiberras.
+
+- Okay. So, obviously it's fantastic news for the industry that there's no transaction tax or excise duty on bunkering. Obviously Gibraltar is one of the main bunkering ports in the world and we're competing against ports all over the Med including nearby ports like Algeciras, Ceuta, Las Palmas. So to keep this duty-free status has been critical to ensuring the longevity of this business. So it's great news and well-received.
+
+- Can you speak to any of the points Ed made about crews coming over? Because you do work with some yachts as well. So, what is their understanding of how things might change and the logistics behind it all?
+
+- No, so it's a great issue. I know there's a session tomorrow specific to the port operators where we intend to get some more feedback on how that's gonna work. But it's certainly an issue that also concerns that because obviously we do have lots of yachts call in for bunkering. The crew need to get down from the yachts to go and buy their provisions, et cetera. So where they need to go through this process as well is something that we need to understand.
+
+- Is there more scope, is there scope for looking into this issue and perhaps making something accommodate, more accommodating.
+
+- Many of the others will be envious of Martin's now.
+
+- There is of Ed's issue in particular, it's a case of looking at logistics and of course we look at logistics like I said, he's already engaged with the DCM. I'm sure that all of us, you know, have an open door policy on these things. I've had lots of text messages, I've had lots of emails over the past couple of days from concerned retailers and we will try and engage as much as possible. The town hall and the port operators meeting tomorrow was as a result of, you know, people wanting more feedback. So we're trying to engage, we're trying to give as much detail as we humanly can.
+
+- I would just encourage because it's beneficial to everybody. A suggestion from me would be let's have a single place where all artefacts, all updates, all news can be placed. So that's whether it be people, whether it be businesses, whether it be bodies. It's an easy place that we can go, like some sort of electronic hub, all the press releases, all the FAQs when they're ready, the criteria. I think that would be a massive, massive help to everybody.
+
+It's an easy place that we can go, like some sort of electronic hub, all the press releases, all the FAQs when they're ready, the criteria. I think that would be a massive, massive help to everybody.
+
+- I mean if you're interested in that, I can say the GFSB, if you go to our website, we have artificial intelligence FAQ and it has every single thing that has been published on the Brexit treaty since June last year right up to today.
+
+- Yeah.
+
+- And it's brilliant resources in respect of that. We've got our own and I just think if there was one, if there was just one-
+
+- One hub.
+
+- From the government with everything, including forms, including-
+
+- I mean I understand what you're saying. Sorry, I wasn't being, I didn't want to make light or make a point or anything like that because I accept what you're saying. I mean sometimes there's all these briefings going on and the provenance of them is not shared and it doesn't go into the public domain and it may be useful for people, you know, who are involved in the port operators but not necessarily the marina operators or the supermarkets.
+
+- Rather than get it through a WhatsApp from a friend, you know, which is ultimately what ends up happening in Gibraltar. So it's, yeah.
+
+- So, that's possible.
+
+- Yeah, I will of course take that to the CEO business. I'm sure it's not an issue at all.
+
+- Before we get some closing comments from the panel, is there anything our audience would like to add.
+
+- There is a delay in the ESS system or will the whole implementation be delayed?
+
+- We're not even considering that. So we are having to go for the 10th of April. The date that we've been given is the 10th of April. So at the moment it's all stations go for the 10th of April.
+
+- We'll just have a Raju Purswani.
+
+- In the forthcoming by-election in the UK the labour government's gonna be promoting a policy called Pride in Place. It's basically investment into town centres. So yesterday when the chief minister said that he was gonna put that extra transaction tax into investment at town centre, I obviously welcomed it. I think that, I don't think there's any doubts that we're gonna have more people visiting Gibraltar, but that doesn't necessarily correlate into more business for our businesses. So, one of the key factors is what the environment is in our town centre and I think that it's been crying out for some serious investment for a long time. So, I'd like to listen to the minister to tell us exactly what plan she's got for us.
+
+- I'm very happy to say that I've actually, I've actually got plans. So there are actually physical plans that have been drawn up. So from about a year ago, so before any of this, we've engaged architects to look at Casemates, to look at Chatham, and to look at Main Street as a whole to do precisely that. So it's a tidying up exercise, it's a beautification exercise. There have been smaller investments. The flower pots have been done up again, but this is a more systematic investment into Main Street. So, a consultation has already begun with Chatham and Casemates, but that's because the stakeholders are involved in that process. Main Street will be somewhat easier to implement because it'll be a more holistic plan and it'll be a case of investment only without necessarily having to go to stakeholders to look at the torno, whatever.
+
+- The awnings.
+
+- The awnings. So yes, we do have a plan. We actually have architects drawings showing what it is that we want to look at. And it's all about, it's all about looking at the signage, looking at wayfaring, looking about tidying up Main street, and having a whole look and feel to the experience and how we can enhance it.
+
+- Okay, did Ludo?
+
+- Yes, just quickly two things. First, government talks about a three-year transition period, but last time I checked between 15 and 17 is only two. So first year at 15, second year at 16 and that's it. The transition period is over, we're at 17 and that's it. So there is, it's really confusing enough. We need to end. And another thing is, has there been any study done in terms of the effect of the change on the cost of living of Gibraltarians? Okay, it's a bit outside from business, but still they're our customers. So obviously if they're hit in the pocket, they will buy less. There is nothing that will go down, I believe, everything is going up. So they will definitely have an effect. So, I haven't seen, maybe it's been published and I've missed it, but for me, something really important that the cost of living is gonna go higher. Okay, this is a negative, but there is a lot of positive and we are in many ways there is many positive and sometimes it surpasses the negative, okay. But there is still going to be, life is gonna be a little bit more expensive and for me, for the electronics I import, there is a lot of, most, well, probably half of what I import is gonna be massively hit. So, I understand there is, people won't be able to claim the AT and so on. So it's kind of mitigated a little bit, but still, what I don't know, I know my goods, I know that they're gonna be hit 15% on the first year, but this is only a portion of what people buy. And I don't have the data on all the rest. You do because you know exactly everything that comes into Gib, at what rate, what the volume is compared to the amount of people. So you know, the cost of living statistics. Has there been any studies into projecting what the new rate for all these goods will be and how it will affect people in the past.
+
+to the amount of people. So you know, the cost of living statistics. Has there been any studies into projecting what the new rate for all these goods will be and how it will affect people in the past.
+
+- Yes, so of course there have been, we have looked into the different effects that it'll have. The main thing that it has to say is that the basics are zero-rated. So all of the basics, and I think Gibraltar needs to know and have confidence in the fact that all of the basics are zero-rated. So your food, your medicine, et cetera, they will all remain zero-rated. The reality is that products should be cheaper in Gibraltar than in Spain, all things being equal. We know that the cost of doing business in Gibraltar is more expensive, but there is a difference between a 21% IVA in Spain and a 17% transaction tax in Gibraltar. So, we have to look at what the impact will be in the short, medium, and long-term, yeah? So in the short-term, there are some items that will be hit and inevitably there will be some items that had zero 2%, which will sometimes go to the 15%. All the basics will remain at zero. And yes, there will be some items that will be higher, but as Mike said, there will be other market forces that have to come into effect to lower rents, to lower other costs. And that is a reality that we're facing.
+
+- Ros, that's a very good point that Ludo has brought up, the impact assessment. That's something that's carried out by all countries when a treaty or so of this nature and magnitude goes through. I asked in parliament about that question and the government said that they had produced one, but it had been produced internally. I'd like to ask A, why weren't external consultants and experts consulted? Unless that was implied in the reply. And secondly, why won't they share it with the public?
+
+- Yeah, what was in the impact assessment? Could that be shared?
+
+- So, the impact assessment looks at all the data that we have, including some sensitive information and looks at the impact that it'll have on Gibraltar goods. And again, there will be some goods where the rates will go from two to 15, but the reality is that all goods, so all foods, all medicine, et cetera, will be at zero. Will there be an impact? Yes, there will be an impact. There will also be a greater market that Gibraltar can sell out to. So, the medium to long-term view is that that should balance everything out.
+
+- And then the public domain with other countries. So they're not secrets, you know? I don't understand why they're not sharing it. It would be to the advantage of the business community. I would urge the government to do so.
+
+- It's not my call.
+
+- Sure, I understand.
+
+- Okay. Anything else?
+
+- Opportunities point is a good one to pick up on because it has been mentioned. Are there any business owners here who are looking at these opportunities, you know, selling to the rest of the EU? Is that something anyone's explored here? And what are your findings so far?
+
+- So we've been developing our e-commerce business, our website to prepare ourselves to sell to these 400 million consumers. But it comes down to price. Again, if we do all this and our prices are not competitive, we just won't be able to. But we are preparing, we put our website in euros, we're doing it in different languages also, and we're just hoping we'll be able to take some advantage of it. But you mentioned before that you're looking at the 10th of April, but if there is a delay in one of the, in the ESS, it's not that transaction tax will come in on that date. I suppose it'll all be delayed.
+
+- We're, like at the moment, at the moment we're looking at the 10th of April.
+
+- [Raju] Yeah, I understand that.
+
+- So we're not-
+
+- But if there is a delay in one of the factors.
+
+- We'd have to look at it then and see what the scenario is.
+
+- I would just suggest from the chamber's perspective is that, should there be the option to defer, please, please, please let's defer.
+
+- Yeah.
+
+- I am-
+
+- I guess maybe that's a very obvious statement to make, but I think it should be made.
+
+- I think that negotiate, I mean I think that the government concurs that if we can allow ourselves more time, we would be delighted to allow ourselves more time. But the current deadline, I think we have to-
+
+- It's the 10th of April.
+
+- Yeah, I understand.
+
+- Nikki at the back.
+
+- Thanks. Just briefly, so obviously businesses are very concerned about the short timeframes and so we're very focused on the implementation getting over the line, but has been mentioned, a lot of this now means that we can do business with Europe and European businesses can do business with Gibraltar. So just wanted to ask a question and get a sense of how businesses were feeling in terms of being ready for that competition. And also to ask about the business licencing system which has created a sort of protectionist system in Gibraltar that has made it very difficult for non-Gibraltarian businesses to do business here and whether this treaty is going to change that in some way.
+
+- Okay. Yeah. So if I start with the business licencing point, the business licencing remains in place. In fact, what we're trying to do I think will be music to the years of most businesses is that we're trying to streamline the business licencing and the business registration procedure. We need to make it much easier for people to do business in Gibraltar. So, if we believe that this treaty offers a lot of opportunities for people, we have to make it easier for business to come and set up. Again, I think that's something that the chamber and the, sorry the chamber and the GFSB have told us a lot. But yes, the business licence regime will stay in place. You have to have your business licence in place in order to offer business in Gibraltar. And remember that this treaty applies only to goods. Services are still, are used to-
+
+- [Ros] Very quick question from-
+
+- Sorry if I can jump in.
+
+- Yeah.
+
+ce in order to offer business in Gibraltar. And remember that this treaty applies only to goods. Services are still, are used to-
+
+- [Ros] Very quick question from-
+
+- Sorry if I can jump in.
+
+- Yeah.
+
+- The treaty may only apply to goods, but I think it is important that we have a business licencing regime.
+
+- Yes.
+
+- Which exists outside of the treaty. So it is important that there's an equal playing field. And if you have to have a business licence because you're based in Gibraltar doing a certain type of business, then anybody who's in Spain and wants to do that same type of business in Gibraltar must be obliged to have a licence as well.
+
+- Yeah, there's a question here about people doing business illegally in Gibraltar and how that will be captured.
+
+- So we've heard about the carrots and how we deal with that. The stick should also be in place. We must enforce these sort of unregulated, unregistered people-
+
+- Yeah.
+
+- That are coming to Gibraltar. That is one of the ways that we can protect our business.
+
+- And the consumer.
+
+- I think there would be a general desire actually for a greater degree of enforcement I think, would be the remark of that.
+
+- I'm very sad to say that we're actually have come to the end of the programme. We have overrun quite a bit but I think it's been worth it. Before we go, I would just like to hear your final thoughts. Owen.
+
+- I think that the Brexit treaty is going to be a profound change for many businesses in an environment where doing business in Gibraltar is already very challenging and more expensive than it is across the border. There are gonna be some positives and I think to maximise those positives to broader needs, a coherent strategic plan, I think it's a plan that should focus on our British identity, not just from our retail experience, which makes us unique, but also because of the supply chain issues that many businesses are going to face. I think if we can maximise that and we can share the good, then we should carry that through to its logical conclusion, which is that there shouldn't be a small number of businesses that are at the thin end of the wedge that take the whole price. That the price must be spread. And that includes not just strategically trying to maximise the positive, but it also means directly helping businesses financially with the challenges of doing business in Gibraltar. That help has to outlast just the technical transition period of the treaty. The transition for Gibraltar's gonna be far, far longer and we must be thinking in terms of years.
+
+- Long-term strategy. Albert.
+
+- So concur with that statement and what I would do is incrementally add, we need operational clarity. We need to understand what holding our hand looks like and quickly we're very grateful for all the activity of the last few days that has brought about some clarity. I think we need further clarity still and we need that quickly and we absolutely need to do what we can to capture the opportunities. The chamber's view of that is we invest in our infrastructure for transport to channel all these extra arrivals to spend money with these businesses to help them overcome just the inevitable increase in some costs on the supply side. So, that would be the key from the chamber's point of view.
+
+- Okay. Craig Sacarello.
+
+- Yeah, thank you. I agree with those comments and certainly the door opening for plenty of opportunity and I would certainly urge the government, whichever government is in to continue this relationship with the GFSB and the chamber, and actually work closer with the business community because our economy will thrive and prosper. But you know, as much as we want to be optimistic, optimism alone doesn't, you know, pay rents and wages. That has been, you know, commented this evening. And there are some businesses that face existential threats and others that will face challenges nonetheless. And no business, no matter how strong, can work under a period of uncertainty without suffering. And so, what the government has to do now is step up to the plate, bring in teams of change management, IT consultants, border specialists, whoever's needed to support and provide proper reassurance on the ground, example forms, processes. But that needs to be done yesterday, not now. So I would strongly urge the government to give as much opportunity for the businesses to thrive.
+
+- Okay. Minister?
+
+the ground, example forms, processes. But that needs to be done yesterday, not now. So I would strongly urge the government to give as much opportunity for the businesses to thrive.
+
+- Okay. Minister?
+
+- Thank you very much. So I think that tonight we've dealt with a lot of the uncertainty that businesses have. There is a process of change that's going on at the moment and I think that change worries and concerns everyone. And I think government has to acknowledge the fact that businesses are concerned and businesses are worried about this transition period. However, I do believe that the treaty offers a great opportunity for Gibraltar. It is a pivotal point and this government has offered that transition from other pivotal points. The government has a vision, it has a plan, it is able to deliver that plan. I think that in the next few weeks, businesses will see a lot more interaction with them. They'll get a lot more information about all the points that are coming out. They'll get some briefings on what's coming out. Businesses are all the time coming into my office for different meetings on what is happening. So the briefings will continue, BTAG will continue. But the important message is that yes, this is a short implementation period. Yes, the transition will be difficult, but the opportunities that the treaty brings are unenviable. The opportunities that a treaty brings are huge, especially when we look at what the alternative would've been. So the alternative would've been a close frontier or a virtually closed frontier with Gibraltarians being unable to leave Gibraltar and their cross frontier workers being unable to get in. So for businesses, for businesses, for the GHA, for the care agency, that would've had a huge impact. So, my passing message is yes, there is a lot of nervousness at the moment, but the opportunities are huge for Gibraltar and I would encourage business to work as much as possible. And I know that the Chamber and the GFSB do work with us closely to take those opportunities and make sure Gibraltar levels up to the next level.
+
+- And also to listen to the concerns and see how you could help address those.
+
+- Absolutely.
+
+- Yeah.
+
+- Well, I would normally leave the last word to the minister, but I'm sure you wouldn't mind me leaving the last word to a member of the audience. Does anyone have anything final that they would like to say? Darren?
+
+- I think it's a moment that-
+
+- [Ros] Can we have a microphone for him.
+
+- Personally, I think it's a historical moment, a very important moment and one that certainly everybody has to work together towards a common cause, setting all differences and agendas aside. There has to be consultation and definitely clear communication if we really want to achieve the goals.
+
+- Okay and just Mike Nicholls over there would like to-
+
+- Say something.
+
+- Have a comment.
+
+- I think the fact that there's huge demand from people to live here shows that what we're about to go into is hugely popular and we're very, very lucky, those of us who have chosen to be here, not born here, we're very lucky to be here and there's thousands who would love to be here. So, the future is shown by the demand to be here. So I think it's a very positive what's happening tricky in the short-term.
+
+- Yeah and if I can just pick up on that, Mike. The business event in London was hugely oversubscribed, which shows the appetite that there is for people to learn about Gibraltar. Sorry.
+
+- It's fantastic that we've ended on a positive note. Lots of concerns and uncertainty, but lots of positive and opportunity still to come, hopefully. Thank you very much to our very brilliant audience. Thank you to Shelina for being my co-producer and co-presenter tonight. Thank you very much to our excellent panel for all the great points that you've brought up. And of course, finally, thank you very much to you for watching Viewpoint tonight. We'll be back next week at the same time. Good night.

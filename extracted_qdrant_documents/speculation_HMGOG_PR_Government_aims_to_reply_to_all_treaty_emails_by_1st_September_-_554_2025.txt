@@ -1,0 +1,17 @@
+=== DOCUMENT METADATA ===
+Source Name: HMGOG PR Government aims to reply to all treaty emails by 1st September - 554/2025
+Source Date: 2025-07-24
+Source Link: https://www.gibraltar.gov.gi/press-releases/government-aims-to-reply-to-all-treaty-emails-by-1st-september-5542025-11096
+Created At:  2025-12-09T09:16:03.567Z
+Qdrant ID:   1765271763017
+Chunks:      1
+========================
+HM Government of Gibraltar conveys its apologies that it will not be possible to reply to questions submitted by the public regarding the UK-EU agreement by 25th July as originally intended. This is due to both the number of questions that have been submitted (over 1,000) and the fact that the Government has continued to be engaged in treaty discussions with the EU since 4th July.
+
+The Government remains committed to addressing the public’s questions or concerns related to the agreement in a meaningful way and will continue with this work steadily throughout the next few weeks, when those who have submitted questions can expect to begin receiving replies. The Government estimates that all emails will have received a reply by 1st September.
+
+The Chief Minister, the Hon Fabian Picardo, said: “I’m grateful to all those who have taken the time to put their questions to us in this proper format and I’m sorry that we have not been able to get back to you in the time that we would have liked to. However, I think it’s important that everyone who has written to us receives a meaningful reply and that’s why I want to make sure that we take the extra time that we need to do so.
+
+"The work on finalising negotiation of the treaty text is ongoing and I am very happy to be able to report that the past few weeks have seen a lot of activity in this respect, with a lot of text being circulated and considered in a very positive and constructive spirit which bodes well for the timing of the text being published sooner rather than later."
+
+"All of this has contributed to not being able to have the bandwidth to answer the over one thousand questions I am advised have been received and the publication of an FAQ factsheet / booklet based on these."

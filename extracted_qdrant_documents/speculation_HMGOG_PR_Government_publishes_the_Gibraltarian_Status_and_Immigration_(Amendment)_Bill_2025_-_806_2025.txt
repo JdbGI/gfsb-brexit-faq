@@ -1,0 +1,35 @@
+=== DOCUMENT METADATA ===
+Source Name: HMGOG PR Government publishes the Gibraltarian Status and Immigration (Amendment) Bill 2025 - 806/2025
+Source Date: 2025-10-30
+Source Link: https://www.gibraltar.gov.gi/press-releases/government-publishes-the-gibraltarian-status-and-immigration-amendment-bill-2025-8062025-11378
+Created At:  2025-12-09T09:00:55.777Z
+Qdrant ID:   1765270855399
+Chunks:      1
+========================
+HM Government of Gibraltar has today published the Gibraltarian Status and Immigration (Amendment) Bill 2025, a further measure aimed at refining the criteria for residency and associated benefits for Gibraltar belongers and residents alike, while addressing systemic abuses. 
+
+This Bill responds to mounting pressure on Gibraltar’s institutions caused by a rapid influx of individuals in recent years. Left unchecked, this trend risks creating an unsustainable situation for the community. The Government is therefore taking decisive action to protect the integrity of its systems. 
+
+The Bill, if approved by the Gibraltar Parliament will amend 2 Acts of Parliament.
+
+The Gibraltarian Status Act determines who is entitled to be registered in the Register of Gibraltarians. Only persons who share a deep and significant relationship with the Rock should be registered. The Act dates back to 1962, when the prevailing conditions were markedly different to the situation today. 
+
+In general terms, a person has been able to acquire Gibraltarian status by descent without much qualification. This has led to persons being registered despite them (and in some cases their predecessors) having little or no connection with Gibraltar.
+
+In most cases it will limit applications to persons who have a parent that is also a registered Gibraltarian.
+
+Currently Gibraltarian status can be obtained by a person whose grandparent was merely entitled to registration. That means that the grandparent did not even have to have been a registered Gibraltarian for the status to flow to a grandchild.
+
+Additionally, the provisions referring to a child will be amended so that it is clear that a child is someone who is under 18 years of age. We have seen how this generous language has been exploited by persons who have claimed status for adult children, and that loophole needs to be closed.
+
+The eligibility criteria in section 9(f) is also being amended so that 20 and not 10 years of continuous residence is required where a person seeks registration on the basis of Ministerial discretion.
+
+The Bill also amends section 55N of the Immigration, Asylum and Refugee Act and increases the qualifying period under that section from 5 to 10 years.
+
+The Amendment to section 55N, however, does not apply to anyone within scope of the withdrawal agreement, the EEA EFTA separation agreement or the Swiss citizens’ rights agreement.
+
+As previously mentioned, these changes are a proportionate and necessary step that will help secure Gibraltar’s institutions for Gibraltarians and for non-Gibraltarians who have made the Rock their place of business and their home.
+
+The Bill, if passed by the Parliament, will take effect as from today.
+
+ENDS

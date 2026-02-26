@@ -1,0 +1,9 @@
+=== DOCUMENT METADATA ===
+Source Name: Specific Operational Aspects 
+Source Date: 2026-02-26
+Source Link: https://treaty-gov.info/#Faqs
+Created At:  2026-02-26T14:53:19.065Z
+Qdrant ID:   1772117598033
+Chunks:      1
+========================
+The specific operational aspects of the regime with regard to the transit of goods between HM Customs and the EU designated customs post are currently being settled between the relevant customs authorities. We do not expect any major changes on matters such as declarations, guarantees and use of the ASYCUDA system. The Government will report separately once these matters have been clarified.

@@ -1,0 +1,13 @@
+=== DOCUMENT METADATA ===
+Source Name: Will the EU designated customs post also carry out SPS clearance formalities on goods coming from outside the EU and only transiting through the EU to Gibraltar? And what about SPS goods that are already in free circulation in the EU before entering Gibraltar?
+Source Date: 2026-02-26
+Source Link: https://treaty-gov.info/#Faqs
+Created At:  2026-02-26T14:43:47.531Z
+Qdrant ID:   1772117026585
+Chunks:      1
+========================
+As a general rule, under EU law, sanitary and phytosanitary (“SPS”) related customs clearance formalities must be carried out at the first point of entry of the goods into the EU. So, the SPS controls on goods being imported by land from, say, the United Kingdom will need to be cleared for these purposes in France (or any other point of first entry in the EU).
+
+SPS goods may be imported by sea from a third country to Algeciras which then becomes the point of first entry of the goods into the EU. Once cleared there, they may be transported to Gibraltar by land under the T1GI transit code.
+
+SPS goods that are already in free circulation in the EU before entering Gibraltar would not need further SPS controls but would only undergo the formalities necessary for the second transit to Gibraltar at any one of the designated customs posts.

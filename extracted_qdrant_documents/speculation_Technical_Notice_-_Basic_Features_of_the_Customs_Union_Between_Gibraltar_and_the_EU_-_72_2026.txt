@@ -1,0 +1,172 @@
+=== DOCUMENT METADATA ===
+Source Name: Technical Notice - Basic Features of the Customs Union Between Gibraltar and the EU - 72/2026
+Source Date: 2026-02-04
+Source Link: https://www.gibraltar.gov.gi/press-releases/technical-notice-basic-features-of-the-customs-union-between-gibraltar-and-the-eu-722026-11670
+Created At:  2026-02-05T10:47:57.808Z
+Qdrant ID:   1770288477588
+Chunks:      3
+========================
+Technical Notice - Basic Features of the Customs Union Between Gibraltar and the EU - 72/2026
+February 04, 2026
+
+Basic Features of the Customs Union Between Gibraltar and the EU
+
+Establishment of a customs union between Gibraltar and the EU. Gibraltar is not joining the EU Customs Territory. We are creating a customs union between both territories.
+
+In that customs union, the equivalent of standard EU rules on the free movement of goods will apply, notably:
+
+The customs union applies to all goods produced in the EU and in Gibraltar.
+No customs duties or quotas shall apply to the trade in such goods between Gibraltar and the EU.
+How will goods move – General
+
+The basic rule is that goods will be imported and exported by land. However:
+
+EU goods may be imported by sea if they are first cleared in the Customs Office in Algeciras.
+All goods may be exported by sea if they are going to a non-EU country.
+With some exemptions, customs clearance for all goods imported into or exported from Gibraltar will be carried out in Designated Customs Offices (DCP) situated within the EU. These are Algeciras, La Linea, Sagunto and an Office in Portugal that still needs to be decided.
+
+REGIME FOR EU GOODS MOVING BETWEEN THE EU AND GIBRALTAR
+
+How will EU goods be imported
+
+The goods will move from their point of departure within the EU to the DCP under standard transit rules using the T2 form. All customs clearance formalities will be carried out at that DCP, except EU VAT formalities since EU goods moving from the EU to Gibraltar in commercial quantities will not be charged VAT in the EU.
+
+Once cleared, the T2 transit will be closed at the DCP and a new transit procedure will be opened for the movement of the goods from that DCP to Gibraltar using the New Computerised Transit System (“NCTS”) applying a new code T2GI.
+
+HM Customs will be responsible for closing the T2GI transit upon the arrival of the goods in Gibraltar. HMC will also be responsible for levying the transaction tax and excise duties (where applicable) where the goods are to be placed for sale in the Gibraltar market.
+
+Special customs procedures
+
+The transaction tax and excise duties (where applicable) will not be levied when the goods are to be placed in a special customs procedure (SCPS) in Gibraltar. These SCPs are customs warehouse (bonds), inward processing or temporary admission.
+
+EU goods may be kept:
+
+In a customs warehouse for a maximum period of between 1 to 9 months, save that the lower limit will not apply to ship supplies.
+Inward processing and temporary admission for a period of 3 months, which can be extended where justified.
+HMC will be responsible for the authorisation and supervision of the three special customs procedures. HMC will apply legislation which will be aligned with the relevant EU customs legislation on SCPs.
+
+How will goods be exported from Gibraltar to the EU.
+
+HMC will open the new T2GI procedure using the NCTS to cover the transit of the goods from Gibraltar to one of the DCPs. Once the DCP has carried out all the customs formalities to allow the entry of those goods into the EU customs territory, it will close the T2GI transit and open a standard T2 transit procedure for the movement of those goods from the DCP to the point of destination within the EU.
+
+That regime will not apply to ship supplies which may leave Gibraltar by sea or air without having to be taken to a DCP. Ship supplies include traditional supplies as well as bunkering fuel and supplies to aircraft.
+
+REGIME FOR NON-EU GOODS MOVING BETWEEN THE EU AND GIBRALTAR
+
+How will non-EU goods be imported
+
+The same transit regime as for EU goods will apply, this time using the T1 and T1GI transit procedures. This means that such goods must enter by land except that goods which are to be placed under an inward processing or temporary admission procedure and bunkering fuel may arrive by sea.
+
+Sanitary and phytosanitary related customs clearance formalities shall not be carried out at the DCP but at the first entry point of the EU.
+
+Special customs procedures
+
+The same special customs procedures will apply, subject to the following differences:
+
+Both HMC and the DCP will be responsible for the authorisation and supervision of the goods under the three special customs procedures. In the case of the DCP, it will apply EU customs legislation.
+The DCP will levy whatever customs duties are due on the goods applying the EU Common External Tariff (uniquely, the proceeds of these customs duties will be paid back to Gibraltar);
+There is no limit on the time that the goods may be kept in a customs warehouse (bond). The time limits will also be longer (at least 24 months) for goods under an inward processing or temporary admission procedure.
+Where bonds contain both EU and non-EU goods, this regime shall apply.
+
+How will goods be exported from Gibraltar to the EU.
+
+The same transit regime as for EU goods will apply, this time using the T1 and T1GI transit procedures (by land, to DCP).
+
+Non-EU goods may be exported from Gibraltar by sea to countries and territories outside the EU from the port in Gibraltar without a physical presentation in the DCP.
+
+TRANSACTION TAX AND EXCISE DUTIES.
+
+The current import duties will cease to apply on the entry into effect of the treaty (currently envisaged for 10 April).
+
+Instead, new rules on transaction tax (TT) and excise duties (ED) will apply. The ED will only apply to tobacco, fuel and alcohol.
+
+The TT and ED (where applicable) will only apply where goods are to be placed for sale in the Gibraltar market.
+
+They will be charged and collected by HMC upon the importation of the goods into Gibraltar. If, however, the goods are going to bond or any other SCP, they will only be charged once the goods are released to be put on the market in Gibraltar.
+
+Goods manufactured in Gibraltar will be charged when they leave the production site.
+
+TT rates
+
+y other SCP, they will only be charged once the goods are released to be put on the market in Gibraltar.
+
+Goods manufactured in Gibraltar will be charged when they leave the production site.
+
+TT rates
+
+The taxable amount for goods imported into Gibraltar shall be determined with reference to the value for customs purposes. It shall include:
+
+(a)            taxes, duties, levies and other charges (including excise duties) due by reason of importation, excluding the transaction tax; and
+
+(b)           incidental expenses, such as commission, packing, transport and insurance costs.
+
+The standard rate of TT shall not be below the lowest standard VAT rate applied by a Member State, which currently is 17%. This will start at 15% increasing annually to 17% by the third year.
+
+A reduced rate of 5% and a super reduced rate of 0% will apply to certain goods as listed in Annex III of the EU VAT Directive. The choice is determined by that list. These are:
+
+Reduced rate of transaction tax of 5% to goods falling within the following product categories:
+
+Goods of a kind normally intended for use in agricultural production but excluding capital goods such as machinery or buildings; and, until 1 January 2032, supply of chemical pesticides and chemical fertilisers (11).
+Live equines (11a).
+Live plants and other floricultural products, including bulbs, cotton, roots and the like, cut flowers and ornamental foliage (23).
+Children’s clothing and footwear; children’s car seats (24).
+Bicycles, including electric bicycles (25);
+Works of art, collectors’ items and antiques listed in Annex IX, Parts A, B and C of the EU VAT Directive (26).
+Tools and other equipment of a kind normally intended for use in rescue or first aid services when supplied to public bodies or non-profit-making organisations active in civil or community protection (28).
+Super-reduced rate of transaction tax of 0%:
+
+Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs (1).
+Supply of water (2).
+Pharmaceutical products used for medical and veterinary purposes, including products used for contraception and female sanitary protection, and absorbent hygiene products (3).
+Medical equipment, appliances, devices, items, aids and protective gear, including health protection masks, normally intended for use in health care or for the use of the disabled, goods essential to compensate and overcome disability (4).
+Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically, or both, (including brochures, leaflets and similar printed matter, children’s picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music; production of publications of non-profit-making organisations (6).
+Supply of solar panels to be installed on and adjacent to private dwellings, housing and public and other buildings used for activities in the public interest (10c).
+Other exemptions which are spread out in the main body of the EU VAT Directive shall also apply, such as bunkering fuel.
+
+As a specific exemption in the treaty, LNG imported and used for the production of electricity as well as electricity produced in Gibraltar shall be exempted from transaction tax and excise duty.
+
+The independent panel
+
+An independent consultative body will be established by Gibraltar and Spain to assess the effect of the rates on market conditions. Similar bodies exist in the EU, for instance between Germany and Denmark.
+
+This body may, in order to avoid significant actual distortions in Gibraltar or the Campo de Gibraltar, recommend that a higher or lower standard rate of TT should apply to a selection of goods or categories of goods. The higher rate it may recommend would be to such a level as to avoid the distortion caused by the different rate of TT in Gibraltar and VAT in Spain. The lower rate can be up to 2% below the lowest applied by any EU Member State but never below 15% which is the floor set up by the EU VAT Directive.
+
+A safeguard clause may be triggered when there is non-compliance with a recommendation of the independent body where significant distortions persist.
+
+Excise duties rates
+
+ED will apply to tobacco, fuel and alcohol.
+
+The EU minimum excise rates shall apply at the entry into force of the treaty on tobacco and alcohol. A retail price differential mechanism of 0.80 EUR or 15% shall also apply in relation to cigarettes.
+
+No excise duties will be applied to fuel for the first three years of application of the treaty.
+
+After those first three years, all excise goods will be subject to an excise duty rate that can be no lower than 6% from the excise duty rates applied by Spain.
+
+The independent consultative body will play a similar role on excise duties as it does on the TT.
+
+Provisions for exceptional circumstances will exist.
+
+GOODS PRODUCED OR PLACED ON THE MARKET IN GIBRALTAR
+
+As from the date of entry into force of the treaty, all goods produced or placed on the market in Gibraltar will have to comply with EU standards, subject to the transitional arrangements set out by the Government in yesterday’s Technical Notice.
+
+Goods lawfully placed on the market in the EU will be presumed to be compliant with such standards when imported into Gibraltar.
+
+Exemptions shall apply to some food, medicines for human consumption and medical devices. In the latter case only where the devices are imported for entities under the direct responsibility of the GHA and professionals employed by the GHA.
+
+dicines for human consumption and medical devices. In the latter case only where the devices are imported for entities under the direct responsibility of the GHA and professionals employed by the GHA.
+
+The OFT shall be the body responsible for ensuring that these obligations are complied with. Any person applying for a licence to manufacture goods in Gibraltar will be required to comply with the relevant EU rules. This will be a condition attached to the licence.
+
+Personal Allowances
+
+During the first three years, an allowances regime will apply to goods for the personal or family use of travellers, or of goods intended as presents.
+
+In the case of travel by sea or air, the allowances will be for goods the total value of which does not exceed the equivalent of EUR 430 per person.
+
+In the case of land travel, the threshold will be the equivalent of EUR 300 per person.
+
+Quantitative thresholds shall also apply cigarettes, alcohol and fuel.
+
+After the first three years, the allowances system will cease to apply on travel between the EU and Gibraltar. Travellers will be able to take with them any quantity of goods for so long as they can establish, if asked, that they are for personal use.

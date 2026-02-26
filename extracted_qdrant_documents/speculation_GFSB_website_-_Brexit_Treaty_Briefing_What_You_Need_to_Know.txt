@@ -1,0 +1,106 @@
+=== DOCUMENT METADATA ===
+Source Name: GFSB website - Brexit Treaty Briefing: What You Need to Know
+Source Date: 2026-02-04
+Source Link: https://gfsb.gi/brexit-treaty-briefing-what-you-need-to-know/
+Created At:  2026-02-05T11:46:09.626Z
+Qdrant ID:   1770291969174
+Chunks:      2
+========================
+Brexit Treaty Briefing: What You Need to Know
+
+At a briefing for the business community on Wednesday 4 February 2026 at Grand Battery House, the Chief Minister opened by acknowledging both the significance of the moment and the difficulty of the road to get here. Negotiations, he said, had been long, complex and at times tough, but the outcome was a treaty that the Government believes is safe, workable and capable of being recommended to Gibraltar Parliament.
+
+The session focused deliberately on goods. Wider treaty issues, including immigration and residency, were noted but set aside. The priority was explaining how the new customs and goods regime will work in practice and what businesses need to prepare for ahead of the expected entry into force date of 10 April 2026.
+
+The Chief Minister stressed that overnight questions from representative bodies were expected and welcomed, and confirmed that further answers and detail would be shared through follow-up briefings and technical notices.
+
+Where things stand now
+
+Treaty status:
+ A final political agreement was reached on 12 December 2025. While both the UK and EU now have final scrubbed texts, these have not yet been formally joined or published. The EU is expected to circulate its version to Council imminently, at which point it may enter the public domain before formal publication in Gibraltar.
+
+The Government made clear that the text now in place is one it can safely recommend to Parliament. Earlier drafts, including one on 11 December, were not considered acceptable, which is why negotiations continued until agreement was reached.
+
+Timing pressure:
+ The expected treaty start date of 10 April 2026 aligns with the EU Entry and Exit System. While this date has previously been extended in other contexts, the EU has indicated it does not expect further delay. Gibraltar has no ability to lobby for extensions. The Government’s position is that preparation must now assume implementation on 10 April.
+
+Customs union and goods
+
+What is changing:
+ From 10 April, Gibraltar will enter into a customs union arrangement with the EU. This will allow goods to move more freely and remove checks at the land frontier, but it comes with obligations.
+
+Gibraltar will operate within the EU single market for goods, covering a market of around 480 million people. Services are excluded and remain regulated entirely by Gibraltar.
+
+What is not changing:
+ The treaty does not apply to financial services or other services, except where services could distort trade in goods. Gibraltar retains full control of its services sector.
+
+Transitional arrangements
+
+The Government acknowledged that the lead in period is shorter than many businesses would have liked. To ease the transition, several time limited exemptions will apply:
+
+Goods already in transit to Gibraltar before 10 April will benefit from a two month exemption from transaction tax, excise and EU standards.
+Goods already on the market in Gibraltar before 10 April may continue to be sold for three months without needing to comply with EU standards.
+Goods covered by existing duty exemption certificates will be exempt from transaction tax for up to three months.
+Goods in bonded warehouses or temporary storage before 10 April must be discharged within two months to remain under current rules.
+The Government accepted that there will be turbulence, particularly for importers, and confirmed ongoing engagement with larger importers to clarify how specific provisions apply.
+
+Transaction tax explained
+
+What it is:
+ The transaction tax will replace import duty. It is not a sales tax.
+
+Payable when goods are imported into Gibraltar or released from bond.
+Not charged at the point of sale.
+Reclaimable by individuals who buy goods in Gibraltar and export them out of the EU.
+Rates:
+
+15 percent in year one.
+Rising to 17 percent by year three.
+The rate will never be lower than the lowest VAT rate in the EU.
+Reduced 5 percent and zero rates apply, including zero rating for food.
+Bunkering fuel and LNG for electricity generation are exempt.
+Excise duties will apply to alcohol and tobacco in line with EU minimums, with a price differential cap of 15 percent on retail tobacco. No excise will apply to fuel sold at petrol stations during a three year transition period but will be payable after that.
+
+All transaction tax, tariff and excise revenue will remain in Gibraltar.
+
+How goods will move
+
+Imports:
+ Goods from the EU will clear at a Designated Customs Post in Spain such as La Linea or Algeciras. A new T2Gi transit procedure will then move goods into Gibraltar usingr the EU NCTS system. Gibraltar Customs will levy transaction tax when goods are placed on the local market.
+
+Bonded warehousing, inward processing and temporary admission will continue, although time limits will apply.
+
+Direct sea imports from the EU were ruled out to avoid EU customs officers operating in Gibraltar. Clearing goods in Spain avoids that requirement.
+
+Exports:
+ Exports from Gibraltar to the EU will follow a reverse transit process via Designated Customs Posts. Non EU goods may continue to be exported directly by sea.
+
+Standards and oversight
+
+From 10 April, all goods placed on the Gibraltar market must comply with EU standards unless specifically exempted. Goods imported from the EU will benefit from a presumption of compliance.
+
+The Office of Fair Trading will act as the market surveillance authority. Manufacturing licences in Gibraltar will require compliance with relevant EU production rules.
+
+An independent consultative body, jointly appointed by Gibraltar and Spain, will monitor tax rates and trade distortion. It can recommend adjustments but cannot impose them unilaterally.
+
+Personal allowances
+
+For the first three years:
+
+€430 allowance for air and sea travellers.
+€300 allowance for land travellers.
+After that period, personal import limits will be lifted. There will be no new frontier checks. Travellers remain responsible for what they carry.
+
+d sea travellers.
+€300 allowance for land travellers.
+After that period, personal import limits will be lifted. There will be no new frontier checks. Travellers remain responsible for what they carry.
+
+The mood in the room
+
+The tone of the briefing was frank. Ministers were clear that this is a major change, that the lead in period is tight, and that not all sectors will feel the impact equally. At the same time, there was confidence that procedures will feel familiar, that customs processes will be quicker, and that in the longer term the arrangements offer opportunities, particularly for retail and footfall.
+
+The Chief Minister closed by stressing that the objective is continuity. Businesses should be able to trade on 11 April much as they did before, even if the framework around them has changed.
+
+The Government committed to further briefings, further notices and continued engagement as implementation approaches.
+
+ The GFSB remains available to support members with questions or concerns as these changes approach and will continue to engage with Government on your behalf.

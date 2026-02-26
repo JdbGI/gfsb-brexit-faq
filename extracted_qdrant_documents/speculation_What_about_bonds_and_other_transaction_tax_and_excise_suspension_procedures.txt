@@ -1,0 +1,27 @@
+=== DOCUMENT METADATA ===
+Source Name: What about bonds and other transaction tax and excise suspension procedures?
+Source Date: 2026-02-26
+Source Link: https://treaty-gov.info/#Faqs
+Created At:  2026-02-26T14:48:18.462Z
+Qdrant ID:   1772117297490
+Chunks:      1
+========================
+There will be separate regimes for EU goods and non-EU goods.
+
+(a)       EU goods.
+
+EU goods which have been cleared for entry into Gibraltar may be placed in a special procedure. These consist of customs warehouses, inward processing or temporary admission. The effect of placing goods in one of these procedures is that it suspends the levying of the transaction tax and excise duties (where applicable) when those goods arrive in Gibraltar.
+
+EU goods can be kept in these procedures for the following periods:
+
+in a customs warehouse for a period of between 1 to 9 months, save that the lower limit will not apply to ship supplies;
+inward processing and temporary admission for a period of 3 months, which can be extended where justified.
+Gibraltar Customs will be responsible for applying rules based on the relevant EU customs legislation in relation to these three procedures, including granting the relevant authorisations to the warehouses and supervising the operation of the procedures.
+
+(b)       Non-EU goods.
+
+Non-EU goods which have been cleared for entry into Gibraltar may be placed in the same special procedures as for EU goods (customs warehouses, inward processing or temporary admission). But in this case, the actual EU customs legislation shall apply to these procedures. As a result, these procedures will be subject to a dual authorisation and supervision regime: one applying the relevant customs requirements of EU legislation by the designated customs post and the other applying the relevant Gibraltar laws on trading licences and trading authorisations with respect to activities taking place in Gibraltar by Gibraltar Customs and the Office of Fair Trading.
+
+Where a customs warehouse contains both EU and non-EU goods, this regime shall apply.
+
+There is no limit on the time that the non-EU goods may be kept in a customs warehouse (bond). The time limits will also be longer (at least 24 months) for non-EU goods placed under an inward processing or temporary admission procedure.

@@ -1,0 +1,10 @@
+=== DOCUMENT METADATA ===
+Source Name: Exporting from the EU, importing into the EU - all you need to know (European Commission Access2Markets)
+Source Date: N/A
+Source Link: https://trade.ec.europa.eu/access-to-markets/en/home
+Created At:  2026-02-10T13:52:21.049Z
+Qdrant ID:   1770731540686
+Chunks:      1
+========================
+Exporting from the EU, importing into the EU - all you need to know
+Access2Markets allows you to obtain information you need when you trade with third countries, such as on tariffs, taxes, procedures, formalities and requirements, rules of origin, export measures, statistics, trade barriers and much more. It also allows you to access key information needed for trade in services as well as for investment and procurement in 3rd countries. You may also learn about EU trade agreements, how to benefit from them and read stories on successful companies using them. Access2Markets is here to help you and your business for import and export.

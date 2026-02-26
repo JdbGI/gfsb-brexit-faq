@@ -1,0 +1,15 @@
+=== DOCUMENT METADATA ===
+Source Name: What is the role of the EU designated customs post?
+Source Date: 2026-02-26
+Source Link: https://treaty-gov.info/#Faqs
+Created At:  2026-02-26T14:42:16.189Z
+Qdrant ID:   1772116935280
+Chunks:      1
+========================
+It will be responsible for carrying out all customs clearance formalities on goods entering or leaving Gibraltar in line with EU customs law.
+
+In the case of goods coming from outside the EU and only transiting through the EU to Gibraltar, these will consist of all relevant procedures, measures and controls in accordance with EU law (such as customs formalities, conformity with product rules, requirements and standards, prohibitions and restrictions, sanitary and phytosanitary measures as provided for in EU law). In the case of such goods, it will also be responsible for collecting the EU customs duties, on behalf of Gibraltar, that may apply before these goods enter Gibraltar.
+
+In the case of goods that are already in free circulation in the EU, the EU designated customs post will essentially proceed with the relevant procedures and formalities to close the Union transit regime and open the second Gibraltar transit regime for what will be then essentially tax purposes.
+
+The designated customs posts will keep a register containing details of all exports bound for Gibraltar, including reference to the Harmonised System/Combined Nomenclature codes, quantities and value of goods based on an invoice provided by the holder of the transit procedure, the date of acceptance of the transit declaration, the items of charge, the master reference number (T1GI XXX or T2GI XXX), and any other data necessary for the calculation of the transaction tax and the excise duty where applicable. It shall transmit such information on item level to Gibraltar Customs for the calculation of the amount of the transaction tax and excise duty due and to be levied in Gibraltar.

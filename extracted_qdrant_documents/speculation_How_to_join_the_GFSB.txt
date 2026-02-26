@@ -1,0 +1,9 @@
+=== DOCUMENT METADATA ===
+Source Name: How to join the GFSB
+Source Date: 2026-02-09
+Source Link: https://gfsb.gi/join-gfsb/
+Created At:  2026-02-09T08:49:53.288Z
+Qdrant ID:   1770626992332
+Chunks:      1
+========================
+Join the GFSB at https://gfsb.gi/join-gfsb/

@@ -1,0 +1,13 @@
+=== DOCUMENT METADATA ===
+Source Name: What new taxes and duties will apply?
+Source Date: 2026-02-26
+Source Link: https://treaty-gov.info/#Faqs
+Created At:  2026-02-26T14:54:39.478Z
+Qdrant ID:   1772117678777
+Chunks:      1
+========================
+The current import duties regime will cease to apply on the entry into force of the treaty.
+
+Non-EU goods which are to be placed on the market in Gibraltar will be subject to such customs duties as may be due on those goods in accordance with the EU Common External Tariff (see further below).
+
+New rules on a Transaction Tax and Excise Duties will be introduced on all products placed on the market in Gibraltar. The excise duties will apply to tobacco, fuel and alcohol products. These three products will be subject to both the transaction tax and the excise duties.

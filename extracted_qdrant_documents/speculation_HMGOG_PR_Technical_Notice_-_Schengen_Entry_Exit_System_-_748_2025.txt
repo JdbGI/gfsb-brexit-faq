@@ -1,0 +1,36 @@
+=== DOCUMENT METADATA ===
+Source Name: HMGOG PR Technical Notice - Schengen Entry/Exit System - 748/2025
+Source Date: 2025-10-14
+Source Link: https://www.gibraltar.gov.gi/press-releases/technical-notice-schengen-entryexit-system-7482025-11319
+Created At:  2025-12-09T09:07:57.676Z
+Qdrant ID:   1765271277492
+Chunks:      1
+========================
+Technical Notice – Schengen Entry/Exit System
+As of 12 October 2025, the Schengen Entry/Exit System (the “EES”) is being progressively deployed across external borders of the Schengen Area.
+
+The public will be aware that the EES is the Schengen Area’s new digital border management system which records the entry and exit of non-EU citizens at borders shared between Schengen and non-Schengen states. The EES replaces the old system of manual passport stamping (“wet stamping”) with biometric checks.
+
+Further details about the EES and its application can be found in the Government’s Technical Notice published on 23 July 2024, the European Commission’s dedicated EES website, and guidance from the UK Foreign, Commonwealth and Development Office.
+
+Progressive implementation
+The EES is being implemented gradually over a six-month period and will therefore not yet apply at every external border of the Schengen Area. Even where it is being used during this period, the system may initially operate without biometric functionalities. The progressive implementation period will end on 10 April 2026, by which time the EES will be fully operational at all Schengen external borders.
+
+The border between Gibraltar and Spain
+It has been reported that the Spanish authorities will presently not apply the EES at the land border between Gibraltar and Spain, in line with the discretion available to them during the progressive implementation period.
+
+Crossing other Schengen borders
+Travellers crossing other borders between Schengen and non-Schengen states should note that the EES may already be in operation at some locations. Non-EU citizens may therefore be required to register on the system when crossing such borders.
+
+The Spanish Government has indicated that it will begin testing the EES at Madrid’s Barajas–Adolfo Suárez Airport. As the system is rolled out, it will be applied at additional Spanish borders, including airports such as Málaga, for flights to and from non-Schengen destinations (e.g. London, but not Rome or Paris).
+
+Travellers are advised to check before travelling whether the EES is being applied at the border they plan to cross, and to allow for possible delays during the rollout phase.
+
+Future treaty arrangements
+As reflected in the political agreement reached on 11 June 2025 regarding Gibraltar’s future treaty arrangements with the European Union, it is intended that the EES will not apply at the Gibraltar–Spain border, either now or in the future. The proposed arrangements envisage that there will be no routine immigration controls between Gibraltar and Spain or Gibraltar and the wider Schengen Area.
+
+Under these arrangements, persons legally resident in Gibraltar (holders of Gibraltar civilian registration cards, regardless of nationality) and holders of Gibraltar identity cards would be exempt from EES requirements at all Schengen external border crossing points.
+
+HM Government of Gibraltar, together with the UK Government, continues to work towards finalising the legal text of this agreement as soon as possible.
+
+The 29 Schengen states are: Austria, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland.

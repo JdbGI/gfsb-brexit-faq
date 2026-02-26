@@ -1,0 +1,90 @@
+=== DOCUMENT METADATA ===
+Source Name: GFSB: Important Frontier Update
+Source Date: N/A
+Source Link: https://www.gfsb.gi/important-frontier-update/
+Created At:  2025-12-04T14:43:01.822Z
+Qdrant ID:   1764859381370
+Chunks:      2
+========================
+The Government’s new Business Transition Advisory Group, chaired by Minister for Business Gemma Arias-Vasquez, met earlier this week to continue exploring how Gibraltar will adapt to the proposed UK–EU treaty. The meeting followed a previous meeting hosted by the GFSB, where members shared views and raised specific concerns to help inform the Government’s preparations.
+
+The meeting was very useful and informative.  For the first time, HmGoG’s chief negotiator Michael Llamas KC provided details on how the commercial frontier will operate for goods post implementation of the Brexit Agreement.
+
+Who was in the room?  
+
+The GFSB was present together with the Chamber, and representatives from other businesses and organisations. 
+
+Timeline for Treaty Implementation? 
+
+It’s clear that recent reports in the Spanish media present a timeline that is unlikely to be realistic.  There is still no firm timeline but it very much looks like we can look forward to seeing a final Treaty later on this year, a ratification process commencing for the UK, Gibraltar and EU Parliaments shortly after that, and preparatory works and infrastructure being installed throughout 2026.  The second half of 2026 or even early 2027 for entry into force looks like a more realistic scenario. 
+
+What was discussed? This first session of the advisory group focused on how goods will move through the border, the details behind the proposed transaction tax, and how Gibraltar’s own legislation will need to evolve. But the standout concern that continues to surface is how the commercial border will function in practice.
+
+Our top takeaways 
+
+Customs clarity: whilst concerns remain over how the commercial border will function, additional detail as to how the transport regime will operate for imports were provided.  The headline? It appears that our commercial frontier will remain far more similar to what we have today than we previously anticipated post Brexit – something that many members will strongly welcome.
+
+Licensing Regime:  The Gibraltar business licensing regime will be strictly enforced for all businesses trading in Gibraltar and resources will be deployed to ensure that enforcement is effective. 
+
+Tariffs and origin rules matter: There is real concern about the effect that tariffs will have a negative impact on products sourced in the UK, but made in third countries – something that covers a very large number of “UK” products.
+
+Transaction tax phased in: New tax will be introduced in incremental phases by year three, with flexibility based on annual reviews.
+
+Exports:  How, and to what extent, Gibraltar businesses will be able to directly access EU consumers remains unclear. 
+
+How Importing Into Gibraltar Will Work 
+
+Members were updated on the two transit regime that will apply to goods entering Gibraltar from the EU or beyond. This will involve:
+
+A T1 or T2 transit regime from the point of departure of the goods to an EU customs post to be designated in the treaty (likely to be located in Valencia, Algeciras and  La Línea)
+A second “T1 GI” or “T2 GI” transit regime will then cover goods from their departure from that EU customs post until they are cleared by Gibraltar Customs into Gibraltar
+While goods originating in the EU will move with relative ease, the same cannot be said for third-country goods. These will face the greater scrutiny, customs checks and tariffs if they are due. Once cleared in Gibraltar, the transaction tax will apply if the goods are released into the local market.  Bonded stores will remain, and goods entering those stores will not pay the transaction tax. 
+
+The port will continue to operate for imports of EU goods but will have to transit via Algeciras first to be cleared into the EU.  
+
+Phased transaction tax
+
+The new tax will be phased in over three years:
+
+15% in year one
+16% in year two
+17% in year three
+The treaty allows for this rate to be reviewed annually. If no distortion in the Campo Area arising as a direct result of the lower standard rate in Gibraltar compared to that in Spain (where the standard rate of VAT is 21%) is identified, Gibraltar could retain a rate of 15%. However, the final rate must not fall below the lowest VAT rate allowed under the EU VAT Directive (15%).
+
+While this gives some flexibility, many attendees flagged the need for early analysis to identify which sectors are most exposed.
+
+VAT-aligned, locally legislated
+
+Although the transaction tax will be guided by some aspects of the EU VAT Directive, it will not be a VAT but a one off payment, typically to be made on import of the goods are to be placed in the Gibraltar market. It will be implemented through Gibraltar law. This means local exemptions and rates can be adapted within agreed parameters. No policy decision has yet been taken on what goods might be zero rated or reduced to 5% but likely candidates are
+
+A 0% rate is expected for basic goods including food and books;
+A 5% rate may apply to children’s clothes (up to 16 years) and similar goods
+Origin and tariff concerns
+
+Several GFSB members had previously raised concerns about UK goods being taxed twice – once via EU tariffs levied on third countries (i.e. non-EU and non-UK goods) and again via the local transaction tax. This issue was addressed at the meeting. Officials clarified that:
+
+UK-origin goods should enter tariff-free pursuant to the UK–EU Trade and Cooperation Agreement
+But third country goods which only happen to come from the UK, will be subject to whatever EU customs duties are applicable to those goods under the EU’s Common External Tariff
+Proof of origin is essential, especially for complex items like electronics or garments made in multiple countries
+The transaction tax will only apply once goods are cleared into the local market.
+Legal reform and digital systems
+
+especially for complex items like electronics or garments made in multiple countries
+The transaction tax will only apply once goods are cleared into the local market.
+Legal reform and digital systems
+
+The Government confirmed that Gibraltar’s Imports and Exports Act and Customs Tariff will be updated to reflect the new arrangements. This will be done through domestic legislation, without requiring approval from the EU. A new digital system is also being developed to manage customs clearance.
+
+Direct Consumer Access
+
+Details relating to the manner in which Gibraltar based businesses will be able to access consumers in the EU without frontier friction were not revealed.  The GFSB looks forward to learning more about this hugely important area in future meetings. 
+
+So, what happens now?
+
+The Minister confirmed that a final report will be submitted to Cabinet in November. This will help shape the Government’s approach to implementation, legislation, and business support measures.
+
+The GFSB will continue to represent the voice of small businesses and feed into the process. In particular, we will be following up on:
+
+The treatment of re-exported goods
+Sector-specific impact assessments
+The operation of the commercial frontier in real time

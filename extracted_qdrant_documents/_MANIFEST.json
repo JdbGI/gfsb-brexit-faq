@@ -1,0 +1,634 @@
+[
+  {
+    "filename": "speculation_GBC_Viewpoint_Episode_34.txt",
+    "sourceName": "GBC: Viewpoint Episode 34",
+    "sourceDate": "2025-06-12",
+    "sourceLink": "https://www.gbc.gi/tv/programmes/viewpoint/episode/s11-e35",
+    "chunks": 18,
+    "contentLength": 99667
+  },
+  {
+    "filename": "speculation_GFSB_Important_Frontier_Update.txt",
+    "sourceName": "GFSB: Important Frontier Update",
+    "sourceDate": null,
+    "sourceLink": "https://www.gfsb.gi/important-frontier-update/",
+    "chunks": 2,
+    "contentLength": 7071
+  },
+  {
+    "filename": "speculation_S11_E35_-_What_does_Sir_Joe_Bossano_think_of_the_uk-eu_treaty_20.6.25.txt",
+    "sourceName": " S11 E35 - What does Sir Joe Bossano think of the uk-eu treaty 20.6.25",
+    "sourceDate": "2025-06-20",
+    "sourceLink": "https://www.gbc.gi/tv/programmes/viewpoint/episode/s11-e35",
+    "chunks": 9,
+    "contentLength": 50642
+  },
+  {
+    "filename": "speculation_S11_E38_-_Chamber_of_Commerce_Dinner.txt",
+    "sourceName": " S11 E38 - Chamber of Commerce Dinner",
+    "sourceDate": "2025-07-10",
+    "sourceLink": "https://www.gbc.gi/tv/programmes/viewpoint/episode/s11-e38",
+    "chunks": 12,
+    "contentLength": 64852
+  },
+  {
+    "filename": "speculation_GBC_NEWS_No.6_says_facial_recognition_will_strengthen_border_security_over_current_chance-based_checks.txt",
+    "sourceName": "GBC NEWS No.6 says facial recognition will strengthen border security over current chance-based checks",
+    "sourceDate": "2025-11-14",
+    "sourceLink": "https://www.gbc.gi/news/no6-says-facial-recognition-will-strengthen-border-security-over-current-chance-based-checks",
+    "chunks": 1,
+    "contentLength": 2998
+  },
+  {
+    "filename": "speculation_GBC_News_Spain_to_remove_Gibraltar_from_its_black_list_with_Treaty_-_Government_says_no_link_between_both.txt",
+    "sourceName": "GBC News Spain to remove Gibraltar from its black list with Treaty - Government says no link between both",
+    "sourceDate": "2025-11-02",
+    "sourceLink": "https://www.gbc.gi/news/spain-to-remove-gibraltar-from-its-black-list-when-treaty-is-signed",
+    "chunks": 1,
+    "contentLength": 890
+  },
+  {
+    "filename": "speculation_GBC_News_EU_demands_£6_billion_for_UK_EU_Reset;_Gibraltar_Government_says_issue_won't_impact_Treaty.txt",
+    "sourceName": "GBC News EU demands £6 billion for UK/EU Reset; Gibraltar Government says issue won't impact Treaty",
+    "sourceDate": "2025-11-13",
+    "sourceLink": "https://www.gbc.gi/news/eu-demands-ps6-billion-for-ukeu-reset-gibraltar-government-says-issue-wont-impact-treaty",
+    "chunks": 1,
+    "contentLength": 2745
+  },
+  {
+    "filename": "speculation_GBC_News_Doughty_UK_EU_political_agreement_sets_new_course_with_huge_benefits.txt",
+    "sourceName": "GBC News Doughty: UK/EU political agreement sets new course with huge benefits",
+    "sourceDate": "2025-11-19",
+    "sourceLink": "https://www.gbc.gi/news/doughty-ukeu-political-agreement-sets-new-course-with-huge-benefits",
+    "chunks": 1,
+    "contentLength": 1129
+  },
+  {
+    "filename": "speculation_Gibraltar_Chronicle_-_Treaty_drafting_progressing_‘very_positively_and_very_well’_CM_says.txt",
+    "sourceName": "Gibraltar Chronicle - Treaty drafting progressing ‘very positively and very well’ CM says",
+    "sourceDate": "2025-09-09",
+    "sourceLink": "https://www.chronicle.gi/category/brexit/",
+    "chunks": 4,
+    "contentLength": 18186
+  },
+  {
+    "filename": "speculation_2025_06_12_CHRONICLE_Political_deal_‘a_moment_of_progress,_clarity_and_optimism’,_but_all_await_details.txt",
+    "sourceName": "2025 06 12 CHRONICLE Political deal ‘a moment of progress, clarity and optimism’, but all await details",
+    "sourceDate": "2025-06-12",
+    "sourceLink": "https://www.chronicle.gi/category/brexit/",
+    "chunks": 3,
+    "contentLength": 13767
+  },
+  {
+    "filename": "speculation_GBC_Viewpoint_S12_Ep_06_Gibraltar_London_Conference_Fireside_chat_on_the_Treaty_with_Fabian_Picardo_&_Michael_Llamas.txt",
+    "sourceName": "GBC Viewpoint S12 Ep 06 Gibraltar London Conference Fireside chat on the Treaty with Fabian Picardo & Michael Llamas",
+    "sourceDate": "2025-10-23",
+    "sourceLink": "https://www.gbc.gi/tv/programmes/viewpoint/episode/s12-e06",
+    "chunks": 17,
+    "contentLength": 87861
+  },
+  {
+    "filename": "speculation_HMGOG_PR_Prime_Minister_congratulates_Chief_Minister_on_UK-EU_Agreement_-_435_2025.txt",
+    "sourceName": "HMGOG PR Prime Minister congratulates Chief Minister on UK-EU Agreement - 435/2025",
+    "sourceDate": "2025-06-11",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/prime-minister-congratulates-chief-minister-on-uk-eu-agreement-4352025-10962",
+    "chunks": 1,
+    "contentLength": 818
+  },
+  {
+    "filename": "speculation_HMGOG_PR_UK-EU_Gibraltar_Trade_and_Mobility_Agreement_-_434_2025.txt",
+    "sourceName": "HMGOG PR  UK-EU Gibraltar Trade and Mobility Agreement - 434/2025",
+    "sourceDate": "2025-06-11",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/uk-eu-gibraltar-trade-and-mobility-agreement-4342025-10961",
+    "chunks": 1,
+    "contentLength": 3500
+  },
+  {
+    "filename": "speculation_HMGOG_PR_Government_Issues_Technical_Notice_on_Immigration_(EU_Exit)_Regulations_2025_-_914_2025.txt",
+    "sourceName": "HMGOG PR Government Issues Technical Notice on Immigration (EU Exit) Regulations 2025 - 914/2025",
+    "sourceDate": null,
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/government-issues-technical-notice-on-immigration-eu-exit-regulations-2025-9142025-11496",
+    "chunks": 1,
+    "contentLength": 1201
+  },
+  {
+    "filename": "speculation_HMGOG_Technical_Notice_Guidance_Following_the_Publication_of_the_Immigration_(EU_Exit)_Regulations_2025.txt",
+    "sourceName": "HMGOG Technical Notice Guidance Following the Publication of the Immigration (EU Exit) Regulations 2025",
+    "sourceDate": "2025-12-01",
+    "sourceLink": "https://www.gibraltar.gov.gi/uploads/914%20-Technical%20Notice%20-%20Guidance%20Following%20the%20Publication%20of%20the%20Immigration%20(EU%20Exit)%20Regulations%202025.pdf",
+    "chunks": 1,
+    "contentLength": 1444
+  },
+  {
+    "filename": "speculation_HMGOG_PR_CM_Statement_to_Parliament_on_the_treaty_-_465_2025.txt",
+    "sourceName": "HMGOG PR CM Statement to Parliament on the treaty - 465/2025",
+    "sourceDate": "2025-06-23",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/cm-statement-to-parliament-on-the-treaty-4652025-10995",
+    "chunks": 2,
+    "contentLength": 6637
+  },
+  {
+    "filename": "speculation_HMGOG_PR_HM_Government_of_Gibraltar_celebrates_the_success_of_the_new_information_email,_and_will_build_a_Gibraltar_Treaty_FAQ_with_responses_444_2025.txt",
+    "sourceName": "HMGOG PR HM Government of Gibraltar celebrates the success of the new information email, and will build a Gibraltar Treaty FAQ with responses 444/2025",
+    "sourceDate": "2025-06-14",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/hm-government-of-gibraltar-celebrates-the-success-of-the-new-information-email-and-will-build-a-gibraltar-treaty-faq-with-responses-4442025-10974",
+    "chunks": 1,
+    "contentLength": 1188
+  },
+  {
+    "filename": "speculation_HMGOG_PR_New_treaty_will_mean_stability_and_prosperity_Garcia_tells_UK-EU_regions_group_-_870_2025.txt",
+    "sourceName": "HMGOG PR New treaty will mean stability and prosperity Garcia tells UK-EU regions group - 870/2025",
+    "sourceDate": "2025-11-19",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/new-treaty-will-mean-stability-and-prosperity-garcia-tells-uk-eu-regions-group-8702025-11437",
+    "chunks": 1,
+    "contentLength": 2503
+  },
+  {
+    "filename": "speculation_HMGOG_PR_Chief_Minister_Speaks_to_Foreign_Secretary_Ahead_of_UK–Spain_Talks_-_842_2025.txt",
+    "sourceName": "HMGOG PR Chief Minister Speaks to Foreign Secretary Ahead of UK–Spain Talks - 842/2025",
+    "sourceDate": "2025-11-11",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/chief-minister-speaks-to-foreign-secretary-ahead-of-uk-spain-talks-8422025-11421",
+    "chunks": 1,
+    "contentLength": 1072
+  },
+  {
+    "filename": "speculation_HMGOG_PR_Government_response_to_critics_of_the_published_Gibraltarian_Status_Bill_-_812_2025.txt",
+    "sourceName": "HMGOG PR Government response to critics of the published Gibraltarian Status Bill - 812/2025",
+    "sourceDate": "2025-11-04",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/government-response-to-critics-of-the-published-gibraltarian-status-bill-8122025-11386",
+    "chunks": 1,
+    "contentLength": 3461
+  },
+  {
+    "filename": "speculation_HMGOG_PR_Government_publishes_the_Gibraltarian_Status_and_Immigration_(Amendment)_Bill_2025_-_806_2025.txt",
+    "sourceName": "HMGOG PR Government publishes the Gibraltarian Status and Immigration (Amendment) Bill 2025 - 806/2025",
+    "sourceDate": "2025-10-30",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/government-publishes-the-gibraltarian-status-and-immigration-amendment-bill-2025-8062025-11378",
+    "chunks": 1,
+    "contentLength": 2723
+  },
+  {
+    "filename": "speculation_HMGOG_PR_Chief_Minister’s_Evening_Reception_Address_–_Gibraltar_Day_in_London_2025_-_779_2025.txt",
+    "sourceName": "HMGOG PR  Chief Minister’s Evening Reception Address – Gibraltar Day in London 2025 - 779/2025",
+    "sourceDate": "2025-10-21",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/chief-ministers-evening-reception-address-gibraltar-day-in-london-2025-7792025-11351",
+    "chunks": 1,
+    "contentLength": 4022
+  },
+  {
+    "filename": "speculation_HMGOG_PR_Chief_Minister’s_Mansion_House_Address_-_Gibraltar_Day_in_London_2025,_Financial_Services_Lunch_-_775_2025.txt",
+    "sourceName": "HMGOG PR Chief Minister’s Mansion House Address - Gibraltar Day in London 2025, Financial Services Lunch - 775/2025",
+    "sourceDate": "2025-10-21",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/chief-ministers-mansion-house-address-gibraltar-day-in-london-2025-financial-services-lunch-7752025-11347",
+    "chunks": 1,
+    "contentLength": 3305
+  },
+  {
+    "filename": "speculation_HMGOG_PR_Chief_Minister_provides_reassurance_to_business_community_following_residency_pause_-_758_2025.txt",
+    "sourceName": "HMGOG PR Chief Minister provides reassurance to business community following residency pause - 758/2025",
+    "sourceDate": "2025-10-15",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/chief-minister-provides-reassurance-to-business-community-following-residency-pause-7582025-11320",
+    "chunks": 1,
+    "contentLength": 2085
+  },
+  {
+    "filename": "speculation_HMGOG_PR_Chief_Minister’s_Address_to_Parliament_–_Reassurance_for_the_Business_Community_following_Residency_Pause.txt",
+    "sourceName": "HMGOG PR Chief Minister’s Address to Parliament – Reassurance for the Business Community following Residency Pause",
+    "sourceDate": "2025-10-15",
+    "sourceLink": "https://www.gibraltar.gov.gi/uploads/news/October%202025/758.1%20-%20Chief%20Minister%E2%80%99s%20Address%20to%20Parliament%20%E2%80%93%20Reassurance%20for%20the%20Business%20Community%20following%20Residency%20Pause.pdf",
+    "chunks": 1,
+    "contentLength": 3963
+  },
+  {
+    "filename": "speculation_HMGOG_PR_Technical_Notice_-_Schengen_Entry_Exit_System_-_748_2025.txt",
+    "sourceName": "HMGOG PR Technical Notice - Schengen Entry/Exit System - 748/2025",
+    "sourceDate": "2025-10-14",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/technical-notice-schengen-entryexit-system-7482025-11319",
+    "chunks": 1,
+    "contentLength": 3375
+  },
+  {
+    "filename": "speculation_HMGOG_PR_Update_on_Immigration_(EU_Exit)_Regulations_2025_-_729_2025.txt",
+    "sourceName": "HMGOG PR Update on Immigration (EU Exit) Regulations 2025 - 729/2025",
+    "sourceDate": "2025-12-07",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/update-on-immigration-eu-exit-regulations-2025-7292025-11294",
+    "chunks": 1,
+    "contentLength": 1559
+  },
+  {
+    "filename": "speculation_HMGOG_PR_Chief_Minister’s_National_Day_Message_2025_-_656_2025.txt",
+    "sourceName": "HMGOG PR Chief Minister’s National Day Message 2025 - 656/2025",
+    "sourceDate": "2025-09-09",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/chief-ministers-national-day-message-2025-6562025-11211",
+    "chunks": 1,
+    "contentLength": 2510
+  },
+  {
+    "filename": "speculation_HMGOG_PR_Minister_Arias-Vasquez_chairs_first_meeting_of_Business_Transition_Advisory_Group_-_628_2025.txt",
+    "sourceName": "HMGOG PR Minister Arias-Vasquez chairs first meeting of Business Transition Advisory Group - 628/2025",
+    "sourceDate": "2025-09-02",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/minister-arias-vasquez-chairs-first-meeting-of-business-transition-advisory-group-6282025-11183",
+    "chunks": 1,
+    "contentLength": 2315
+  },
+  {
+    "filename": "speculation_HMGOG_PR_Government_aims_to_reply_to_all_treaty_emails_by_1st_September_-_554_2025.txt",
+    "sourceName": "HMGOG PR Government aims to reply to all treaty emails by 1st September - 554/2025",
+    "sourceDate": "2025-07-24",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/government-aims-to-reply-to-all-treaty-emails-by-1st-september-5542025-11096",
+    "chunks": 1,
+    "contentLength": 1754
+  },
+  {
+    "filename": "speculation_HMGOG_PR_Final_Call_for_Questions_on_Treaty_via_Official_Email_Channel_-_470_2025.txt",
+    "sourceName": "HMGOG PR Final Call for Questions on Treaty via Official Email Channel - 470/2025",
+    "sourceDate": "2025-06-25",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/final-call-for-questions-on-treaty-via-official-email-channel-4702025-11000",
+    "chunks": 1,
+    "contentLength": 1696
+  },
+  {
+    "filename": "speculation_HMGOG_PR_Public_Engagement_on_UK-EU_Treaty_Sees_Overwhelming_Response_-_455_2025.txt",
+    "sourceName": "HMGOG PR Public Engagement on UK-EU Treaty Sees Overwhelming Response - 455/2025",
+    "sourceDate": "2025-06-18",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/public-engagement-on-uk-eu-treaty-sees-overwhelming-response-4552025-10984",
+    "chunks": 1,
+    "contentLength": 1047
+  },
+  {
+    "filename": "speculation_HMGOG_PR_HM_Government_of_Gibraltar_celebrates_the_success_of_the_new_information_email,_and_will_build_a_Gibraltar_Treaty_FAQ_with_responses_444_2025.txt",
+    "sourceName": "HMGOG PR HM Government of Gibraltar celebrates the success of the new information email, and will build a Gibraltar Treaty FAQ with responses 444/2025",
+    "sourceDate": "2025-06-14",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/hm-government-of-gibraltar-celebrates-the-success-of-the-new-information-email-and-will-build-a-gibraltar-treaty-faq-with-responses-4442025-10974",
+    "chunks": 1,
+    "contentLength": 1188
+  },
+  {
+    "filename": "speculation_HMGOG_PR_Joint_statement_on_the_negotiations_for_an_EU-UK_Agreement_in_respect_of_Gibraltar_-_433_2025.txt",
+    "sourceName": "HMGOG PR Joint statement on the negotiations for an EU-UK Agreement in respect of Gibraltar - 433/2025",
+    "sourceDate": "2025-06-11",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/joint-statement-on-the-negotiations-for-an-eu-uk-agreement-in-respect-of-gibraltar-4332025-10960",
+    "chunks": 1,
+    "contentLength": 3328
+  },
+  {
+    "filename": "speculation_Gibraltar_Chronicle_Citing_border_experience,_Doughty_says_Gibraltar_deal_will_end_queues_and_benefit_whole_region.txt",
+    "sourceName": "Gibraltar Chronicle Citing border experience, Doughty says Gibraltar deal will end queues and benefit whole region",
+    "sourceDate": "2025-10-29",
+    "sourceLink": "https://www.chronicle.gi/citing-border-experience-doughty-says-gibraltar-deal-will-end-queues-and-benefit-whole-region/",
+    "chunks": 1,
+    "contentLength": 2550
+  },
+  {
+    "filename": "speculation_Gibraltar_Chronicle_Doughty_hails_Gibraltar_deal_as_‘new_course_with_huge_benefits’_for_UK–EU_ties.txt",
+    "sourceName": "Gibraltar Chronicle Doughty hails Gibraltar deal as ‘new course with huge benefits’ for UK–EU ties",
+    "sourceDate": "2025-11-10",
+    "sourceLink": "https://www.chronicle.gi/doughty-hails-gibraltar-deal-as-new-course-with-huge-benefits-for-uk-eu-ties/",
+    "chunks": 1,
+    "contentLength": 3218
+  },
+  {
+    "filename": "speculation_Gibraltar_Chronicle_Treaty_text_progressing_‘with_care_and_determination,_CM_says_as_Cooper_and_Albares_meet_in_London.txt",
+    "sourceName": "Gibraltar Chronicle Treaty text progressing ‘with care and determination, CM says as Cooper and Albares meet in London ",
+    "sourceDate": "2025-11-10",
+    "sourceLink": "https://www.chronicle.gi/treaty-text-progressing-with-care-and-determination-cm-says-as-cooper-and-albares-meet-in-london/",
+    "chunks": 1,
+    "contentLength": 3252
+  },
+  {
+    "filename": "speculation_Gibraltar_Chronicle_CM_says_negotiators_working_to_‘ambitious’_treaty_timeline,_as_Spanish_media_predicts_border_fence_‘torn_down’_by_January.txt",
+    "sourceName": "Gibraltar Chronicle CM says negotiators working to ‘ambitious’ treaty timeline, as Spanish media predicts border fence ‘torn down’ by January",
+    "sourceDate": "2025-08-25",
+    "sourceLink": "https://www.chronicle.gi/cm-says-negotiators-working-to-ambitious-treaty-timeline-as-spanish-media-predicts-border-fence-torn-down-by-january/",
+    "chunks": 2,
+    "contentLength": 7443
+  },
+  {
+    "filename": "speculation_2025_12_10_GFSB_Important_Brexit_Update_No.2.txt",
+    "sourceName": "2025 12 10 GFSB Important Brexit Update No.2 ",
+    "sourceDate": "2025-12-10",
+    "sourceLink": "https://wwwww.gfsb.gi",
+    "chunks": 1,
+    "contentLength": 1519
+  },
+  {
+    "filename": "speculation_Gibraltar_Chronicle_Negotiators_complete_work_on_treaty_text,_European_Commission_confirms.txt",
+    "sourceName": "Gibraltar Chronicle Negotiators complete work on treaty text, European Commission confirms",
+    "sourceDate": "2025-12-17",
+    "sourceLink": "https://www.chronicle.gi/negotiators-complete-work-on-treaty-text-european-commission-confirms/",
+    "chunks": 1,
+    "contentLength": 4062
+  },
+  {
+    "filename": "speculation_GBC_NEWS_UK_Foreign_Sec_does_not_expect_to_see_treaty_delayed_by_McGrail_Inquiry_report.txt",
+    "sourceName": "GBC NEWS UK Foreign Sec does not expect to see treaty delayed by McGrail Inquiry report",
+    "sourceDate": "2025-12-17",
+    "sourceLink": "https://www.youtube.com/watch?v=u4JRrWZ1ixw",
+    "chunks": 1,
+    "contentLength": 2048
+  },
+  {
+    "filename": "speculation_GBC_NEWS_Reassuring'_that_work_underway_on_treaty_arrangements_at_airport,_says_Morton.txt",
+    "sourceName": "GBC NEWS Reassuring' that work underway on treaty arrangements at airport, says Morton",
+    "sourceDate": "2025-12-17",
+    "sourceLink": "https://www.gbc.gi/news/reassuring-that-work-underway-on-treaty-arrangements-at-airport-says-morton",
+    "chunks": 1,
+    "contentLength": 4435
+  },
+  {
+    "filename": "speculation_GBC_News_UK_EU_treaty_Text_complete._Deputy_Chief_Minister_gives_details_of_what_comes_next.txt",
+    "sourceName": "GBC News UK/EU treaty Text complete. Deputy Chief Minister gives details of what comes next",
+    "sourceDate": "2025-12-17",
+    "sourceLink": "https://www.gbc.gi/news/uk-eu-treaty-text-complete-dcm-gives-details",
+    "chunks": 2,
+    "contentLength": 7487
+  },
+  {
+    "filename": "speculation_GBC_NEWS_Treaty_'fantastic_opportunity'_for_business_in_Gibraltar,_says_Minister.txt",
+    "sourceName": "GBC NEWS Treaty 'fantastic opportunity' for business in Gibraltar, says Minister",
+    "sourceDate": "2025-12-19",
+    "sourceLink": "https://www.gbc.gi/news/treaty-fantastic-opportunity-for-business-in-gibraltar-says-minister",
+    "chunks": 1,
+    "contentLength": 704
+  },
+  {
+    "filename": "speculation_Gibraltar_Chronicle_Picardo_tells_Tory_Brexiteers_they_are_‘wrong’_on_Gibraltar_treaty.txt",
+    "sourceName": "Gibraltar Chronicle Picardo tells Tory Brexiteers they are ‘wrong’ on Gibraltar treaty",
+    "sourceDate": "2025-12-19",
+    "sourceLink": "https://www.chronicle.gi/picardo-tells-tory-brexiteers-they-are-wrong-on-gibraltar-treaty/",
+    "chunks": 1,
+    "contentLength": 3096
+  },
+  {
+    "filename": "speculation_2026_02_04_OS_Notes_from_Grand_Battery_House_Treaty_Briefing.txt",
+    "sourceName": "2026 02 04 OS Notes from Grand Battery House Treaty Briefing",
+    "sourceDate": "2026-02-04",
+    "sourceLink": null,
+    "chunks": 3,
+    "contentLength": 14652
+  },
+  {
+    "filename": "speculation_Technical_Notice_-_Basic_Features_of_the_Customs_Union_Between_Gibraltar_and_the_EU_-_72_2026.txt",
+    "sourceName": "Technical Notice - Basic Features of the Customs Union Between Gibraltar and the EU - 72/2026",
+    "sourceDate": "2026-02-04",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/technical-notice-basic-features-of-the-customs-union-between-gibraltar-and-the-eu-722026-11670",
+    "chunks": 3,
+    "contentLength": 13048
+  },
+  {
+    "filename": "speculation_Press_Release_-_Government_Intensify_Treaty_Communication_Campaign_-_71_2026.txt",
+    "sourceName": "Press Release - Government Intensify Treaty Communication Campaign - 71/2026",
+    "sourceDate": "2026-02-04",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/government-intensify-treaty-communication-campaign-712026-11669",
+    "chunks": 1,
+    "contentLength": 2230
+  },
+  {
+    "filename": "speculation_Technical_Notice_-_Business_community_transitional_arrangements_for_goods_under_the_treaty_-_63_2026.txt",
+    "sourceName": "Technical Notice - Business community: transitional arrangements for goods under the treaty - 63/2026",
+    "sourceDate": "2026-02-02",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/technical-notice-business-community-transitional-arrangements-for-goods-under-the-treaty-632026-11659",
+    "chunks": 1,
+    "contentLength": 3852
+  },
+  {
+    "filename": "speculation_Press_Release_-_Minister_for_Tourism_Briefs_Cruise_Sector_on_UK–EU_Treaty_Arrangements_-_61_2026.txt",
+    "sourceName": "Press Release - Minister for Tourism Briefs Cruise Sector on UK–EU Treaty Arrangements - 61/2026",
+    "sourceDate": "2026-02-02",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/minister-for-tourism-briefs-cruise-sector-on-uk-eu-treaty-arrangements-612026-11657",
+    "chunks": 1,
+    "contentLength": 1237
+  },
+  {
+    "filename": "speculation_Press_Release_-_Government_Updates_Key_Stakeholders_on_Treaty_Implementation_-_57_2026.txt",
+    "sourceName": "Press Release - Government Updates Key Stakeholders on Treaty Implementation - 57/2026",
+    "sourceDate": "2026-01-30",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/government-updates-key-stakeholders-on-treaty-implementation-572026-11652",
+    "chunks": 1,
+    "contentLength": 3391
+  },
+  {
+    "filename": "speculation_Press_Release_-_Minister_Arias-Vasquez_chairs_Business_Transition_Advisory_Group_following_conclusion_of_Treaty_negotiations_-_55_2026.txt",
+    "sourceName": "Press Release - Minister Arias-Vasquez chairs Business Transition Advisory Group following conclusion of Treaty negotiations - 55/2026",
+    "sourceDate": "2026-01-29",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/minister-arias-vasquez-chairs-business-transition-advisory-group-following-conclusion-of-treaty-negotiations-552026-11650",
+    "chunks": 1,
+    "contentLength": 2501
+  },
+  {
+    "filename": "speculation_Press_Release_-_Cabinet_consider_textual_and_infrastructure_treaty_matters_-_39_2026.txt",
+    "sourceName": "Press Release - Cabinet consider textual and infrastructure treaty matters - 39/2026",
+    "sourceDate": "2026-01-26",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/cabinet-consider-textual-and-infrastructure-treaty-matters-392026-11634",
+    "chunks": 1,
+    "contentLength": 1749
+  },
+  {
+    "filename": "speculation_Press_Release_-_Cabinet_Gives_Green_Light_to_Treaty_Ratification_-_23_2026.txt",
+    "sourceName": "Press Release - Cabinet Gives Green Light to Treaty Ratification - 23/2026",
+    "sourceDate": "2026-01-19",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/cabinet-gives-green-light-to-treaty-ratification-232026-11610",
+    "chunks": 1,
+    "contentLength": 1852
+  },
+  {
+    "filename": "speculation_GFSB_website_-_Brexit_Treaty_Briefing_What_You_Need_to_Know.txt",
+    "sourceName": "GFSB website - Brexit Treaty Briefing: What You Need to Know",
+    "sourceDate": "2026-02-04",
+    "sourceLink": "https://gfsb.gi/brexit-treaty-briefing-what-you-need-to-know/",
+    "chunks": 2,
+    "contentLength": 7084
+  },
+  {
+    "filename": "speculation_Chamber_of_Commerce_Treaty_Briefing.txt",
+    "sourceName": "Chamber of Commerce Treaty Briefing ",
+    "sourceDate": "2026-02-04",
+    "sourceLink": "https://mcusercontent.com/8ae8b9e9030cb634f774e84cd/files/25e2231f-b560-fa69-64ee-281846c97aaa/Answers_to_Chamber_questions_040226.02.pdf",
+    "chunks": 4,
+    "contentLength": 18271
+  },
+  {
+    "filename": "speculation_How_to_join_the_GFSB.txt",
+    "sourceName": "How to join the GFSB",
+    "sourceDate": "2026-02-09",
+    "sourceLink": "https://gfsb.gi/join-gfsb/",
+    "chunks": 1,
+    "contentLength": 43
+  },
+  {
+    "filename": "speculation_Technical_Notice_Temporary_Allowances_Regime_-_86_2026.txt",
+    "sourceName": "Technical Notice: Temporary Allowances Regime - 86/2026",
+    "sourceDate": "2026-02-09",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/technical-notice-temporary-allowances-regime-862026-11678",
+    "chunks": 1,
+    "contentLength": 1544
+  },
+  {
+    "filename": "speculation_Exporting_from_the_EU,_importing_into_the_EU_-_all_you_need_to_know_(European_Commission_Access2Markets).txt",
+    "sourceName": "Exporting from the EU, importing into the EU - all you need to know (European Commission Access2Markets)",
+    "sourceDate": null,
+    "sourceLink": "https://trade.ec.europa.eu/access-to-markets/en/home",
+    "chunks": 1,
+    "contentLength": 640
+  },
+  {
+    "filename": "speculation_GBC_Viewpoint_Episode_17_'Treaty_Let's_get_doen_to_business'.txt",
+    "sourceName": "GBC: Viewpoint Episode 17 'Treaty: Let's get doen to business'",
+    "sourceDate": "2026-02-05",
+    "sourceLink": "https://www.gbc.gi/tv/programmes/viewpoint/episode/s12-e17",
+    "chunks": 22,
+    "contentLength": 117836
+  },
+  {
+    "filename": "speculation_GBC_Viewpoint_Episode_17_Treaty_Let's_get_down_to_business.txt",
+    "sourceName": "GBC: Viewpoint Episode 17: Treaty: Let's get down to business",
+    "sourceDate": "2026-02-05",
+    "sourceLink": "https://www.gbc.gi/tv/programmes/viewpoint/episode/s12-e17",
+    "chunks": 22,
+    "contentLength": 117904
+  },
+  {
+    "filename": "speculation_Chief_Minister’s_Statement_on_the_Publication_of_the_Draft_Agreement_in_Respect_of_Gibraltar_-_119_2026.txt",
+    "sourceName": "Chief Minister’s Statement on the Publication of the Draft Agreement in Respect of Gibraltar - 119/2026",
+    "sourceDate": "2026-02-26",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/chief-ministers-statement-on-the-publication-of-the-draft-agreement-in-respect-of-gibraltar-1192026-11732",
+    "chunks": 6,
+    "contentLength": 31081
+  },
+  {
+    "filename": "speculation_Chief_Minister’s_Statement_on_the_Publication_of_the_Draft_Agreement_in_Respect_of_Gibraltar_-_119_2026.txt",
+    "sourceName": "Chief Minister’s Statement on the Publication of the Draft Agreement in Respect of Gibraltar - 119/2026",
+    "sourceDate": "2026-02-26",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/chief-ministers-statement-on-the-publication-of-the-draft-agreement-in-respect-of-gibraltar-1192026-11732",
+    "chunks": 6,
+    "contentLength": 31354
+  },
+  {
+    "filename": "speculation_Chief_Minister’s_Statement_on_the_Publication_of_the_Draft_Agreement_in_Respect_of_Gibraltar_-_119_2026.txt",
+    "sourceName": "Chief Minister’s Statement on the Publication of the Draft Agreement in Respect of Gibraltar - 119/2026",
+    "sourceDate": "2026-02-26",
+    "sourceLink": "https://www.gibraltar.gov.gi/press-releases/chief-ministers-statement-on-the-publication-of-the-draft-agreement-in-respect-of-gibraltar-1192026-11732",
+    "chunks": 1,
+    "contentLength": 112
+  },
+  {
+    "filename": "speculation_PART_THREE_ECONOMY_AND_TRADE_(DRAFT_AGREEMENT_IN_RESPECT_OF_GIBRALTAR_BETWEEN_THE_UNITED_KINGDOM_OF_GREAT_BRITAIN_AND_NORTHERN_IRELAND,_OF_THE_ONE_PART,_AND_THE_EUROPEAN_UNION).txt",
+    "sourceName": "PART THREE ECONOMY AND TRADE (DRAFT AGREEMENT IN RESPECT OF GIBRALTAR BETWEEN THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND, OF THE ONE PART, AND THE EUROPEAN UNION)",
+    "sourceDate": "2026-02-26",
+    "sourceLink": "https://treaty-gov.info/",
+    "chunks": 4,
+    "contentLength": 22911
+  },
+  {
+    "filename": "speculation_What_procedures_will_apply_to_import_goods_to_Gibraltar.txt",
+    "sourceName": "What procedures will apply to import goods to Gibraltar?",
+    "sourceDate": "2026-02-26",
+    "sourceLink": "https://treaty-gov.info/#Faqs",
+    "chunks": 1,
+    "contentLength": 1690
+  },
+  {
+    "filename": "speculation_What_is_the_role_of_the_EU_designated_customs_post.txt",
+    "sourceName": "What is the role of the EU designated customs post?",
+    "sourceDate": "2026-02-26",
+    "sourceLink": "https://treaty-gov.info/#Faqs",
+    "chunks": 1,
+    "contentLength": 1675
+  },
+  {
+    "filename": "speculation_Will_the_EU_designated_customs_post_also_carry_out_SPS_clearance_formalities_on_goods_coming_from_outside_the_EU_and_only_transiting_through_the_EU_to_Gibraltar_And_what_about_SPS_goods_that_are_alrea.txt",
+    "sourceName": "Will the EU designated customs post also carry out SPS clearance formalities on goods coming from outside the EU and only transiting through the EU to Gibraltar? And what about SPS goods that are already in free circulation in the EU before entering Gibraltar?",
+    "sourceDate": "2026-02-26",
+    "sourceLink": "https://treaty-gov.info/#Faqs",
+    "chunks": 1,
+    "contentLength": 843
+  },
+  {
+    "filename": "speculation_For_Alegeciras_and_La_Linea_to_be_designated_customs_posts_makes_sense,_but_why_sagunto_and_why_one_in_Portugal.txt",
+    "sourceName": "For Alegeciras and La Linea to be designated customs posts makes sense, but why sagunto and why one in Portugal?",
+    "sourceDate": "2026-02-26",
+    "sourceLink": "https://treaty-gov.info/#Faqs",
+    "chunks": 1,
+    "contentLength": 1025
+  },
+  {
+    "filename": "speculation_What_is_the_role_of_Gibraltar_Customs.txt",
+    "sourceName": "What is the role of Gibraltar Customs?",
+    "sourceDate": "2026-02-26",
+    "sourceLink": "https://treaty-gov.info/#Faqs",
+    "chunks": 1,
+    "contentLength": 673
+  },
+  {
+    "filename": "speculation_What_procedures_will_apply_to_the_export_of_goods_from_Gibraltar.txt",
+    "sourceName": "What procedures will apply to the export of goods from Gibraltar?",
+    "sourceDate": "2026-02-26",
+    "sourceLink": "https://treaty-gov.info/#Faqs",
+    "chunks": 1,
+    "contentLength": 545
+  },
+  {
+    "filename": "speculation_What_is_the_position_with_the_port_and_airport.txt",
+    "sourceName": "What is the position with the port and airport?",
+    "sourceDate": "2026-02-26",
+    "sourceLink": "https://treaty-gov.info/#Faqs",
+    "chunks": 1,
+    "contentLength": 1758
+  },
+  {
+    "filename": "speculation_What_about_bonds_and_other_transaction_tax_and_excise_suspension_procedures.txt",
+    "sourceName": "What about bonds and other transaction tax and excise suspension procedures?",
+    "sourceDate": "2026-02-26",
+    "sourceLink": "https://treaty-gov.info/#Faqs",
+    "chunks": 1,
+    "contentLength": 2013
+  },
+  {
+    "filename": "speculation_Will_the_conditions_for_operating_a_customs_warehouse_differ_from_the_current_ones.txt",
+    "sourceName": "Will the conditions for operating a customs warehouse differ from the current ones?",
+    "sourceDate": "2026-02-26",
+    "sourceLink": "https://treaty-gov.info/#Faqs",
+    "chunks": 1,
+    "contentLength": 779
+  },
+  {
+    "filename": "speculation_How_will_the_work_of_Gibraltar_customs_agents_be_affected.txt",
+    "sourceName": "How will the work of Gibraltar customs agents be affected?",
+    "sourceDate": "2026-02-26",
+    "sourceLink": "https://treaty-gov.info/#Faqs",
+    "chunks": 1,
+    "contentLength": 480
+  },
+  {
+    "filename": "speculation_Will_the_removal_of_all_physical_barriers_at_the_border_mean_that_there_will_no_longer_be_a_Customs_presence_at_Four_Corners.txt",
+    "sourceName": "Will the removal of all physical barriers at the border mean that there will no longer be a Customs presence at Four Corners?",
+    "sourceDate": "2026-02-26",
+    "sourceLink": "https://treaty-gov.info/#Faqs",
+    "chunks": 1,
+    "contentLength": 499
+  },
+  {
+    "filename": "speculation_Specific_Operational_Aspects.txt",
+    "sourceName": "Specific Operational Aspects ",
+    "sourceDate": "2026-02-26",
+    "sourceLink": "https://treaty-gov.info/#Faqs",
+    "chunks": 1,
+    "contentLength": 394
+  },
+  {
+    "filename": "speculation_What_new_taxes_and_duties_will_apply.txt",
+    "sourceName": "What new taxes and duties will apply?",
+    "sourceDate": "2026-02-26",
+    "sourceLink": "https://treaty-gov.info/#Faqs",
+    "chunks": 1,
+    "contentLength": 569
+  },
+  {
+    "filename": "speculation_When_will_they_be_levied.txt",
+    "sourceName": "When will they be levied?",
+    "sourceDate": "2026-02-26",
+    "sourceLink": "https://treaty-gov.info/#Faqs",
+    "chunks": 1,
+    "contentLength": 782
+  }
+]

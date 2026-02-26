@@ -1,0 +1,13 @@
+=== DOCUMENT METADATA ===
+Source Name: When will they be levied?
+Source Date: 2026-02-26
+Source Link: https://treaty-gov.info/#Faqs
+Created At:  2026-02-26T14:55:23.477Z
+Qdrant ID:   1772117723237
+Chunks:      1
+========================
+Customs duties on non-EU goods will be applied and charged at the EU designated customs posts in accordance with the EU Common External Tariff.
+
+The transaction tax and excise duties (where applicable) will be levied upon the importation of the goods into Gibraltar. When the goods are manufactured in Gibraltar, they will be levied when the goods leave the production site. They shall be charged and collected by Gibraltar Customs.
+
+The transaction tax and excise duties will only apply when the goods are to be placed on the Gibraltar market. So, if goods are imported with the aim of being placed in a special customs procedure, the transaction tax and excise duties will only be levied once and if the goods are released from that procedure to be put on the market in Gibraltar.

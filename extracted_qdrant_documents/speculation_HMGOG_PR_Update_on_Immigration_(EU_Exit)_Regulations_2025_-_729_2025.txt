@@ -1,0 +1,19 @@
+=== DOCUMENT METADATA ===
+Source Name: HMGOG PR Update on Immigration (EU Exit) Regulations 2025 - 729/2025
+Source Date: 2025-12-07
+Source Link: https://www.gibraltar.gov.gi/press-releases/update-on-immigration-eu-exit-regulations-2025-7292025-11294
+Created At:  2025-12-09T09:09:14.695Z
+Qdrant ID:   1765271353797
+Chunks:      1
+========================
+HM Government of Gibraltar notes the immediate public response following yesterday’s publication of the Legal Notice introducing a temporary administrative pause on new residence registrations.
+
+The Department of Immigration and Home Affairs (DIHA) has experienced a sharp increase in attendance and enquiries from individuals without valid residence records or with expired documentation, many of whom have not been in contact with the Department for several years.
+
+These measures are designed to strengthen the integrity of Gibraltar’s residence system and ensure that access to services prioritises people with a genuine link or contribution to Gibraltar. The pause only applies to new long-term residency applications with no clear economic or social purpose. They are not intended to affect those legitimately living and working in Gibraltar, contributing to the community and the economy.
+
+HM Government of Gibraltar wishes to reassure long-term residents and workers that their status remains unaffected, provided that their documentation is accurate and current.
+
+Part of the Immigration team are currently engaged in a targeted exercise checking the status of red ID card holders who may have changed address locally but not updated their records with the Department. To date, approximately 50 cards have been cancelled for this reason.
+
+The public is therefore reminded to check that their registration and residence documentation is up to date, and to contact the Department of Immigration and Home Affairs if any updates or renewals are required.

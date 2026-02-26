@@ -1,0 +1,63 @@
+=== DOCUMENT METADATA ===
+Source Name: GBC News EU demands £6 billion for UK/EU Reset; Gibraltar Government says issue won't impact Treaty
+Source Date: 2025-11-13
+Source Link: https://www.gbc.gi/news/eu-demands-ps6-billion-for-ukeu-reset-gibraltar-government-says-issue-wont-impact-treaty
+Created At:  2025-12-06T09:11:05.585Z
+Qdrant ID:   1765012265358
+Chunks:      1
+========================
+In May, the EU and the UK government 
+held their first joint summit since 
+Brexit as part of the so-called reset in 
+relations. This is intended to usher in 
+a new era of cooperation in areas such 
+as food safety, energy, and defense 
+contracts. The agreement is expected to 
+be finalized in the coming months, but 
+British officials are said to be 
+unimpressed with the EU surprise 
+pay-to-play demand of 6 billion pounds. 
+This would be the UK's contribution to 
+EU budgets in return for increased 
+access to European markets. The Times 
+quotes one British official who said the 
+sum is unacceptable and that it 
+outstripped the potential economic 
+benefits of the deal. A government 
+spokesperson told the paper the UK will 
+only agree terms that provide value to 
+the UK and UK industry, while an EU 
+diplomatic source said Britain is the 
+needy party in the talks. In May, the 
+Spanish Foreign Minister Jose Manuel 
+Albares said the relationship between 
+the UK and the EU cannot be complete 
+without an agreement on Gibraltar. 
+However, according to the government, 
+the spat is not expected to have any 
+impact on the Gibraltar treaty. - 
+
+
+The EU is reportedly demanding six billion euros from the UK as the price for resetting its relationship with the EU.
+
+The deal, agreed in May, would usher in a new era of co-operation in areas such as food safety, energy and defence contracts.
+
+However, according to reports in the UK press, British officials are not happy with the proposal.
+
+In answer to GBC questions, the Government said this development will not have any impact on the Gibraltar treaty.
+
+In May, the EU and the UK Government held their first joint summit since Brexit, as part of the so called "Reset" in relations.
+
+This is intended to usher in a new era of co-operation in areas such as food safety, energy and defence contracts.
+
+The agreement is expected to be finalised in the coming months but British officials are said to be unimpressed with the EU's surprise "Pay to Play" demand of six billion pounds.
+
+This would be the UK's contribution to EU budgets in return for increased access to European markets.
+
+The Times quotes one British official who said the sum is "unacceptable" and that it outstripped the potential economic benefits of the deal. 
+
+A Government spokesperson told the paper the UK will only agree terms that provide value to the UK and UK Industry, while an EU diplomatic source said "Britain is the needy party in the talks."
+
+In May, the Spanish Foreign Minister, Jose Manual Albares, said the relationship between the UK and the EU cannot be complete without an agreement on Gibraltar.
+
+However, according to the Government, the spat is not expected to have any impact on the Gibraltar Treaty.

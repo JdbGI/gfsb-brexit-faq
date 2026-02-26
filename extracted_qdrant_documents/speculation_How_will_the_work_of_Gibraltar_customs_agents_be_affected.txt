@@ -1,0 +1,9 @@
+=== DOCUMENT METADATA ===
+Source Name: How will the work of Gibraltar customs agents be affected?
+Source Date: 2026-02-26
+Source Link: https://treaty-gov.info/#Faqs
+Created At:  2026-02-26T14:50:05.521Z
+Qdrant ID:   1772117405360
+Chunks:      1
+========================
+The question of which customs agents will be responsible for the different stages in the transit of goods to Gibraltar, as well as what forms (such as the EAD) and/or electronic transit declarations will be necessary under the new model, is currently being discussed between Gibraltar and Spanish customs authorities. We do not anticipate any significant changes on how Spanish and Gibraltarian customs agents currently operate in relation to the clearance of customs formalities.

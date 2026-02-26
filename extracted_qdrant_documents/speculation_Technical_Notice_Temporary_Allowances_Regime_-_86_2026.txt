@@ -1,0 +1,19 @@
+=== DOCUMENT METADATA ===
+Source Name: Technical Notice: Temporary Allowances Regime - 86/2026
+Source Date: 2026-02-09
+Source Link: https://www.gibraltar.gov.gi/press-releases/technical-notice-temporary-allowances-regime-862026-11678
+Created At:  2026-02-10T08:43:42.125Z
+Qdrant ID:   1770713021974
+Chunks:      1
+========================
+When the treaty enters in force, a duty-free allowances regime will apply to purchases of goods by individuals if they consist exclusively of goods for the personal or family use of travellers, or of goods intended as presents. 
+
+The allowances will be of €430 when travelling by sea or air and of €300 when travelling by land. 
+
+This regime will apply for an initial period of three years in so far as travel between the EU (eg, Spain) and Gibraltar is concerned. It is permanent for travel between Gibraltar and a non-EU country (eg, the UK). Standard quantitative limits shall also apply on tobacco products, alcohol and fuel.
+
+With regard to travel between the EU and Gibraltar, during those initial three years, persons travelling with goods within those thresholds will only pay tax at the place of purchase. If they travel with goods above those thresholds (which they can) they will be able to get a refund of the tax paid at the place of purchase (whether transaction tax or VAT) and then pay the VAT (if going to Spain) or transaction tax (if coming into Gibraltar) on those goods. There will be a counter at the airport where persons travelling with goods above the thresholds can make the relevant declarations. 
+
+At this time, however, there will be no Customs controls at the land frontier.
+
+After the initial period of three years, the allowances regime will disappear altogether, and persons can travel between Gibraltar and the EU with any quantity of goods so long as they can justify that they are for personal use or a gift.

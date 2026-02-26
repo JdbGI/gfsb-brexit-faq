@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import Footer from "@/components/Footer";
 import Image from 'next/image';
 
@@ -9,6 +9,25 @@ export default function Home() {
     const [chatResponse, setChatResponse] = useState(null);
     const [sourcesUsed, setSourcesUsed] = useState([]);
     const [isTyping, setIsTyping] = useState(false);
+    const [showBanner, setShowBanner] = useState(false);
+    const [bannerVisible, setBannerVisible] = useState(false);
+
+    useEffect(() => {
+        const dismissed = localStorage.getItem('treaty-banner-dismissed');
+        if (!dismissed) {
+            setShowBanner(true);
+            const timer = setTimeout(() => setBannerVisible(true), 500);
+            return () => clearTimeout(timer);
+        }
+    }, []);
+
+    const dismissBanner = () => {
+        setBannerVisible(false);
+        setTimeout(() => {
+            setShowBanner(false);
+            localStorage.setItem('treaty-banner-dismissed', 'true');
+        }, 400);
+    };
 
     // Helper function to convert URLs in text to clickable links
     const linkifyText = (text) => {
@@ -60,6 +79,54 @@ export default function Home() {
 
     return (
         <main className="gfsb-grid-container" style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column', overflow: 'auto' }}>
+            {/* Treaty Release Notification Banner */}
+            {showBanner && (
+                <div className="treaty-banner" style={{
+                    gridColumn: 'span 12',
+                    background: 'var(--gfsb-black)',
+                    color: 'var(--gfsb-white)',
+                    padding: '1rem 1.5rem',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    gap: '1rem',
+                    fontFamily: 'var(--font-helvetica)',
+                    fontSize: 'clamp(0.8rem, 2.5vw, 0.95rem)',
+                    textAlign: 'center',
+                    position: 'relative',
+                    transform: bannerVisible ? 'translateY(0)' : 'translateY(-100%)',
+                    opacity: bannerVisible ? 1 : 0,
+                    transition: 'transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.4s ease',
+                    overflow: 'hidden',
+                    flexShrink: 0,
+                }}>
+                    <span style={{ position: 'relative', zIndex: 1 }}>
+                        🔔 <strong>NEW: The UK-EU Treaty on Gibraltar has been published.</strong>{' '}
+                        This tool now lets you search and query the full 1,018-page agreement directly. Ask your first question below.
+                    </span>
+                    <button
+                        onClick={dismissBanner}
+                        aria-label="Dismiss notification"
+                        style={{
+                            background: 'none',
+                            border: '1px solid rgba(255,255,255,0.4)',
+                            color: 'var(--gfsb-white)',
+                            cursor: 'pointer',
+                            fontSize: '1.1rem',
+                            lineHeight: 1,
+                            padding: '0.25rem 0.5rem',
+                            flexShrink: 0,
+                            borderRadius: '2px',
+                            transition: 'background 0.2s',
+                        }}
+                        onMouseEnter={(e) => e.target.style.background = 'rgba(255,255,255,0.15)'}
+                        onMouseLeave={(e) => e.target.style.background = 'none'}
+                    >
+                        ✕
+                    </button>
+                </div>
+            )}
+
             {/* Hero Section */}
             <div className="gfsb-grid-item" style={{ gridColumn: "span 12", padding: "2rem 1rem", borderBottom: "1px solid var(--gfsb-black)", flex: '1', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', position: 'relative' }}>
 
@@ -84,11 +151,11 @@ export default function Home() {
                 </div>
 
                 <h1 style={{ fontSize: 'clamp(1.5rem, 5vw, 3rem)', textTransform: "uppercase", textAlign: 'center', marginBottom: '0.75rem', lineHeight: 1.1 }}>
-                    GFSB Brexit Q&amp;A –<br />Information Centre
+                    GFSB Treaty Q&amp;A –<br />UK-EU Agreement on Gibraltar
                 </h1>
 
                 <p style={{ textAlign: 'center', maxWidth: '600px', marginBottom: '1rem', opacity: 0.8, fontSize: 'clamp(0.85rem, 2.5vw, 1.1rem)', padding: '0 0.5rem' }}>
-                    This AI-powered GFSB Brexit Information Centre lets you ask questions about the Gibraltar-UK-EU Brexit Treaty and negotiations, providing answers based solely on publicly available information. Sources include official Government of Gibraltar press releases, transcripts of interviews and media appearances by HMGOG Ministers and officials, and reporting or statements made by HMGOG Ministers and officials in the press.
+                    The full text of the UK-EU Agreement in respect of Gibraltar has been loaded into this AI-powered tool, broken down article by article across all 1,018 pages. Ask any question and get answers drawn directly from the treaty text — something standard AI chatbots cannot do, as the document is too large for them to process in full. Every answer is sourced and cited to specific articles.
                 </p>
 
                 <form onSubmit={handleHeroSearch} style={{ width: '100%', maxWidth: '600px', display: 'flex', flexDirection: 'column', gap: '0.75rem', padding: '0 0.5rem' }}>
@@ -170,9 +237,6 @@ export default function Home() {
                 )}
 
                 <div style={{ maxWidth: '600px', marginTop: '1.5rem', padding: '0 0.5rem' }}>
-                    <p style={{ fontSize: '0.75rem', color: '#666', marginBottom: '0.5rem' }}>
-                        Brexit information continues to evolve, and the data on which this tool relies will be updated from time to time. You should double-check any answer against the original source material.
-                    </p>
                     <p style={{ fontSize: '0.75rem', color: '#666', marginBottom: '0.5rem' }}>
                         Please note that the answers provided are for general information only and do not constitute legal advice. Users should take care before relying on them.
                     </p>

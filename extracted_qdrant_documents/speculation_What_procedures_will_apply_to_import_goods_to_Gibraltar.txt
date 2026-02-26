@@ -1,0 +1,15 @@
+=== DOCUMENT METADATA ===
+Source Name: What procedures will apply to import goods to Gibraltar?
+Source Date: 2026-02-26
+Source Link: https://treaty-gov.info/#Faqs
+Created At:  2026-02-26T14:41:33.958Z
+Qdrant ID:   1772116893284
+Chunks:      1
+========================
+Subject to some exceptions (discussed below), all goods imported into Gibraltar must be imported by land and undergo customs clearance formalities at an EU customs post designated in the treaty. These are Algeciras, La Linea and Sagunto with an additional post to be designated in Portugal.
+
+Goods will be imported into Gibraltar under two consecutive transit regimes, irrespective of whether goods are being imported from the EU, the UK or any other non-EU country.
+
+The first transit regime will be the standard Union transit regime, involving the “T1” or “T2” codes (depending on whether the goods are non-EU goods, in which case the T1 is used, or whether the goods are EU goods, in which the case the T2 is used. This transit regime will cover the movement of goods within the Union territory and will be closed once all relevant customs clearance formalities are completed at the EU designated customs post.
+
+Once that transit regime is closed, a second transit regime will be opened at that same EU customs post which is the regime that is specific to Gibraltar and covers the movement of goods between the EU designated customs post and Gibraltar. The New Computerised Transit System (NCTS), which is the mandatory electronic system used across the EU and Common Transit Convention countries to manage, control, and monitor the movement of goods under transit, will be used for this applying the new codes “T1GI” (for non-EU goods) or “T2GI” (for EU goods). The formalities for closing that second transit regime will need to be carried out at Gibraltar Customs upon arrival of the goods in Gibraltar, including the levying of the transaction tax and excise duties where applicable.

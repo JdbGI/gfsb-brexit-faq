@@ -1,0 +1,9 @@
+=== DOCUMENT METADATA ===
+Source Name: What is the role of Gibraltar Customs?
+Source Date: 2026-02-26
+Source Link: https://treaty-gov.info/#Faqs
+Created At:  2026-02-26T14:45:22.688Z
+Qdrant ID:   1772117122440
+Chunks:      1
+========================
+HM Customs will be responsible for closing the T1GI and T2GI transit procedures upon the arrival of the goods in Gibraltar and will notify the EU designated customs post that acted as office of departure of the arrival of the goods. HM Customs will also be responsible for levying the transaction tax and excise duties (where applicable) where the goods are to be placed on the Gibraltar market. They will also be responsible for opening the T1GI and T2GI Gibraltar transit for goods exported from Gibraltar. And they will also cooperate with the competent customs authorities within the EU with regard to the verification of compliance with the customs part of the treaty.

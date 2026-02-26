@@ -1,0 +1,9 @@
+=== DOCUMENT METADATA ===
+Source Name: What procedures will apply to the export of goods from Gibraltar?
+Source Date: 2026-02-26
+Source Link: https://treaty-gov.info/#Faqs
+Created At:  2026-02-26T14:45:58.147Z
+Qdrant ID:   1772117156109
+Chunks:      1
+========================
+The goods will have to be presented to Gibraltar Customs who will be responsible for opening their transit to an EU designated customs office using the NCTS applying the T1GI or T2GI codes. That EU designated customs post will then be responsible for transmitting to Gibraltar Customs the information necessary for closing the T1GI or T2GI transit and for completing the formalities necessary either for their transit through the EU to the final destination or the relevant export formalities should those goods have as final destination the EU.

@@ -1,0 +1,282 @@
+=== DOCUMENT METADATA ===
+Source Name: Chamber of Commerce Treaty Briefing 
+Source Date: 2026-02-04
+Source Link: https://mcusercontent.com/8ae8b9e9030cb634f774e84cd/files/25e2231f-b560-fa69-64ee-281846c97aaa/Answers_to_Chamber_questions_040226.02.pdf
+Created At:  2026-02-05T15:29:07.568Z
+Qdrant ID:   1770305346493
+Chunks:      4
+========================
+Chamber of Commerce Treaty Briefing
+Below are the answers received from the Government in response to the questions submitted by the Chamber of Commerce of behalf of its members.
+These were received after the briefing given at Grand Battery House on 4th February 2026
+
+Port
+Will the Port continue to operate as it does currently once the Treaty comes into effect
+on 10th April 2026?
+Certain operations will continue as normal, including in relation to bunkering and ship supplies.
+Other operations will change, including that goods can only be imported into the port if they
+have first been cleared in the Port of Algeciras.
+Will ships spares continue to be able to be imported in transit once the Treaty comes
+into force?
+Yes. The treaty contains specific provisions on ship supplies which protects this industry.
+How will crew changes for merchant ships be affected by the Treaty? What mechanisms
+will be in place and when will the details be made public?
+As is the case today, crew members disembarking in Gibraltar or embarking in Gibraltar will
+be subject to immigration controls. To supplement facilitations already afforded by Schengen
+legislation to crew members, specific arrangements have also been agreed with respect to
+visa exemptions.
+Will there be any restrictions on cruise ships calling at Gibraltar once the Treaty comes
+into effect?
+It will not be possible for cruise ships to arrive in Gibraltar from a non-Schengen/non-UK port.
+Will ship spares and stores sent to Gibraltar from EU / UK be VAT exempt and classed
+as “spares in transit” for duty free delivery to vessels?
+Ship spares will continue to be able to be imported and delivered free of indirect tax.
+Will Gibraltar Immigration / Borders & Coastguard be able to issue Schengen visas?
+No.
+Will Schengen visa requiring nationals such as Filipinos be able to transit Gib via UK
+as per current crew travel arrangements?
+As above.
+If so in the case of potential for a diversion to Malaga will crew be allowed to remain
+onboard?
+Because of the visa exemptions agreed, there should be no need for crew to be returned to
+the UK in case of a diversion to Malaga.
+Will private yachts be able to take duty free fuel?
+Exemptions from VAT and excise which exist under EU law will apply equally to Gibraltar
+transaction tax and Gibraltar excise. These apply to commercial vessels and It is understood
+that there can be circumstances in which private yachts taking on fuel do so in a commercial
+context.
+Will Gibraltar still be considered as being outside the EU for customs and VAT
+purposes for the reset of a yacht’s 18-month EU temporary importation status?
+Gibraltar will not be joining the customs territory of the EU or the EU VAT area. Gibraltar will
+continue to be considered as a third country for all purposes including this one.
+Will all yacht crew be required to be processed in the Schengen shack even if they were
+not planning on coming ashore? Is that the same for any commercial vessels coming
+alongside?
+Derogations exist under Schengen legislation which allow for seafarers and crew to not have
+to be physically processed at border crossing points even if such persons come ashore.
+Will nationals (seafarers with seaman’s discharge book) with no Schengen visa (e.g.
+South Africans) arriving to Gibraltar onboard a yacht be permitted ashore?
+As above.
+
+en if such persons come ashore.
+Will nationals (seafarers with seaman’s discharge book) with no Schengen visa (e.g.
+South Africans) arriving to Gibraltar onboard a yacht be permitted ashore?
+As above.
+
+Customs Procedures
+Will Gibraltar be able to issue transit documents in Gibraltar which will not need to have
+customs agents in La Linea?
+A specific transit regime has been set up to govern how goods will move, in transit, from the
+designated customs posts (including the one in La Linea) to Gibraltar. Transit documents will
+be issued and closed by either the EU customs authorities, or the Gibraltar customs authorities
+depending on whether goods are being imported into Gibraltar or are being exported from
+Gibraltar.
+Will Gibraltar be part of the NCTS transport system?
+Yes.
+Will Gibraltar Customs have access to the NCTS system? If not, why not?
+Yes, Gibraltar will have access to this system.
+What IT systems will be used? Will Gibraltar connect to the UK’s system, the EU’s
+system, or a new Gibraltar-specific platform?
+There will be connectivity between Gibraltar customs IT systems and those of the EU.
+Once the Treaty document is published in full will there also be guidance notes for
+businesses which explain in more detail what measures they need to comply with?
+Absolutely.
+For businesses making purchases of goods in Spain (or elsewhere in the EU) what
+information will Gibraltar businesses need to share with their suppliers (Gib companies
+do not have IVA/VAT numbers but suppliers will not/are unable to fulfil an order without
+this). When will this information be made public?
+Further detailed, technical guidance on procedures will be issued in due course but for now
+we can confirm that goods imported in commercial quantities from Spain or the EU for placing
+on the market in Gibraltar will be able to be purchased EU VAT free.
+Where will the information be published which can be sent to suppliers on what they
+need to do to comply? Will this be in English as well as Spanish?
+We can organise for any guidance to be translated into Spanish although it will also be the
+case that Spanish suppliers will need to work with the Spanish customs authorities to correctly
+implement the customs aspects of the agreement.
+On the Spanish side of the border for goods arriving at Spain what formalities will be
+needed/required.
+Detailed guidance will be provided in due course. But the answer to this question will depend
+on whether the goods arrive from the EU (in which case the formalities will mainly relate to the
+opening of the Gibraltar transit process) or third countries (in which case the formalities will
+relate to those which will need to be carried out in order to release the goods for free
+circulation).
+Will there be Forms of Attestation to confirm that the goods are EU compliant?
+Detailed guidance answering procedure specific questions will be provided in due course.
+Will this include rules and/or guidance on labelling requirements for each product?
+Yes. In terms of labelling requirements, for products imported into Gibraltar, the labelling
+requirements which apply to the manufacturers of those goods under EU law will apply. There
+are then specific rules on labelling which apply to goods which can derogate from the general
+rule on compliance with EU standards, namely: UK medicines for human use, UK medical
+devices for use by the GHA and food that is produced in Gibraltar.
+Can a truck arrive in Gibraltar with goods from EU and non-EU goods?
+Yes. Under the treaty, a truck in the EU can only bring goods into Gibraltar if the goods are
+picked up in the Campo or arriving from the UK.
+At present we raise a T1 from UK port of exit (Folkstone/Dover) via first EU point of
+entry (Calais) and finalising in the last EU point of exit (La Linea Spain):-
+-what will be the new customs procedures for this route inclusive of what
+documentation will be required
+Procedures with respect to how goods transit from the UK port of exit to the EU designated
+customs posts will not change. The only change will be a new transit regime from the EU
+designated customs post to Gibraltar.
+– Will UK guarantees be accepted?
+If they are accepted today they will be accepted in future.
+-how will the VAT and duty regime be applied for goods arriving from the UK ?
+Non-UK origin goods arriving from the UK which are subject to EU customs duties will have
+duties under the EU Common External Tariff applied to them. They will not be subject to VAT
+but will be subject to Gibraltar transaction tax if placed on the market in Gibraltar. Goods which
+are of UK origin will not be subject to customs duties.
+-what will be the difference between goods arriving from the UK - B2B to B2C?
+Guidance will be issued in due course but there should not be much difference in terms of the
+procedures applied to goods arriving in Gibraltar from the UK, regardless of whether these are
+B2B or B2C.
+-Will duties applicable to UK exported goods be required to be paid at La Linea border
+or Gibraltar customs border?
+Customs duties will be collected at the EU designated customs posts. There are procedures
+for these amounts to then be reimbursed to Gibraltar.
+Right now, we have a customs bonded facility at our warehouse whereby such goods
+awaiting payment of import duties are held pending customs clearance. Will this
+process change?
+There are detailed rules on special procedures, including with respect to the operation of
+bonded stores. Generally, transaction tax (and excise duty where applicable) will not be due
+on these goods until they are released from bond to be placed on the market in Gibraltar.
+Ie will the trailers have to wait on the Spanish side until duties are settled, or will there
+be a deferred payment type of system like there exists in the UK?
+For goods placed in special customs procedures (e.g. bonded stores) it will not be necessary
+for goods to be held up until indirect taxes are settled.
+
+yment type of system like there exists in the UK?
+For goods placed in special customs procedures (e.g. bonded stores) it will not be necessary
+for goods to be held up until indirect taxes are settled. They will be able to move into Gibraltar.
+With respect to other goods, goods for which transaction tax is not settled will not remain on
+the Spanish side of the border but it will not be the case that the Gibraltar authorities will be
+able to close the Gibraltar transit (and therefore release the goods in Gibraltar) until transaction
+tax is settled.
+What are the anticipated physical checks at the La Linea/Gibraltar border be for arriving
+UK goods as opposed to arriving EU goods?
+See above.
+Will there be designated lanes for freight?
+Yes.
+Or will the trailers have to go to Algeciras for checks?
+Checks can be carried out an any of the designated customs posts (i.e. also in La Linea) so it
+will not be necessary for trailers to always have to go to Algeciras.
+What Customs checks/formalities will be applied by Spanish Customs for import
+/export cargo and where will the checks take place?
+Detailed guidance with respect to formalities will be provided in due course. Checks will be
+carried out in both the EU designated customs posts and in Gibraltar customs facilities (to, for
+example, check that the goods which have arrived corresponded with those which have been
+declared in transit declarations).
+Can a truck enter/depart GIB with cargo combined from/to EU and non EU destinations?
+Yes. The same conditions as above apply.
+Where and how will checks for EU compliance take place for goods arriving from
+outside the EU?
+Checks for compliance with EU standards will take place at the designated customs posts or,
+for SPS goods, at the first point of entry into the EU.
+Cargo in transit via Spain currently moves under Customs form T1. For cargo departing
+Gibraltar, will the T1 be issued by Gibraltar Customs and will the exporter be required
+to lodge a bank guarantee in case the T1 is not discharged at EU exit point?
+Cargo exported from Gibraltar will move from Gibraltar to the designated customs posts under
+the specific Gibraltar transit regime. With respect to this leg of the movement, the Gibraltar
+customs office will open the transit and issue any relevant documentation. Guarantees will be
+required. EU transit rules will then apply to the second leg of the movement from the
+designated customs post to the EU exit point.
+UK exports to Gibraltar- Pharmaceuticals and Products of animal origin
+What are the anticipated physical checks and documentary controls at the GibraltarSpain (La Linea/Algeciras) for goods to be imported into Gibraltar?
+Detailed guidance will be provided in due course but, for now, to confirm that all goods
+imported into Gibraltar will need to comply with EU standards subject to a number of specific
+derogations applying to UK medical goods, UK medical devices which are for use by the GHA,
+and to military goods.
+What are the new licence, certification and pre-notification requirements for such
+goods inclusive of labelling?
+Specific labelling requirements will apply to UK medical goods and UK medical devices to
+indicate that these goods are derogated goods which are for use in Gibraltar.
+Specific labelling requirements will also apply to foods produced in Gibraltar or food imported
+into Gibraltar (which complies with EU standards) but which is then processed or repacked in
+Gibraltar by retail establishments.
+Will sea freight services (currently being used to transit POAO) from the UK to Gibraltar
+be able to continue?
+Yes, provided these move via Algeciras and the UK POAO is imported into the EU prior to
+being exported to Gibraltar.
+If not, from what date will they cease?
+New processes will commence from the date of entry into force of the agreement.
+Transaction Tax, Excise, Tariffs & Quotas
+When will the new tariff be published by HM Customs setting out the new transaction
+tax for each category? Will this be available online for traders to check?
+This will be published in due course but in time prior to the entry into force of the agreement.
+It will be online for traders to check.
+Will the existing tariff (0,3,6,12%) remain available online during the 2-month transition
+period (10/4/26 – 10/6/26)?
+No. The new transaction tax will generally apply to all goods imported into Gibraltar as from
+the date of entry into force of the agreement. Derogations from the new indirect tax regime will
+apply only in the very limited circumstances, and during the limited time periods, set out in
+HMGoG’s Technical Notice (namely where the movement of the goods starts before the date
+of entry into force of the agreement or where the goods are covered by an extant certificate of
+exemption under Regulation 8, Part 3 of the Integrated Tariff Regulations 2017)
+Will products made outside the EU which have already paid the tariff on entry into the
+EU have to pay the tariff as well as the transaction tax on entry into Gibraltar?
+Customs duties will be paid once at the EU designated customs post. These will not be
+charged, again, by the Gibraltar customs authorities. The Gibraltar customs authorities will
+only levy transaction tax on those goods.
+Might there be methods of deferring payment of the Transaction tax to HM Customs if
+the trader is long established/of good standing? When will this information be
+available?
+Payment of transaction tax will only be suspended if goods are placed in special customs
+procedures.
+Could there be quota system for larger local retailers in respect of preserving the import
+arrangements? e.g. Morrisons etc in order to avoid the possibility of EU market
+distortion as goods are only for domestic (i.e. within Gibraltar) consumption.
+No.
+Will Gibraltar now be subject to the EU quota system, ie.
+
+orrisons etc in order to avoid the possibility of EU market
+distortion as goods are only for domestic (i.e. within Gibraltar) consumption.
+No.
+Will Gibraltar now be subject to the EU quota system, ie. today we procure from our EU
+partners and this does not affect their quota allowance for the goods they import from
+outside the EU (which are subject to quotas) – under the Treaty/post 10th April, will
+Gibraltar’s procurement volume then affect the volume our EU supply partners are
+allowed to import into the EU?
+No.
+In addition to the transactional tax, can you confirm whether the minimum EU excise
+rates will be applied in place of the existing duty rates on beers, wines, spirits and
+HM Customs
+Minimum EU excise duty rates will apply to alcohol products as from the date of entry into
+force of the treaty.
+With these new regulations, is there a risk that the unique British feel of Main Street
+and of Gibraltar will be somewhat diluted?
+We do not consider that this will be the case.
+What is the expected timeline for the UK/EU reset for foodstuffs?
+This is expected in 2027.
+Would it be possible to have dispensation for Gibraltar to retain a degree of Britishness
+for a period of 3 years?
+No.
+Can local wholesalers/retailers use bonded stores in Spain to draw down as and when
+they need and thus avoid having to pay import duty all at once?
+We do not see why Spanish bonded stores would need to be relied upon in circumstances
+where goods placed in special customs procedures, in Gibraltar, will not have to pay
+transaction tax until they are released from bond in order to be placed on the market in
+Gibraltar.
+Can existing resources be re-assigned to clamp down on enforcement of noncompliant/unlicensed/unregistered businesses and to ensure a level playing field is
+maintained?
+This concerns the supply of services in Gibraltar. The agreement does not impose any
+obligations on Gibraltar with respect to the provision of cross border services. Gibraltar can
+therefore regulate the provision of such services in Gibraltar as it deems fit.
+Will the Inspection Force body to check on compliance with EU regulations have
+powers of enforcement and will they be uniformed?
+This will be led by the Gibraltar Office of Fair Trading. Officials will not be uniformed.
+Assistance measures
+When will the detailed, technical guidance manuals for freight forwarders and customs
+brokers be published?
+As soon as possible ahead of entry into force of the agreement.
+Will there be a dedicated helpline or liaison unit for the logistics industry during the
+transition? Currently, HM Customs rarely answer the phone and are very slow to
+respond to email enquiries.
+This is under consideration.
+What training programmes or funding will be available to upskill local customs
+declarants and freight staff?
+This is also under consideration.
+What is the official contingency plan if critical IT systems are not fully operational by
+10th April 2026?
+IT systems should be in place before the date of entry into force of the agreement.
+Are there plans for transitional simplified procedures for the first 3-6 months to avoid border
+chaos?
+There are no transitional arrangements beyond those explained in HMGoG’s Technical Notice.

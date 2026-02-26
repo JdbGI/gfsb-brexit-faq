@@ -1,0 +1,33 @@
+=== DOCUMENT METADATA ===
+Source Name: HMGOG Technical Notice Guidance Following the Publication of the Immigration (EU Exit) Regulations 2025
+Source Date: 2025-12-01
+Source Link: https://www.gibraltar.gov.gi/uploads/914%20-Technical%20Notice%20-%20Guidance%20Following%20the%20Publication%20of%20the%20Immigration%20(EU%20Exit)%20Regulations%202025.pdf
+Created At:  2025-12-09T08:23:11.273Z
+Qdrant ID:   1765268591097
+Chunks:      1
+========================
+Technical Notice: Guidance Following the Publication of the Immigration
+(EU Exit) Regulations 2025
+To whom does this guidance apply?
+This Guidance is aimed at persons who derive rights under any of the following-
+• The EU Withdrawal Agreement
+• The EEA EFTA Separation Agreement
+• The Swiss Citizens’ Rights Agreement
+What is the issue?
+Following the publication of the Immigration (EU Exit) Regulations 2025, and its subsequent
+amendment, the Department of Immigration and Home Affairs wishes to advise that these
+measures do not affect the rights of individuals protected under certain international agreements
+listed above.
+The rights of persons who fall under the scope of those agreements are guaranteed under the
+European Union (Withdrawal) Act 2020, which gives effect to the Citizens’ Rights provisions in
+those Agreements without the need for further domestic implementation.
+Does this Guidance apply to UK citizens and citizens of other nationalities?
+No, this guidance is issued only for EU, EEA EFTA and Swiss citizens. Other nationalities are not
+included in this Guidance.
+Summary
+In summary, the Immigration (EU Exit) Regulations 2025 do not impact the legal protections already
+established for citizens under the above agreements.
+Further information:
+For any queries or further information on immigration matters please contact the Department of
+Immigration and Home Affairs by e-mail to: Immigration.diha@gibraltar.gov.gi
+ENDS

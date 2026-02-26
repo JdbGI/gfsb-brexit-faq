@@ -1,0 +1,21 @@
+=== DOCUMENT METADATA ===
+Source Name: Will the conditions for operating a customs warehouse differ from the current ones?
+Source Date: 2026-02-26
+Source Link: https://treaty-gov.info/#Faqs
+Created At:  2026-02-26T14:49:27.293Z
+Qdrant ID:   1772117366329
+Chunks:      1
+========================
+Yes. With regard to customs warehouses used for non-EU goods or mixed EU and non-EU goods, the EU’s Customs Code will apply and conditions include, but are not limited to:
+
+- Mandatory digital inventory accessible to Spanish and Gibraltar Customs.
+- Full traceability of goods at all times.
+- Clear identification of customs and excise status.
+- Financial/security guarantees required.
+- Strict control over movement and release of goods.
+- Security standards.
+- Immediate reporting of irregularities.
+- Audit and inspection powers.
+
+The conditions with regard to customs warehouses used exclusively for EU goods is a matter for HM Customs but it will be the case that these conditions will be based on the relevant EU customs legislation applied as necessary for tax purposes.
+

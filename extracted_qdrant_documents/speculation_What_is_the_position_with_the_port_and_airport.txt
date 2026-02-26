@@ -1,0 +1,22 @@
+=== DOCUMENT METADATA ===
+Source Name: What is the position with the port and airport?
+Source Date: 2026-02-26
+Source Link: https://treaty-gov.info/#Faqs
+Created At:  2026-02-26T14:47:21.448Z
+Qdrant ID:   1772117240749
+Chunks:      1
+========================
+The basic rule is that all goods will need to be imported and exported by land. This corresponds to what was happening during EU membership, where over 95% of all goods imported into and exported from Gibraltar was by land.
+
+There will be some exceptions, which cover important commodities:
+
+- goods already in free circulation in the EU may be brought into Gibraltar by sea. Such goods will first need to clear customs formalities at the designated customs post in Algeciras and be transported directly to Gibraltar, within a given timeframe, under cover of a T2GI transit procedure. The vessel must be completely unloaded in Gibraltar and this will therefore require a feeder vessel / barge between Gibraltar and Algeciras;
+
+
+- ship supplies (of any origin), which include traditional supplies and spares, as well as bunkering fuel and supplies to aircraft, may be exported by sea or air to non-EU countries after having completed customs clearance formalities at an EU designated customs post but without having to be physically presented there;
+
+- bunkering fuel (of any origin) may be imported by sea after having completed customs clearance formalities at an EU designated customs post but without having to be physically presented there;
+
+- goods may be imported by sea from non-EU countries to be placed under an inward processing or temporary admission procedure in Gibraltar – this will cover, notably, broken/damaged ship supplies;
+
+- goods which had been placed in an inward processing or temporary admission procedure in Gibraltar may be exported by sea as long as their destination is a non-EU country and after having completed customs clearance formalities at an EU designated customs post but without having to be physically presented there.

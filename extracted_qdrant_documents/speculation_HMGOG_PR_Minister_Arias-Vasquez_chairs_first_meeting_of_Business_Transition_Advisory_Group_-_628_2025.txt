@@ -1,0 +1,25 @@
+=== DOCUMENT METADATA ===
+Source Name: HMGOG PR Minister Arias-Vasquez chairs first meeting of Business Transition Advisory Group - 628/2025
+Source Date: 2025-09-02
+Source Link: https://www.gibraltar.gov.gi/press-releases/minister-arias-vasquez-chairs-first-meeting-of-business-transition-advisory-group-6282025-11183
+Created At:  2025-12-09T09:13:21.019Z
+Qdrant ID:   1765271600533
+Chunks:      1
+========================
+The Minister for Business, the Hon Gemma Arias-Vasquez, has this morning chaired the first meeting of the newly established Business Transition Advisory Group, a forum created by the Chief Minister to support Gibraltar’s business community through the upcoming implementation phase of the UK–EU Treaty.
+
+The Group has been set up to ensure that the private sector is not only prepared for the transition, but also fully equipped to take advantage of the new economic landscape. It will focus on key issues such as the proposed Transaction Tax and other transitional matters that may arise.
+
+Bringing together representatives from Gibraltar’s main business organisations, along with the Attorney General and the Government’s CEO of Business, the Group provides a direct line of consultation between the business community and Government.
+
+At the meeting, Minister Arias-Vasquez thanked Attorney General Michael Llamas KC for his detailed briefing and for his continued work on the finalisation of the treaty text. She paid tribute to his critical role in delivering the Treaty itself, noting that his expertise has been instrumental in securing this outcome for Gibraltar.
+
+The Group will report to Cabinet by the end of November 2025, making clear recommendations on how to minimise any potential impact on businesses and ensure Gibraltar remains a competitive and attractive place to operate.
+
+Minister for Business, the Hon Gemma Arias-Vasquez, said:
+
+“I was delighted to chair the first meeting of the Business Transition Advisory Group this morning. The Treaty represents a turning point for Gibraltar, and we must be ready to meet this moment. I would like to extend my thanks to the Attorney General for his briefing today, and for his continuous work at a technical level in delivering the final treaty text.
+
+We are entering a period of real opportunity, but also of significant adjustment. As the Minister for Business it is extremely important to me that our business community feels supported through this transition, not only in navigating change, but in identifying where and how they can grow.
+
+I look forward to reporting on the group’s findings and recommendations to Cabinet in November, and to working closely with stakeholders to ensure that Gibraltar’s business environment continues to thrive.”
