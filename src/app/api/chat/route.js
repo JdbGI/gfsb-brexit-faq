@@ -125,7 +125,7 @@ ${sourcesContext}`
                 },
                 { role: "user", content: message }
             ],
-            model: "gpt-4o-mini",
+            model: "gpt-4.1",
         });
 
         const reply = completion.choices[0].message.content;
